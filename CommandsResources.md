@@ -73,6 +73,15 @@ ___
 - DISCARD CHANGES IN BRANCH
   > git checkout -- <file>...
 
+- File Management
+  - .gitignore (File)<br>
+    >> __pycache__/ (Ignore folder)<br>
+    >> macrolist/*.txt (Ignore file)<br>
+  - .gitkeep (File that keeps folders)
+  
+- Windows Git Shortcut
+[![Window Git Shortcut](https://img.youtube.com/vi/kIgZEdyn1dA/0.jpg)](https://www.youtube.com/watch?v=kIgZEdyn1dA)
+
 <br> <br> <br> <br> <br> <br> <br> <br>
 
 ## VM Window Auto Resize Linux
