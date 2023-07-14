@@ -32,6 +32,7 @@ ___
       >>> git add . (adds modified files)<br>
       >>> git add filename.filetype<br>
       >>> git add -A (adds all changes, what I usually use)<br>
+      
   > git commit -m "comment"<br>
   > git push origin ***branchName***
 
@@ -79,7 +80,7 @@ ___
     >> macrolist/*.txt (Ignore file)<br>
   - .gitkeep (File that keeps folders)
   
-- Windows Git Shortcut
+- Windows Git Shortcut<br>
 [![Window Git Shortcut](https://img.youtube.com/vi/kIgZEdyn1dA/0.jpg)](https://www.youtube.com/watch?v=kIgZEdyn1dA)
 
 <br> <br> <br> <br> <br> <br> <br> <br>
