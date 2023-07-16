@@ -1,114 +1,157 @@
 # Commands & Resources
 List of commands and resources that are personally useful for me.
 
-## Markdown Guide
-https://www.markdownguide.org/basic-syntax#paragraphs-1
+## Table of Contents
+1. [Markdown Guide](#markdown-guide)
+2. [Git Commands](#git-commands)
+3. [Linux Commands](#linux-commands)
+4. [General Application Link Stuff](#general-application-link-stuff)
+5. [Youtube-dl](#youtube-dl)
+6. [Emojis](#emojis)
+
+
 
 <br> <br> <br> <br> <br> <br> <br> <br>
 
+
+
+## Markdown Guide
+https://www.markdownguide.org/basic-syntax#paragraphs-1
+
+
+
+<br> <br> <br> <br> <br> <br> <br> <br>
+
+
+
 ## Git Commands
 - Set Up Git:
-  > git config --global user.name "Your Name"<br>
-  > git config --global user.email "youremail@domain.com"
+
+        git config --global user.name "Your Name"
+        git config --global user.email "youremail@domain.com"
   
 - Saving Commands
-  > git clone ***url*** (makes a local copy of a repository)<br>
-  > git add (file names)<br>
-  > git commit -m "(committed message)<br>
-  > git push -u origin ***master***<br>
-  > git remote add origin ***master*** (url)<br>
-  > git commit<br>
-  > git pull (download the master branch online into your pc)<br>
-  > git push origin ***master***
+
+        git clone ***url*** (makes a local copy of a repository)
+        git add (file names)
+        git commit -m "(committed message)
+        git push -u origin ***master***
+        git remote add origin ***master*** (url)
+        git commit
+        git pull (download the master branch online into your pc)
+        git push origin ***master***
   
 - Other Commands
-  > git init (initialize local repo)<br>
-  > git status<br>
-  > git config --list
+
+        git init (initialize local repo)
+        git status
+        git config --list
 ___
 - Adding To A Repository On Git - (MAIN)
-  > git add (will show differences in code and possible conflicts)<br>
-    >> git add *.java (add a folder without the '/')<br>
-      >>> git add . (adds modified files)<br>
-      >>> git add filename.filetype<br>
-      >>> git add -A (adds all changes, what I usually use)<br>
+
+        git add (will show differences in code and possible conflicts)
+          git add *.java (add a folder without the '/')
+            git add . (adds modified files)
+            git add filename.filetype
+            git add -A (adds all changes, what I usually use)
       
-  > git commit -m "comment"<br>
-  > git push origin ***branchName***
+        git commit -m "comment"
+        git push origin ***branchName***
 
 ___
 - New Branch - used to isolate new features that are being created
-  > git branch (shows total branches, and the one your in)<br>
-  > git checkout ***use-case-001*** (switches to different branches/changes the content of the folder according to branch)<br>
-  > git branch ***use-case-002*** (creates a new branch)
+
+        git branch (shows total branches, and the one your in)
+        git checkout ***use-case-001*** (switches to different branches/changes the content of the folder according to branch)
+        git branch ***use-case-002*** (creates a new branch)
 ___
 - Add Branch
-  > git checkout ***master*** (directly adds feature to master branch)<br>
-    >> git checkout ***use-case-002*** (go here if you want to merge this branch with master, master isn't changed)<br>
-    >> git merge ***master*** (only used if master branch was changed, will merge into master and show differences in code and possible conflicts)<br>
+
+        git checkout ***master*** (directly adds feature to master branch)
+          git checkout ***use-case-002*** (go here if you want to merge this branch with master, master isn't changed)
+          git merge ***master*** (only used if master branch was changed, will merge into master and show differences in code and possible conflicts)
 - *repeat ADDING process, 'git push' shows command below, pushing is done as below*<br>
-  > git push --set-upstream origin ***use-case-002*** (connects this branch to the repository, for the FIRST TIME)<br>
-    >> git push ***use-case-002*** (continuous pushes afterwards)
+
+        git push --set-upstream origin ***use-case-002*** (connects this branch to the repository, for the FIRST TIME)
+          git push ***use-case-002*** (continuous pushes afterwards)
 
 ___
 - Pull New Branch
-  > git branch ***branch_name***<br>
-  > git checkout ***branch_name***<br>
-  > git pull origin ***branch_name***
+
+        git branch ***branch_name***
+        git checkout ***branch_name***
+        git pull origin ***branch_name***
 <p>(might need to add and commit changes)</p>
 
 ___
 - ABORT MERGE
-  > git merge --abort
+
+        git merge --abort
 
 - DELETE BRANCH
-  > git branch -d branch_name
+
+        git branch -d branch_name
 
 - PULL SPECIFIC branch
-  > git fetch origin branch_name:branch_name
+
+        git fetch origin branch_name:branch_name
 
 - GET CHANGES FROM MASTER INTO BRANCH
-  > git checkout branch_name
-  > it merge master
+
+        git checkout branch_name
+        it merge master
 
 - DISCARD CHANGES IN BRANCH
-  > git checkout -- <file>...
+
+        git checkout -- <file>...
 
 - File Management
   - .gitignore (File)<br>
-    >> __pycache__/ (Ignore folder)<br>
-    >> macrolist/*.txt (Ignore file)<br>
+    > __pycache__/ (Ignore folder)<br>
+    > macrolist/*.txt (Ignore file)<br>
   - .gitkeep (File that keeps folders)
   
 - Windows Git Shortcut<br>
-[![Window Git Shortcut](https://img.youtube.com/vi/kIgZEdyn1dA/0.jpg)](https://www.youtube.com/watch?v=kIgZEdyn1dA)
+
+<details> 
+  <summary>Window Git Shortcut</summary>
+  <a href="https://www.youtube.com/watch?v=kIgZEdyn1dA"><img src="https://img.youtube.com/vi/kIgZEdyn1dA/0.jpg" alt="WinGit"></a>
+</details>
+
+
 
 <br> <br> <br> <br> <br> <br> <br> <br>
 
-## VM Window Auto Resize Linux
-  ![Alt text](guestadditions.png)
+
+
+## Linux Commands
+  https://lzone.de/cheat-sheet/DKMS
+
+  https://linuxize.com/post/how-to-use-apt-command/
+
+<details> 
+  <summary>Install Linux Guest Additions</summary>
+  <img src="guestadditions.png" alt="Zorin">
+</details>
+
 - Go to disk and run:
   > sudo ./VBoxLinuxAdditions.run<br>
   > sudo adduser 'user' vboxsf
 
-<br> <br> <br> <br> <br> <br> <br> <br>
 
-  ## Linux Commands
-  https://lzone.de/cheat-sheet/DKMS
 
 <br> <br> <br> <br> <br> <br> <br> <br>
 
-  ## General Application/Link Stuff
+
+
+## General Application Link Stuff
 - Linux
 > gThumb - Image Viewer<br>
 > Drawing - Image Editor<br>
 > Timeshift - OS Backup<br>
 > htop - Process Viewer<br>
-> VLC Player - Video Player<br>
-> Firefox - Web Browser <br>
 > File manager<br>
 > Vim - Text Editor<br>
-> Git - Github
 
 - Windows
 > OBS https://obsproject.com/ <br>
@@ -126,61 +169,96 @@ ___
 > Mp3tag https://www.mp3tag.de/en/ <br>
 > PC Benchmark https://www.userbenchmark.com<br>
 > All info ip can get off you https://ipleak.net/ <br>
+> Wireshark https://www.wireshark.org/ <br>
+> Firefox - Web Browser <br>
+> Image Editor https://www12.lunapic.com/editor/?action=transparent <br>
+> Git - Github
 
 - Personal
-> Anime Image Search https://findit.moe/ <br>
+> https://regexr.com/ <br>
 > Temporary Video Sharing https://streamable.com/ <br>
+> [Discord History](https://github.com/Tyrrrz/DiscordChatExporter/releases) - [Guide](https://www.swipetips.com/how-to-download-your-chat-history-from-discord/) <br>
+> [Discord](https://ptb.discord.com/download)
+
+<details> 
+  <summary>Anime</summary>
+  <a href="https://danbooru.donmai.us/">danbooru</a>
+  <a href="https://gelbooru.com/">gelbooru</a>
+  <a href="https://www.pixiv.net/en/">pixiv</a>
+  <a href="https://github.com/Tsuk1ko/nhentai-helper">Tsuk1ko/nhentai-helper</a>
+</details>
+
+> Image Search https://findit.moe/ <br>
+> Upscaler https://waifu2x.udp.jp/ <br>
+> Manga https://mangadex.org/ <br>
+> DL https://animekaizoku.com/ https://www.animeout.xyz/ https://anidl.org/ <br>
+> Stream https://9anime.nl/ https://animepahe.ru/ https://littleweeb.github.io/ <br>
+> Music https://downloads.khinsider.com/ <br>
+> Sheet Music https://josh.agarrado.net/music/anime/index.php
+
 > Osu replays https://ordr.issou.best/ <br>
-> https://github.com/Tsuk1ko/nhentai-helper <br>
-> Discord History https://github.com/Tyrrrz/DiscordChatExporter/releases https://www.swipetips.com/how-to-download-your-chat-history-from-discord/ <br>
-> https://animekaizoku.com/ <br>
-> https://www.animeout.xyz/ <br>
-> https://anidl.org/ 
+> https://www.gflcorner.com/ <br>
+> [GFL Logistics Calculator](https://tempkaridc.github.io/gf/) <br>
+> [Arknights Aceship's Toolbox](https://aceship.github.io/AN-EN-Tags/index.html) <br>
+> https://escapefromtarkov.gamepedia.com/Escape_from_Tarkov_Wiki <br>
+> https://eftfg.com/ammo  <br>
+> [Steam](https://store.steampowered.com/)
+
+
 
 <br> <br> <br> <br> <br> <br> <br> <br>
+
+
 
 ## Youtube-dl
 - https://youtube-dl.org/ Old/Original
 - https://github.com/yt-dlp/yt-dlp New/Update
 
-> .\youtube-dl.exe --help<br>
-> youtube-dl -F "link" //displays video options to dowload<br>
-> youtube-dl -f "number" "link" //"number" - to select video quality<br>
-> youtube-dl -f bestaudio "link"<br>
-> youtube-dl -f bestvideo "link"
+        .\youtube-dl.exe --help
+        youtube-dl -F "link" //displays video options to dowload
+        youtube-dl -f "number" "link" //"number" - to select video quality
+        youtube-dl -f bestaudio "link"
+        youtube-dl -f bestvideo "link"
 
 - FILE TRIM:
-> ffmpeg -i output1.mp3 -ss 00:00:30 -to 00:00:40 -c copy output.mp3
+
+        ffmpeg -i output1.mp3 -ss 00:00:30 -to 00:00:40 -c copy output.mp3
 
 - FILE CONVERSION:
 > ffmpeg.exe
 
 - BATCH CONVERT
-> for %a in ("*.webp") do ffmpeg -i "%a" "%~na.png"<br>
-> for %a in ("%CD%\*.webp") do ffmpeg -i "%a" "%CD%\%~na.png"<br>
-> for %a in ("Convert\*.webm") do ffmpeg -i "%a" "Converted\%~na.mp3"<br>
-> for %a in ("Convert\*.webp") do ffmpeg -i "%a" "Converted\%~na.png"
+
+        for %a in ("*.webp") do ffmpeg -i "%a" "%~na.png"
+        for %a in ("%CD%\*.webp") do ffmpeg -i "%a" "%CD%\%~na.png"
+        for %a in ("Convert\*.webm") do ffmpeg -i "%a" "Converted\%~na.mp3"
+        for %a in ("Convert\*.webp") do ffmpeg -i "%a" "Converted\%~na.png"
 
 - COMBINE
-> ffmpeg -i "video.mp4" -i "audio.mp3" -map 0:v -map 1:a -c:v copy -c:a copy output.mp4 -y
+
+        ffmpeg -i "video.mp4" -i "audio.mp3" -map 0:v -map 1:a -c:v copy -c:a copy output.mp4 -y
 
 - BATCH COMBINE
-> for %a in ("Combine\*.mp4") do ffmpeg -i "Combine\%~na.mp4" -i "Combine\%~na.mp3" -map 0:v -map 1:a -c:v copy -c:a copy "Combined\%~na.mp4" -y
+
+        for %a in ("Combine\*.mp4") do ffmpeg -i "Combine\%~na.mp4" -i "Combine\%~na.mp3" -map 0:v -map 1:a -c:v copy -c:a copy "Combined\%~na.mp4" -y
 
 - SUBTITLE COMBINE (NOT WORKING CORRECTLY)
-> ffmpeg -i "input.mp4" -i "subtitles.srt" -c:s mov_text -c:v copy -c:a copy output.mp4
+
+        ffmpeg -i "input.mp4" -i "subtitles.srt" -c:s mov_text -c:v copy -c:a copy output.mp4
 
 - BATCH SUBTITLE COMBINE (NOT WORKING CORRECTLY)
-> for %a in ("Combine\*.mp4") do ffmpeg -i "Combine\%~na.mp4" -i "Combine\%~na.srt" -c:s mov_text -c:v copy -c:a copy "Combined\%~na.mp4"
+
+        for %a in ("Combine\*.mp4") do ffmpeg -i "Combine\%~na.mp4" -i "Combine\%~na.srt" -c:s mov_text -c:v copy -c:a copy "Combined\%~na.mp4"
 
 So to add auto-numbering, use -A
 
 - DOWNLOAD FROM TXT
-> youtube-dl -f best -o "%(autonumber)0Nd-%(title)s.%(ext)s" -a GFLSongs.txt --autonumber-start 63 --add-header ""
+
+        youtube-dl -f best -o "%(autonumber)0Nd-%(title)s.%(ext)s" -a GFLSongs.txt --autonumber-start 63 --add-header ""
 
 Use output template with %(autonumber)0Nd, where N in the number of digits instead.
 
->youtube-dl -f best -o "%(autonumber)03d-%(title)s.%(ext)s" -a GFLSongs.txt --autonumber-start 66 --add-header "
+        youtube-dl -f best -o "%(autonumber)03d-%(title)s.%(ext)s" -a GFLSongs.txt --autonumber-start 66 --add-header "
 
 
 ___
@@ -208,5 +286,100 @@ https://captionsconverter.com/<br>
 https://downsub.com/<br>
 Google2SRT
 
+
+
 <br> <br> <br> <br> <br> <br> <br> <br>
 
+
+## Emojis
+- Small<br>
+![](https://cdn.discordapp.com/emojis/1009944658215964692.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/1010727401174609970.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/1009944657129635921.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/1009054288984674384.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/994400877899157535.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/1008951861056917584.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/1008933434690899989.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/1009014557332742164.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/994400996732182638.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/994391665693433957.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/994400901970284574.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/994595815727312987.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/1003541293915459715.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/1003542290498850896.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/996787275566415923.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/1008943280530128969.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/994400797418860644.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/1008943429973196810.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/1009944659398762586.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/1008943445294985350.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/1008943324830367774.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/1020764778723020921.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/1008944349557559297.webp?size=44&quality=lossless)
+![](https://images-ext-2.discordapp.net/external/O3tjk3f17HpkgELKqJ6XSi_zaD-Fbe_C2Ng4MTmG98U/%3Fsize%3D44%26quality%3Dlossless/https/cdn.discordapp.com/emojis/621806265815007253.gif)
+![](https://cdn.discordapp.com/emojis/1008959215940939858.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/1037899706451365959.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/1037899706451365959.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/1037899679532318740.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/1008933567088312360.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/1025597703226400890.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/1026012316988346438.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/878169827951398912.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/966134363974684723.webp?size=44&quality=lossless)
+<br><br>
+- Medium<br>
+![](https://cdn.discordapp.com/emojis/724367095512694825.gif?size=96&quality=lossless)
+![](https://cdn.discordapp.com/emojis/944211230422368338.gif?size=96&quality=lossless)
+![](https://cdn.discordapp.com/emojis/362261098042490880.webp?size=64)
+![](https://cdn.discordapp.com/emojis/907735601976074300.gif?size=64)
+<br><br>
+- Large<br>
+![](https://cdn.discordapp.com/emojis/1008933567088312360.webp?size=96&quality=lossless)
+![](https://cdn.discordapp.com/emojis/1025532028596264970.webp?size=96&quality=lossless)
+![](https://cdn.discordapp.com/emojis/585570082961489930.gif?size=96&quality=lossless)
+![](https://cdn.discordapp.com/emojis/774990963310985226.gif?size=96&quality=lossless)
+![](https://cdn.discordapp.com/emojis/586089930678337537.webp?size=96&quality=lossless)
+![](https://cdn.discordapp.com/emojis/737698266279444522.gif?size=96&quality=lossless)
+![](https://cdn.discordapp.com/emojis/879239220659634257.gif?size=96&quality=lossless)
+![](https://cdn.discordapp.com/emojis/1008933763658559591.gif?size=96&quality=lossless)
+![](https://cdn.discordapp.com/emojis/747680403778699304.webp?size=96&quality=lossless)
+![](https://cdn.discordapp.com/emojis/621806265815007253.gif?size=96&quality=lossless)
+![](https://cdn.discordapp.com/emojis/1009944658215964692.webp?size=96&quality=lossless)
+![](https://cdn.discordapp.com/emojis/725701811499171990.gif?size=96&quality=lossless)
+![](https://cdn.discordapp.com/emojis/1024665531032272976.webp?size=96&quality=lossless)
+![](https://cdn.discordapp.com/emojis/1032083443561005167.webp?size=96&quality=lossless)
+![](https://cdn.discordapp.com/emojis/619630409705193531.webp?size=96&quality=lossless)
+![](https://cdn.discordapp.com/emojis/777074089197568021.webp?size=96&quality=lossless)
+![](https://cdn.discordapp.com/emojis/878169827951398912.webp?size=96&quality=lossless)
+![](https://cdn.discordapp.com/emojis/878169786130006017.webp?size=96&quality=lossless)
+![](https://cdn.discordapp.com/emojis/1008943379377303662.webp?size=96&quality=lossless)
+<br><br>
+- Extra Large<br>
+![](https://cdn.discordapp.com/attachments/1025614305225351168/1119391392939130941/ezgif-4-82e974469a.gif)
+![](https://cdn.discordapp.com/emojis/702810323111116800.gif?v=1)
+![](https://cdn.discordapp.com/attachments/662512876279431168/1015194334720708658/unknown.png)
+![](https://cdn.discordapp.com/attachments/662512876279431168/1007950501813420032/output-onlinepngtools1.png)
+![](https://cdn.discordapp.com/emojis/436660999957774336.webp?size=96&quality=lossless)
+[![](https://media.tenor.com/o0obZG4WdnYAAAAi/rainbow-dance.gif)](https://tenor.com/view/rainbow-dance-neko-sway-discord-gif-18951681)
+
+<details> 
+  <summary>XXLarge</summary>
+  <img src="https://cdn.discordapp.com/attachments/662512876279431168/1122393794134945834/1.png">
+  <img src="https://cdn.discordapp.com/attachments/662512876279431168/1122393794550173806/2.png">
+  <img src="https://cdn.discordapp.com/attachments/662512876279431168/1122393794906697789/image.png">
+  <img src="https://cdn.discordapp.com/attachments/662512876279431168/1122393795217068032/4.png">
+  <img src="https://cdn.discordapp.com/attachments/1037744564796133468/1127503982676410440/image.png">
+  <img src="https://cdn.discordapp.com/attachments/662512876279431168/1130271620674617384/image.png">
+  <img src="https://cdn.discordapp.com/attachments/662512876279431168/1013933817444184174/baef86257e732b51ac56e6b0f967a081a3a741b090b85efea8032b94f7de1edd.jpeg">\
+  <a href="https://tenor.com/view/elaina-nod-gif-25532943"><img src="https://media.tenor.com/lNkVGL4mLDAAAAAC/elaina-nod.gif"></a>
+  <a href="https://tenor.com/view/omori-basil-kiss-gay-gif-25386247"><img src="https://media.tenor.com/0b-eojIy5WoAAAAC/omori-basil.gif"></a>
+  <a href="https://tenor.com/view/wataten-anime-gif-13473080"><img src="https://media.tenor.com/48kR48pMSgMAAAAC/wataten-anime.gif"></a>
+  <img src="https://cdn.discordapp.com/attachments/662512876279431168/1122393796047540234/FntBZwuXwAEXwtL.png">
+</details>
+<br>
+
+[![Love](https://media.tenor.com/QAU2oFvucdcAAAAC/heart.gif)](https://tenor.com/view/heart-gif-18231995)
+
+[![](Img)](Link)
+![](Img)
+<a href=""><img src=""></a>
