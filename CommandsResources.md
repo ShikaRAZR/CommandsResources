@@ -14,15 +14,19 @@ List of commands and resources that are personally useful for me.
 <br> <br> <br> <br> <br> <br> <br> <br>
 
 
+<span style="font-size:12px"><a href="#top">Back to top</a></span>
 
-## Markdown Guide
+## Markdown Guide 
 https://www.markdownguide.org/basic-syntax#paragraphs-1
 
+https://google.github.io/styleguide/docguide/style.html
 
 
 <br> <br> <br> <br> <br> <br> <br> <br>
 
 
+
+<span style="font-size:12px"><a href="#top">Back to top</a></span>
 
 ## Git Commands
 - Set Up Git:
@@ -124,6 +128,8 @@ ___
 
 
 
+<span style="font-size:12px"><a href="#top">Back to top</a></span>
+
 ## Linux Commands
   https://lzone.de/cheat-sheet/DKMS
 
@@ -134,15 +140,19 @@ ___
   <img src="guestadditions.png" alt="Zorin">
 </details>
 
+- Device - Insert Guest Additions CD Image...
 - Go to disk and run:
-  > sudo ./VBoxLinuxAdditions.run<br>
-  > sudo adduser 'user' vboxsf
+
+        sudo ./VBoxLinuxAdditions.run<br>
+        sudo adduser 'user' vboxsf
 
 
 
 <br> <br> <br> <br> <br> <br> <br> <br>
 
 
+
+<span style="font-size:12px"><a href="#top">Back to top</a></span>
 
 ## General Application Link Stuff
 - Linux
@@ -209,6 +219,8 @@ ___
 <br> <br> <br> <br> <br> <br> <br> <br>
 
 
+
+<span style="font-size:12px"><a href="#top">Back to top</a></span>
 
 ## Youtube-dl
 - https://youtube-dl.org/ Old/Original
@@ -290,6 +302,9 @@ Google2SRT
 
 <br> <br> <br> <br> <br> <br> <br> <br>
 
+
+
+<span style="font-size:12px"><a href="#top">Back to top</a></span>
 
 ## Emojis
 - Small<br>
