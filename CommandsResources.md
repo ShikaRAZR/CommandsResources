@@ -196,6 +196,9 @@ ___
   <a href="https://gelbooru.com/">gelbooru</a>
   <a href="https://www.pixiv.net/en/">pixiv</a>
   <a href="https://github.com/Tsuk1ko/nhentai-helper">Tsuk1ko/nhentai-helper</a>
+  <a href="e-hentai.org">e-hentai</a>
+  <a href="https://nhentai.net/">nhentai</a>
+  <a href="https://hanime.tv/">hanime</a>
 </details>
 
 > Image Search https://findit.moe/ <br>
