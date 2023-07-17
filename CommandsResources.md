@@ -368,6 +368,8 @@ Google2SRT
 ![](https://cdn.discordapp.com/emojis/878169827951398912.webp?size=96&quality=lossless)
 ![](https://cdn.discordapp.com/emojis/878169786130006017.webp?size=96&quality=lossless)
 ![](https://cdn.discordapp.com/emojis/1008943379377303662.webp?size=96&quality=lossless)
+![](https://cdn.discordapp.com/emojis/968733546875351050.gif?size=96&quality=lossless)
+![](https://cdn.discordapp.com/attachments/1037744564796133468/1127875535821877278/nekooo.gif)
 <br><br>
 - Extra Large<br>
 ![](https://cdn.discordapp.com/attachments/1025614305225351168/1119391392939130941/ezgif-4-82e974469a.gif)
@@ -376,7 +378,7 @@ Google2SRT
 ![](https://cdn.discordapp.com/attachments/662512876279431168/1007950501813420032/output-onlinepngtools1.png)
 ![](https://cdn.discordapp.com/emojis/436660999957774336.webp?size=96&quality=lossless)
 [![](https://media.tenor.com/o0obZG4WdnYAAAAi/rainbow-dance.gif)](https://tenor.com/view/rainbow-dance-neko-sway-discord-gif-18951681)
-
+<br><br>
 <details> 
   <summary>XXLarge</summary>
   <img src="https://cdn.discordapp.com/attachments/662512876279431168/1122393794134945834/1.png">
