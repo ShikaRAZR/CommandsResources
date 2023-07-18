@@ -373,6 +373,7 @@ Google2SRT
 ![](https://cdn.discordapp.com/emojis/1008943379377303662.webp?size=96&quality=lossless)
 ![](https://cdn.discordapp.com/emojis/968733546875351050.gif?size=96&quality=lossless)
 ![](https://cdn.discordapp.com/attachments/1037744564796133468/1127875535821877278/nekooo.gif)
+![](https://cdn.discordapp.com/emojis/850356405445591080.gif?size=96&quality=lossless)
 <br><br>
 - Extra Large<br>
 ![](https://cdn.discordapp.com/attachments/1025614305225351168/1119391392939130941/ezgif-4-82e974469a.gif)
