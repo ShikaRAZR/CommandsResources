@@ -207,7 +207,7 @@ ___
 > DL https://animekaizoku.com/ https://www.animeout.xyz/ https://anidl.org/ <br>
 > Stream https://9anime.nl/ https://animepahe.ru/ https://littleweeb.github.io/ <br>
 > Music https://downloads.khinsider.com/ <br>
-> Sheet Music https://josh.agarrado.net/music/anime/index.php
+> Sheet Music https://josh.agarrado.net/music/anime/index.php <br>
 > JP https://github.com/yudataguy/Awesome-Japanese#beginner-guide 
 
 > Osu replays https://ordr.issou.best/ <br>
