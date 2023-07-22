@@ -201,13 +201,14 @@ ___
   <a href="https://hanime.tv/">hanime</a>
 </details>
 
-> Image Search https://findit.moe/ <br>
+> Image Search https://findit.moe/ https://iqdb.org/ <br>
 > Upscaler https://waifu2x.udp.jp/ <br>
 > Manga https://mangadex.org/ <br>
 > DL https://animekaizoku.com/ https://www.animeout.xyz/ https://anidl.org/ <br>
 > Stream https://9anime.nl/ https://animepahe.ru/ https://littleweeb.github.io/ <br>
 > Music https://downloads.khinsider.com/ <br>
 > Sheet Music https://josh.agarrado.net/music/anime/index.php
+> JP https://github.com/yudataguy/Awesome-Japanese#beginner-guide 
 
 > Osu replays https://ordr.issou.best/ <br>
 > https://www.gflcorner.com/ <br>
@@ -374,6 +375,7 @@ Google2SRT
 ![](https://cdn.discordapp.com/emojis/968733546875351050.gif?size=96&quality=lossless)
 ![](https://cdn.discordapp.com/attachments/1037744564796133468/1127875535821877278/nekooo.gif)
 ![](https://cdn.discordapp.com/emojis/850356405445591080.gif?size=96&quality=lossless)
+![](https://cdn.discordapp.com/emojis/828643173571231824.webp?size=96&quality=lossless)
 <br><br>
 - Extra Large<br>
 ![](https://cdn.discordapp.com/attachments/1025614305225351168/1119391392939130941/ezgif-4-82e974469a.gif)
