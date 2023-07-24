@@ -203,7 +203,7 @@ ___
 
 > Image Search https://findit.moe/ https://iqdb.org/ <br>
 > Upscaler https://waifu2x.udp.jp/ <br>
-> Manga https://mangadex.org/ <br>
+> Manga https://mangadex.org/ https://j8jp.com/ https://tachiyomi.org/<br>
 > DL https://animekaizoku.com/ https://www.animeout.xyz/ https://anidl.org/ <br>
 > Stream https://9anime.nl/ https://animepahe.ru/ https://littleweeb.github.io/ <br>
 > Music https://downloads.khinsider.com/ <br>
