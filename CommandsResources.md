@@ -208,7 +208,7 @@ ___
 > Stream https://9anime.nl/ https://animepahe.ru/ https://littleweeb.github.io/ <br>
 > Music https://downloads.khinsider.com/ <br>
 > Sheet Music https://josh.agarrado.net/music/anime/index.php <br>
-> JP https://github.com/yudataguy/Awesome-Japanese#beginner-guide 
+> JP https://github.com/yudataguy/Awesome-Japanese#beginner-guide https://www.technologyimprov.com/HiraganaAudioQuiz/
 
 > Osu replays https://ordr.issou.best/ <br>
 > https://www.gflcorner.com/ <br>
