@@ -208,8 +208,8 @@ ___
 > Stream https://9anime.nl/ https://animepahe.ru/ https://littleweeb.github.io/ <br>
 > Music https://downloads.khinsider.com/ <br>
 > Sheet Music https://josh.agarrado.net/music/anime/index.php <br>
-> JP https://github.com/yudataguy/Awesome-Japanese#beginner-guide https://www.technologyimprov.com/HiraganaAudioQuiz/
 
+- Game Stuff
 > Osu replays https://ordr.issou.best/ <br>
 > https://www.gflcorner.com/ <br>
 > [GFL Logistics Calculator](https://tempkaridc.github.io/gf/) <br>
@@ -217,6 +217,15 @@ ___
 > https://escapefromtarkov.gamepedia.com/Escape_from_Tarkov_Wiki <br>
 > https://eftfg.com/ammo  <br>
 > [Steam](https://store.steampowered.com/)
+
+<details> 
+  <summary>JP</summary>
+  <a href="https://github.com/yudataguy/Awesome-Japanese#beginner-guide">General</a> <br>
+  <a href="https://supernative.tv/ja/">Phrases</a> <br>
+  <a href="https://www.technologyimprov.com/HiraganaAudioQuiz">Hiragana Audio Memorize</a> <br>
+  <a href="https://realkana.com/hiragana/">Memorize Kana</a> <br>
+  <a href="https://laits.utexas.edu/japanese/joshu/index.php">Many Resources</a>
+</details>
 
 
 
