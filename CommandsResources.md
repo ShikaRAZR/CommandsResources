@@ -201,7 +201,7 @@ ___
   <a href="https://hanime.tv/">hanime</a>
 </details>
 
-> Image Search https://findit.moe/ https://iqdb.org/ <br>
+> Image Search https://findit.moe/ https://iqdb.org/ https://saucenao.com/<br>
 > Upscaler https://waifu2x.udp.jp/ <br>
 > Manga https://mangadex.org/ https://j8jp.com/ https://tachiyomi.org/<br>
 > DL https://animekaizoku.com/ https://www.animeout.xyz/ https://anidl.org/ <br>
@@ -402,6 +402,7 @@ Google2SRT
   <img src="https://cdn.discordapp.com/attachments/662512876279431168/1122393795217068032/4.png">
   <img src="https://cdn.discordapp.com/attachments/1037744564796133468/1127503982676410440/image.png">
   <img src="https://cdn.discordapp.com/attachments/662512876279431168/1130271620674617384/image.png">
+  <br>
   <img src="https://cdn.discordapp.com/attachments/662512876279431168/1013933817444184174/baef86257e732b51ac56e6b0f967a081a3a741b090b85efea8032b94f7de1edd.jpeg">\
   <a href="https://tenor.com/view/elaina-nod-gif-25532943"><img src="https://media.tenor.com/lNkVGL4mLDAAAAAC/elaina-nod.gif"></a>
   <a href="https://tenor.com/view/omori-basil-kiss-gay-gif-25386247"><img src="https://media.tenor.com/0b-eojIy5WoAAAAC/omori-basil.gif"></a>
