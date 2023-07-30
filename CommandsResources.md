@@ -385,6 +385,12 @@ Google2SRT
 ![](https://cdn.discordapp.com/attachments/1037744564796133468/1127875535821877278/nekooo.gif)
 ![](https://cdn.discordapp.com/emojis/850356405445591080.gif?size=96&quality=lossless)
 ![](https://cdn.discordapp.com/emojis/828643173571231824.webp?size=96&quality=lossless)
+![](https://cdn.discordapp.com/attachments/662512876279431168/805239545930842152/UwuHug.png)
+![](https://cdn.discordapp.com/attachments/662512876279431168/805239639031283763/NeroCry.jpg)
+![](https://cdn.discordapp.com/attachments/662512876279431168/805239640453021766/NeroSmug.jpg)
+![](https://cdn.discordapp.com/attachments/662512876279431168/805239642885849108/156401486598743612.png)
+![](https://cdn.discordapp.com/emojis/602513888378093578.webp?size=96&quality=lossless)
+
 <br><br>
 - Extra Large<br>
 ![](https://cdn.discordapp.com/attachments/1025614305225351168/1119391392939130941/ezgif-4-82e974469a.gif)
