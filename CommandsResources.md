@@ -205,7 +205,7 @@ ___
 > Upscaler https://waifu2x.udp.jp/ <br>
 > Manga https://mangadex.org/ https://j8jp.com/ https://tachiyomi.org/<br>
 > DL https://animekaizoku.com/ https://www.animeout.xyz/ https://anidl.org/ <br>
-> Stream https://9anime.nl/ https://animepahe.ru/ https://littleweeb.github.io/ <br>
+> Stream https://aniwave.to/ https://animepahe.ru/ https://littleweeb.github.io/ <br>
 > Music https://downloads.khinsider.com/ <br>
 > Sheet Music https://josh.agarrado.net/music/anime/index.php <br>
 
