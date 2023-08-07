@@ -199,6 +199,7 @@ ___
   <a href="e-hentai.org">e-hentai</a>
   <a href="https://nhentai.net/">nhentai</a>
   <a href="https://hanime.tv/">hanime</a>
+  mangadex mangalife mangahub
 </details>
 
 > Image Search https://findit.moe/ https://iqdb.org/ https://saucenao.com/<br>
