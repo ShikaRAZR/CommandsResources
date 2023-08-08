@@ -204,7 +204,8 @@ ___
 
 > Image Search https://findit.moe/ https://iqdb.org/ https://saucenao.com/<br>
 > Upscaler https://waifu2x.udp.jp/ <br>
-> Manga https://mangadex.org/ https://j8jp.com/manga/list-mode/ https://welovemanga.one/manga-list.html https://tachiyomi.org/<br>
+> Manga EN https://mangadex.org/ https://tachiyomi.org/<br>
+> Manga JP https://j8jp.com/manga/list-mode/ https://welovemanga.one/manga-list.html https://nicomanga.com/<br>
 > Manga DL 
 [Tachidesk](https://github.com/Suwayomi/Tachidesk-Server#what-is-tachidesk) [Kindle-Comic-Converter-kcc_5.6.2.exe](https://github.com/ciromattia/kcc) 
 [Kindlegen](https://github.com/ciromattia/kcc/issues/371)<br>
