@@ -227,7 +227,7 @@ ___
   <summary>JP</summary>
   <a href="https://github.com/yudataguy/Awesome-Japanese#beginner-guide">General</a> <br>
   <a href="https://supernative.tv/ja/">Phrases</a> <br>
-  <a href="https://www.technologyimprov.com/HiraganaAudioQuiz">Hiragana Audio Memorize</a> <br>
+  <a href="http://www.technologyimprov.com/HiraganaAudioQuiz">Hiragana Audio Memorize</a> <br>
   <a href="https://realkana.com/hiragana/">Memorize Kana</a> <br>
   <a href="https://laits.utexas.edu/japanese/joshu/index.php">Many Resources</a>
 </details>
