@@ -226,10 +226,14 @@ ___
 <details> 
   <summary>JP</summary>
   <a href="https://github.com/yudataguy/Awesome-Japanese#beginner-guide">General</a> <br>
-  <a href="https://supernative.tv/ja/">Phrases</a> <br>
+  <a href="https://supernative.tv/ja/">TV Show Phrases</a> <br>
   <a href="http://www.technologyimprov.com/HiraganaAudioQuiz">Hiragana Audio Memorize</a> <br>
   <a href="https://realkana.com/hiragana/">Memorize Kana</a> <br>
-  <a href="https://laits.utexas.edu/japanese/joshu/index.php">Many Resources</a>
+  <a href="https://laits.utexas.edu/japanese/joshu/index.php">Many Resources</a> <br>
+  <a href="https://www.nhk.or.jp/lesson/en/letters/hiragana.html">Stroke Order</a> <br>
+  <a href="https://ankiweb.net/shared/decks?search=japanese">Anki Decks</a> <br>
+  <a href="https://apps.ankiweb.net/">Anki</a>
+  
 </details>
 
 
