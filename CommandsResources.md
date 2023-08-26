@@ -232,7 +232,8 @@ ___
   <a href="https://laits.utexas.edu/japanese/joshu/index.php">Many Resources</a> <br>
   <a href="https://www.nhk.or.jp/lesson/en/letters/hiragana.html">Stroke Order</a> <br>
   <a href="https://ankiweb.net/shared/decks?search=japanese">Anki Decks</a> <br>
-  <a href="https://apps.ankiweb.net/">Anki</a>
+  <a href="https://apps.ankiweb.net/">Anki</a> <br>
+  <a href="https://animelon.com/">JP Sub Anime</a>
   
 </details>
 
