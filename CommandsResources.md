@@ -209,8 +209,8 @@ ___
 > Manga DL 
 [Tachidesk](https://github.com/Suwayomi/Tachidesk-Server#what-is-tachidesk) [Kindle-Comic-Converter-kcc_5.6.2.exe](https://github.com/ciromattia/kcc) 
 [Kindlegen](https://github.com/ciromattia/kcc/issues/371)<br>
-> Anime DL https://animekaizoku.com/ https://www.animeout.xyz/ https://anidl.org/ <br>
-> Stream https://aniwave.to/ https://animepahe.ru/ https://littleweeb.github.io/ <br>
+> Anime DL https://animekaizoku.com/ https://www.animeout.xyz/ https://anidl.org/ https://kayoanime.com/ https://anidl.org/ https://www.animesenpai4u.com/ https://mkvshows.com/<br>
+> Stream https://aniwave.to/ https://animepahe.ru/ https://littleweeb.github.io/ https://kickassanime.am/<br>
 > Music https://downloads.khinsider.com/ <br>
 > Sheet Music https://josh.agarrado.net/music/anime/index.php <br>
 
