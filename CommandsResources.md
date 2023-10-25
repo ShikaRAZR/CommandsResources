@@ -219,7 +219,7 @@ ___
 > https://www.gflcorner.com/ <br>
 > [GFL Logistics Calculator](https://tempkaridc.github.io/gf/) <br>
 > [Arknights Aceship's Toolbox](https://aceship.github.io/AN-EN-Tags/index.html) <br>
-> https://escapefromtarkov.gamepedia.com/Escape_from_Tarkov_Wiki <br>
+> [Escape From Tarkov Wiki](https://escapefromtarkov.gamepedia.com/Escape_from_Tarkov_Wiki) [Armor](https://tarkov.dev/items/armors) [Ammo](https://www.eft-ammo.com/ammo-graph)<br>
 > https://eftfg.com/ammo  <br>
 > [Steam](https://store.steampowered.com/)
 
