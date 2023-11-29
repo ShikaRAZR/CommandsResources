@@ -365,6 +365,10 @@ Google2SRT
 ![](https://cdn.discordapp.com/emojis/878169827951398912.webp?size=44&quality=lossless)
 ![](https://cdn.discordapp.com/emojis/966134363974684723.webp?size=44&quality=lossless)
 ![](https://cdn.discordapp.com/emojis/1091530607126904922.gif?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/1114557439459737610.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/644684495420653579.webp?size=44&quality=lossless)
+![](https://cdn.discordapp.com/emojis/660821653785280512.webp?size=44&quality=lossless)
+
 <br><br>
 - Medium<br>
 ![](https://cdn.discordapp.com/emojis/724367095512694825.gif?size=96&quality=lossless)
