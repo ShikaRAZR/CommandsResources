@@ -368,7 +368,7 @@ Google2SRT
 ![](https://cdn.discordapp.com/emojis/1114557439459737610.webp?size=44&quality=lossless)
 ![](https://cdn.discordapp.com/emojis/644684495420653579.webp?size=44&quality=lossless)
 ![](https://cdn.discordapp.com/emojis/660821653785280512.webp?size=44&quality=lossless)
-
+![](https://cdn.discordapp.com/emojis/1008933886765563985.gif?size=44&quality=lossless)
 <br><br>
 - Medium<br>
 ![](https://cdn.discordapp.com/emojis/724367095512694825.gif?size=96&quality=lossless)
@@ -406,6 +406,7 @@ Google2SRT
 ![](https://cdn.discordapp.com/attachments/662512876279431168/805239642885849108/156401486598743612.png)
 ![](https://cdn.discordapp.com/emojis/602513888378093578.webp?size=96&quality=lossless)
 ![](https://cdn.discordapp.com/attachments/662512876279431168/1136205234683789362/bbc8cb11a14641daa624ef1cde47bb54NKCy33sotd6wJn4D-0.png)
+![](https://cdn.discordapp.com/emojis/1008933886765563985.gif?size=96&quality=lossless)
 
 <br><br>
 - Extra Large<br>
