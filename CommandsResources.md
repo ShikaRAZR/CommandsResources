@@ -182,7 +182,8 @@ ___
 > Wireshark https://www.wireshark.org/ <br>
 > Firefox - Web Browser <br>
 > Image Editor https://www12.lunapic.com/editor/?action=transparent <br>
-> Git - Github
+> Git - Github <br>
+> LosslessCut https://github.com/mifi/lossless-cut
 
 - Personal
 > https://regexr.com/ <br>
