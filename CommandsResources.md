@@ -183,7 +183,8 @@ ___
 > Firefox - Web Browser <br>
 > Image Editor https://www12.lunapic.com/editor/?action=transparent <br>
 > Git - Github <br>
-> LosslessCut https://github.com/mifi/lossless-cut
+> LosslessCut https://github.com/mifi/lossless-cut <br>
+> Windy Weather Forecast https://www.windy.com
 
 - Personal
 > https://regexr.com/ <br>
