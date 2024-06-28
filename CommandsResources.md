@@ -201,6 +201,8 @@ ___
   <a href="e-hentai.org">e-hentai</a>
   <a href="https://nhentai.net/">nhentai</a>
   <a href="https://hanime.tv/">hanime</a>
+  <a href="https://www.zerochan.net/">zerochan</a>
+  <a href="https://kemono.su/">kemono</a>
   mangadex mangalife mangahub
 </details>
 
