@@ -186,6 +186,14 @@ ___
 > LosslessCut https://github.com/mifi/lossless-cut <br>
 > Windy Weather Forecast https://www.windy.com
 
+- Web browsing
+> [Popup Blocker](https://addons.mozilla.org/en-US/firefox/addon/popup-blocker/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
+> [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
+> [Smart HTTPS](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
+> [The Camelizer - Price Tracker](https://addons.mozilla.org/en-US/firefox/addon/the-camelizer-price-history-ch/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+
+
+
 - Personal
 > https://regexr.com/ <br>
 > Temporary Video Sharing https://streamable.com/ <br>
