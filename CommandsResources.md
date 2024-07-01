@@ -19,6 +19,8 @@ List of commands and resources that are personally useful for me.
 ## Markdown Guide 
 https://www.markdownguide.org/basic-syntax#paragraphs-1
 
+https://www.markdownguide.org/basic-syntax/
+
 https://google.github.io/styleguide/docguide/style.html
 
 
@@ -61,6 +63,10 @@ ___
       
         git commit -m "comment"
         git push origin ***branchName***
+
+
+<details>
+<summary>OTHER</summary>
 
 ___
 - New Branch - used to isolate new features that are being created
@@ -108,6 +114,8 @@ ___
 - DISCARD CHANGES IN BRANCH
 
         git checkout -- <file>...
+</details>
+<br>
 
 - File Management
   - .gitignore (File)<br>
@@ -115,8 +123,6 @@ ___
     > macrolist/*.txt (Ignore file)<br>
   - .gitkeep (File that keeps folders)
   
-- Windows Git Shortcut<br>
-
 <details> 
   <summary>Window Git Shortcut</summary>
   <a href="https://www.youtube.com/watch?v=kIgZEdyn1dA"><img src="https://img.youtube.com/vi/kIgZEdyn1dA/0.jpg" alt="WinGit"></a>
@@ -145,6 +151,32 @@ ___
 
         sudo ./VBoxLinuxAdditions.run<br>
         sudo adduser 'user' vboxsf
+
+<details> 
+  <summary>View Installed Packages (In date order)</summary>
+
+  - ls -1t - get all dpkg.log* file names in chronological order
+  - zcat -f - IF file is of gzip type then decompress it, ELSE just pass on the content.
+  - tac - Reverse output of cat, line-by-line to makes sure we get the correct chronological order.
+  - grep - Only check for installed or upgrade packages.
+  - awk -F ':a' - Separate the architecture field from the package name
+  - column -t - pretty print the columns separated by space
+  - As shown above, it only works on ARM architecture and need slight modification for the architecture field separator 
+</details>
+
+        for x in $(ls -1t /var/log/dpkg.log*); do zcat -f $x |tac |grep -e " install " -e " upgrade "; done |awk -F ":a" '{print $1 " :a" $2}' |column -t
+
+<details>
+  <summary>APT vs DPKG</summary>
+
+  - APT Uses dpkg to Install Packages
+  - APT Can Download Packages from remote repositories
+  - Dpkg Won't Install Dependencies
+  - Dpkg Indexes Local Packages Only
+
+        apt list --installed
+        dpkg -l > apps.txt (sends to txt in home dir)
+</details>
 
 
 
