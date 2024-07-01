@@ -247,6 +247,7 @@ ___
   mangadex mangalife mangahub
 </details>
 
+> My Anime List https://myanimelist.net/<br>
 > Image Search https://findit.moe/ https://iqdb.org/ https://saucenao.com/<br>
 > Upscaler https://waifu2x.udp.jp/ <br>
 > Manga EN https://mangadex.org/ https://tachiyomi.org/<br>
