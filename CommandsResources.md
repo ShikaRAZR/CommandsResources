@@ -167,15 +167,20 @@ ___
         for x in $(ls -1t /var/log/dpkg.log*); do zcat -f $x |tac |grep -e " install " -e " upgrade "; done |awk -F ":a" '{print $1 " :a" $2}' |column -t
 
 <details>
-  <summary>APT vs DPKG</summary>
+  <summary>APT vs DPKG vs Flatpak</summary>
 
   - APT Uses dpkg to Install Packages
   - APT Can Download Packages from remote repositories
+  - APT is the native package manager on Debian-based systems. It installs files to your root file system (e.g. /usr/bin/pdflatex)
   - Dpkg Won't Install Dependencies
   - Dpkg Indexes Local Packages Only
+  - Flatpak places configuration and data files in ~/.var, doesnt conform to XDG base directory specification
+  - Flatpak isolates and sandboxes programs, a distribution-agnostic package format
 
         apt list --installed
         dpkg -l > apps.txt (sends to txt in home dir)
+        apt-cache search <search term>
+        apt-cache pkgnames <search_term>
 </details>
 
 
