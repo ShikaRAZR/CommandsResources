@@ -199,8 +199,29 @@ ___
 > htop - Process Viewer<br>
 > File manager<br>
 > Vim - Text Editor<br>
+> vscodium<br>
+> Discord
 
-- Windows
+<details> 
+  <summary>Linux Mint Custom</summary>
+
+- Favorites: 
+  - Extensions
+  - Themes
+- Panel:
+  - System monitor
+  - Files
+  - Firefox
+  - Terminal
+  - Software Manager
+  - System Setting
+  - Update Manager
+- Extensions
+  - Transparent Panel
+  - gTiles
+</details><br>
+
+- Windows Applications
 > OBS https://obsproject.com/ <br>
 > ffmpeg https://ffmpeg.org/ <br>
 > youtube-dl https://github.com/yt-dlp/yt-dlp <br>
@@ -221,6 +242,7 @@ ___
 > Image Editor https://www12.lunapic.com/editor/?action=transparent <br>
 > Git - Github <br>
 > LosslessCut https://github.com/mifi/lossless-cut <br>
+> [Discord](https://ptb.discord.com/download) <br>
 > Windy Weather Forecast https://www.windy.com
 
 - Web browsing
@@ -235,7 +257,6 @@ ___
 > https://regexr.com/ <br>
 > Temporary Video Sharing https://streamable.com/ <br>
 > [Discord History](https://github.com/Tyrrrz/DiscordChatExporter/releases) - [Guide](https://www.swipetips.com/how-to-download-your-chat-history-from-discord/) <br>
-> [Discord](https://ptb.discord.com/download) <br>
 > [Streaming](https://letflix.tv/movie/watch-stalker-17191)
 
 <details> 
@@ -382,111 +403,206 @@ Google2SRT
 
 ## Emojis
 - Small<br>
-![](https://cdn.discordapp.com/emojis/1009944658215964692.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/1010727401174609970.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/1009944657129635921.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/1009054288984674384.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/994400877899157535.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/1008951861056917584.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/1008933434690899989.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/1009014557332742164.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/994400996732182638.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/994391665693433957.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/994400901970284574.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/994595815727312987.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/1003541293915459715.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/1003542290498850896.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/996787275566415923.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/1008943280530128969.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/994400797418860644.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/1008943429973196810.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/1009944659398762586.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/1008943445294985350.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/1008943324830367774.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/1020764778723020921.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/1008944349557559297.webp?size=44&quality=lossless)
-![](https://images-ext-2.discordapp.net/external/O3tjk3f17HpkgELKqJ6XSi_zaD-Fbe_C2Ng4MTmG98U/%3Fsize%3D44%26quality%3Dlossless/https/cdn.discordapp.com/emojis/621806265815007253.gif)
-![](https://cdn.discordapp.com/emojis/1008959215940939858.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/1037899706451365959.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/1037899706451365959.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/1037899679532318740.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/1008933567088312360.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/1025597703226400890.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/1026012316988346438.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/878169827951398912.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/966134363974684723.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/1091530607126904922.gif?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/1114557439459737610.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/644684495420653579.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/660821653785280512.webp?size=44&quality=lossless)
-![](https://cdn.discordapp.com/emojis/1008933886765563985.gif?size=44&quality=lossless)
+<img src="ur cute/01 catgirlhuggies.webp">
+<img src="ur cute/02 kristineunicry.webp">
+<img src="ur cute/03 emiliaaa.webp">
+<img src="ur cute/04 noelsip.webp">
+<img src="ur cute/05 AquaHD.webp">
+<img src="ur cute/06 cryrosu.webp">
+<img src="ur cute/06 rosucrybread.webp">
+<img src="ur cute/06 rosuneutral.webp">
+<img src="ur cute/07 kiss~1.webp">
+<img src="ur cute/08 diaredevil.webp">
+<img src="ur cute/09 WATEFAK.webp">
+<img src="ur cute/10 shunyaaa.webp">
+<img src="ur cute/11 suck.webp">
+<img src="ur cute/12 unicry.webp">
+<img src="ur cute/13 KeqingGN.webp">
+<img src="ur cute/14 happy.webp">
+<img src="ur cute/15 NJgasm.webp">
+<img src="ur cute/16 gn.webp">
+<img src="ur cute/17 rikashock.webp">
+<img src="ur cute/18 AquaCry.webp">
+<img src="ur cute/19 TokoPat.webp">
+<img src="ur cute/20 ayameheart.webp">
+<img src="ur cute/21 murmwot.webp">
+<img src="ur cute/22 kokomisigh.webp">
+<img src="ur cute/23 nani.webp">
+<img src="ur cute/24 hornyisback.webp">
+<img src="ur cute/27 sob.gif">
+<img src="ur cute/31 limwat.webp">
+<img src="ur cute/32 AlstolfoBlush.webp">
+<img src="ur cute/33 AMsalute.webp">
+<img src="ur cute/34 ArcyPouty.webp">
+<img src="ur cute/35 catHUH.gif">
+<img src="ur cute/36 ChenShrug.webp">
+<img src="ur cute/37 ded.webp">
+<img src="ur cute/38 ElainaHeart.webp">
+<img src="ur cute/39 giveheart.gif">
+<img src="ur cute/40 goodmorning.webp">
+<img src="ur cute/41 goodnight.webp">
+<img src="ur cute/42 heh.gif">
+<img src="ur cute/43 hkpatpat.gif">
+<img src="ur cute/44 notlikethis.webp">
+<img src="ur cute/45 OkayuMogu.webp">
+<img src="ur cute/46 p7wink.webp">
+<img src="ur cute/47 pp90blush.webp">
+<img src="ur cute/48 rinkodespair.webp">
+<img src="ur cute/49 RoseDead.webp">
+<img src="ur cute/50 rosuhappy.gif">
+<img src="ur cute/51 rosunote.gif">
+<img src="ur cute/52 rosupatpat.gif">
+<img src="ur cute/53 rosupout.gif">
+<img src="ur cute/54 rosusigh.webp">
+<img src="ur cute/55 SanaBox.webp">
+<img src="ur cute/56 SanaSad1.webp">
+<img src="ur cute/57 SanaSad2.webp">
+<img src="ur cute/58 SanaTeehee.webp">
+<img src="ur cute/59 SanaWorried.webp">
+<img src="ur cute/60 SanaYapi.webp">
+<img src="ur cute/61 suiwave.webp">
+<img src="ur cute/62 WatameHuh.webp">
+<img src="ur cute/63 wubbaboo_tired.webp">
+<img src="ur cute/64 yaedrive_chickenjagoo.gif">
+<img src="ur cute/65 zerotwoheart.webp">
+<img src="ur cute/95 noted-anime.gif">
+<img src="ur cute/96 NeroGasm.webp">
+<img src="ur cute/97 Meow.gif">
+<img src="ur cute/98 fubukidance.gif">
+<img src="ur cute/99 awawa.gif">
 <br><br>
-- Medium<br>
-![](https://cdn.discordapp.com/emojis/724367095512694825.gif?size=96&quality=lossless)
-![](https://cdn.discordapp.com/emojis/944211230422368338.gif?size=96&quality=lossless)
-![](https://cdn.discordapp.com/emojis/362261098042490880.webp?size=64)
-![](https://cdn.discordapp.com/emojis/907735601976074300.gif?size=64)
-<br><br>
-- Large<br>
-![](https://cdn.discordapp.com/emojis/1008933567088312360.webp?size=96&quality=lossless)
-![](https://cdn.discordapp.com/emojis/1025532028596264970.webp?size=96&quality=lossless)
-![](https://cdn.discordapp.com/emojis/585570082961489930.gif?size=96&quality=lossless)
-![](https://cdn.discordapp.com/emojis/774990963310985226.gif?size=96&quality=lossless)
-![](https://cdn.discordapp.com/emojis/586089930678337537.webp?size=96&quality=lossless)
-![](https://cdn.discordapp.com/emojis/737698266279444522.gif?size=96&quality=lossless)
-![](https://cdn.discordapp.com/emojis/879239220659634257.gif?size=96&quality=lossless)
-![](https://cdn.discordapp.com/emojis/1008933763658559591.gif?size=96&quality=lossless)
-![](https://cdn.discordapp.com/emojis/747680403778699304.webp?size=96&quality=lossless)
-![](https://cdn.discordapp.com/emojis/621806265815007253.gif?size=96&quality=lossless)
-![](https://cdn.discordapp.com/emojis/1009944658215964692.webp?size=96&quality=lossless)
-![](https://cdn.discordapp.com/emojis/725701811499171990.gif?size=96&quality=lossless)
-![](https://cdn.discordapp.com/emojis/1024665531032272976.webp?size=96&quality=lossless)
-![](https://cdn.discordapp.com/emojis/1032083443561005167.webp?size=96&quality=lossless)
-![](https://cdn.discordapp.com/emojis/619630409705193531.webp?size=96&quality=lossless)
-![](https://cdn.discordapp.com/emojis/777074089197568021.webp?size=96&quality=lossless)
-![](https://cdn.discordapp.com/emojis/878169827951398912.webp?size=96&quality=lossless)
-![](https://cdn.discordapp.com/emojis/878169786130006017.webp?size=96&quality=lossless)
-![](https://cdn.discordapp.com/emojis/1008943379377303662.webp?size=96&quality=lossless)
-![](https://cdn.discordapp.com/emojis/968733546875351050.gif?size=96&quality=lossless)
-![](https://cdn.discordapp.com/attachments/1037744564796133468/1127875535821877278/nekooo.gif)
-![](https://cdn.discordapp.com/emojis/850356405445591080.gif?size=96&quality=lossless)
-![](https://cdn.discordapp.com/emojis/828643173571231824.webp?size=96&quality=lossless)
-![](https://cdn.discordapp.com/attachments/662512876279431168/805239545930842152/UwuHug.png)
-![](https://cdn.discordapp.com/attachments/662512876279431168/805239639031283763/NeroCry.jpg)
-![](https://cdn.discordapp.com/attachments/662512876279431168/805239640453021766/NeroSmug.jpg)
-![](https://cdn.discordapp.com/attachments/662512876279431168/805239642885849108/156401486598743612.png)
-![](https://cdn.discordapp.com/emojis/602513888378093578.webp?size=96&quality=lossless)
-![](https://cdn.discordapp.com/attachments/662512876279431168/1136205234683789362/bbc8cb11a14641daa624ef1cde47bb54NKCy33sotd6wJn4D-0.png)
-![](https://cdn.discordapp.com/emojis/1008933886765563985.gif?size=96&quality=lossless)
 
-<br><br>
-- Extra Large<br>
-![](https://cdn.discordapp.com/attachments/1025614305225351168/1119391392939130941/ezgif-4-82e974469a.gif)
-![](https://cdn.discordapp.com/emojis/702810323111116800.gif?v=1)
-![](https://cdn.discordapp.com/attachments/662512876279431168/1015194334720708658/unknown.png)
-![](https://cdn.discordapp.com/attachments/662512876279431168/1007950501813420032/output-onlinepngtools1.png)
-![](https://cdn.discordapp.com/emojis/436660999957774336.webp?size=96&quality=lossless)
-[![](https://media.tenor.com/o0obZG4WdnYAAAAi/rainbow-dance.gif)](https://tenor.com/view/rainbow-dance-neko-sway-discord-gif-18951681)
-<br><br>
+<details> 
+  <summary>Large</summary>
+
+<img src="ur cute/Large/01 surprise.webp">
+<img src="ur cute/Large/02 hkpatpat.gif">
+<img src="ur cute/Large/03 notlikethis.webp">
+<img src="ur cute/Large/04 yaedrive_chickenjagoo.gif">
+<img src="ur cute/Large/05 catHUH.gif">
+<img src="ur cute/Large/06 nod.gif">
+<img src="ur cute/Large/07 goodmorning.webp">
+<img src="ur cute/Large/08 goodnight.webp">
+<img src="ur cute/Large/09 AMsalute.webp">
+<img src="ur cute/Large/10 rosupatpat.gif">
+<img src="ur cute/Large/11 rosuhappy.gif">
+<img src="ur cute/Large/12 rosupout.gif">
+<img src="ur cute/Large/13 rosunote.gif">
+<img src="ur cute/Large/14 rosucry.webp">
+<img src="ur cute/Large/15 cry.webp">
+<img src="ur cute/Large/16 rosubread.webp">
+<img src="ur cute/Large/17 emiliaaa.webp">
+<img src="ur cute/Large/18 flushed.gif">
+<img src="ur cute/Large/19 pointed fingers .gif">
+<img src="ur cute/Large/20 melt.gif">
+<img src="ur cute/Large/21 tail rub.gif">
+<img src="ur cute/Large/22 AlphaScream.gif">
+<img src="ur cute/Large/23 AlstolfoBlush.webp">
+<img src="ur cute/Large/24 ArcyPouty.webp">
+<img src="ur cute/Large/25 awawa.webp">
+<img src="ur cute/Large/26 pray.webp">
+<img src="ur cute/Large/27 sob.gif">
+<img src="ur cute/Large/28 yes.gif">
+<img src="ur cute/Large/29 teehee.webp">
+<img src="ur cute/Large/30 shrug.webp">
+<img src="ur cute/Large/31 CatNod.gif">
+<img src="ur cute/Large/32 sway.gif">
+<img src="ur cute/Large/33 ChenShrug.webp">
+<img src="ur cute/Large/34 ded.webp">
+<img src="ur cute/Large/35 ElainaFustrated.webp">
+<img src="ur cute/Large/36 ElainaHeart.webp">
+<img src="ur cute/Large/37 ElainaThumbsUp.webp">
+<img src="ur cute/Large/38 fish bite.gif">
+<img src="ur cute/Large/39 heh.gif">
+<img src="ur cute/Large/40 Hug.png">
+<img src="ur cute/Large/41 IllyaWhat.gif">
+<img src="ur cute/Large/42 Kiss.gif">
+<img src="ur cute/Large/43 Lick.gif">
+<img src="ur cute/Large/44 MeguruHug.webp">
+<img src="ur cute/Large/45 MeguruSmile.webp">
+<img src="ur cute/Large/46 Mex.webp">
+<img src="ur cute/Large/47 nekooo.gif">
+<img src="ur cute/Large/48 OkayuMogu.webp">
+<img src="ur cute/Large/49 owoHugs.gif">
+<img src="ur cute/Large/50 p7wink.webp">
+<img src="ur cute/Large/51 Peak.webp">
+<img src="ur cute/Large/52 Pout.png">
+<img src="ur cute/Large/53 pp90blush.webp">
+<img src="ur cute/Large/54 Question.webp">
+<img src="ur cute/Large/55 rainbow-dance.gif">
+<img src="ur cute/Large/56 sana Wink.webp">
+<img src="ur cute/Large/57 SanaBox.webp">
+<img src="ur cute/Large/58 sanacry.webp">
+<img src="ur cute/Large/59 Smug.png">
+<img src="ur cute/Large/60 suijuice.webp">
+<img src="ur cute/Large/61 suiwave.webp">
+<img src="ur cute/Large/62 TakeNotes.webp">
+<img src="ur cute/Large/63 WatameHuh.webp">
+<img src="ur cute/Large/64 wubbaboo_tired.webp">
+</details><br><br>
+
+
 <details> 
   <summary>XXLarge</summary>
-  <img src="https://cdn.discordapp.com/attachments/662512876279431168/1122393794134945834/1.png">
-  <img src="https://cdn.discordapp.com/attachments/662512876279431168/1122393794550173806/2.png">
-  <img src="https://cdn.discordapp.com/attachments/662512876279431168/1122393794906697789/image.png">
-  <img src="https://cdn.discordapp.com/attachments/662512876279431168/1122393795217068032/4.png">
-  <img src="https://cdn.discordapp.com/attachments/1037744564796133468/1127503982676410440/image.png">
-  <img src="https://cdn.discordapp.com/attachments/662512876279431168/1130271620674617384/image.png">
-  <br>
-  <img src="https://cdn.discordapp.com/attachments/662512876279431168/1013933817444184174/baef86257e732b51ac56e6b0f967a081a3a741b090b85efea8032b94f7de1edd.jpeg">\
-  <a href="https://tenor.com/view/elaina-nod-gif-25532943"><img src="https://media.tenor.com/lNkVGL4mLDAAAAAC/elaina-nod.gif"></a>
-  <a href="https://tenor.com/view/omori-basil-kiss-gay-gif-25386247"><img src="https://media.tenor.com/0b-eojIy5WoAAAAC/omori-basil.gif"></a>
-  <a href="https://tenor.com/view/wataten-anime-gif-13473080"><img src="https://media.tenor.com/48kR48pMSgMAAAAC/wataten-anime.gif"></a>
-  <img src="https://cdn.discordapp.com/attachments/662512876279431168/1122393796047540234/FntBZwuXwAEXwtL.png">
-</details>
-<br>
+
+<img src="ur cute/ExtraLarge/01 cry.jpg">
+<img src="ur cute/ExtraLarge/02 Cute Cheer.gif">
+<img src="ur cute/ExtraLarge/03 dance-happy.gif">
+<img src="ur cute/ExtraLarge/04 Firewatch Nuke.png">
+<img src="ur cute/ExtraLarge/05 heart.gif">
+<img src="ur cute/ExtraLarge/06 nachoSuneruHD.webp">
+<img src="ur cute/ExtraLarge/07 omori-basil.gif">
+<img src="ur cute/ExtraLarge/08 ozu_oz_yarimasu_heart.gif">
+<img src="ur cute/ExtraLarge/09 paw.png">
+<img src="ur cute/ExtraLarge/10 Perlica Ice Cream.webp">
+<img src="ur cute/ExtraLarge/11 sticker_1.gif">
+<img src="ur cute/ExtraLarge/12 sticker_1.png">
+<img src="ur cute/ExtraLarge/13 sticker_3.gif">
+<img src="ur cute/ExtraLarge/14 sticker_5.png">
+<img src="ur cute/ExtraLarge/15 sticker_6.gif">
+<img src="ur cute/ExtraLarge/16 sticker_7.gif">
+<img src="ur cute/ExtraLarge/17 sticker_9.gif">
+<img src="ur cute/ExtraLarge/18 sticker_16.png">
+<img src="ur cute/ExtraLarge/19 sticker_28.png">
+<img src="ur cute/ExtraLarge/20 sticker_30.png">
+<img src="ur cute/ExtraLarge/21 suicheer.png">
+<img src="ur cute/ExtraLarge/22 Trailblazer_Nom01.png">
+<img src="ur cute/ExtraLarge/23 uuu.webp">
+<img src="ur cute/ExtraLarge/24 wataten-anime.gif">
+</details><br><br>
+
+<details> 
+  <summary>Standard Wallpapers</summary>
+
+<img src="Standard Wallpapers/1ad3ba6.jpg">
+<img src="Standard Wallpapers/316a1ff.png">
+<img src="Standard Wallpapers/404 Clouds.jpg">
+<img src="Standard Wallpapers/404.jpg">
+<img src="Standard Wallpapers/Artoria 46.jpg">
+<img src="Standard Wallpapers/Copy of IMG_20191008_215858.jpg">
+<img src="Standard Wallpapers/Fate Servants.png">
+<img src="Standard Wallpapers/G&K Extended.jpg">
+<img src="Standard Wallpapers/GFL404 Clean.png">
+<img src="Standard Wallpapers/GFL404.png">
+<img src="Standard Wallpapers/GFLAR.png">
+<img src="Standard Wallpapers/Griffin Emblem Extended.jpg">
+<img src="Standard Wallpapers/Halo Reach Space.jpg">
+<img src="Standard Wallpapers/Koenigsegg.jpg">
+<img src="Standard Wallpapers/Okita.jpg">
+<img src="Standard Wallpapers/Predator.png">
+<img src="Standard Wallpapers/Red Wallpaper.jpg">
+<img src="Standard Wallpapers/Saber 8.png">
+<img src="Standard Wallpapers/tumblr_owrccebouC1u41kbzo1_1280.png">
+</details> <br><br>
+
+<details> 
+  <summary>Other</summary>
 
 [![Love](https://media.tenor.com/QAU2oFvucdcAAAAC/heart.gif)](https://tenor.com/view/heart-gif-18231995)
 
 [![](Img)](Link)
 ![](Img)
 <a href=""><img src=""></a>
+<img src="ur cute/" alt="ur cute/">
+</details> 
+
