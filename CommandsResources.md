@@ -403,6 +403,7 @@ Google2SRT
 
 ## Emojis
 - Small<br>
+
 <img src="ur cute/01 catgirlhuggies.webp">
 <img src="ur cute/02 kristineunicry.webp">
 <img src="ur cute/03 emiliaaa.webp">
