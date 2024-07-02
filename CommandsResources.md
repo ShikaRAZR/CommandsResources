@@ -251,7 +251,8 @@ ___
 > [Smart HTTPS](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
 > [The Camelizer - Price Tracker](https://addons.mozilla.org/en-US/firefox/addon/the-camelizer-price-history-ch/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
 > [DocsAfterDark](https://addons.mozilla.org/en-US/firefox/addon/docsafterdark/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
-> [Youtube Ad Auto-skipper](https://addons.mozilla.org/en-US/firefox/addon/youtube-ad-auto-skipper/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+> [Youtube Ad Auto-skipper](https://addons.mozilla.org/en-US/firefox/addon/youtube-ad-auto-skipper/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
+> [Steamable Video Hosting](https://streamable.com/)
 
 - Personal
 > https://regexr.com/ <br>
@@ -292,8 +293,9 @@ ___
 > [GFL Logistics Calculator](https://tempkaridc.github.io/gf/) <br>
 > [Arknights Aceship's Toolbox](https://aceship.github.io/AN-EN-Tags/index.html) <br>
 > [Escape From Tarkov Wiki](https://escapefromtarkov.gamepedia.com/Escape_from_Tarkov_Wiki) [Armor](https://tarkov.dev/items/armors) [Ammo](https://www.eft-ammo.com/ammo-graph)<br>
-> https://eftfg.com/ammo  <br>
-> [Steam](https://store.steampowered.com/)
+> https://eftfg.com/ammo<br>
+> [Steam](https://store.steampowered.com/)<br>
+> [Switch Emulator](https://ryujinx.org/download)
 
 <details> 
   <summary>JP</summary>
