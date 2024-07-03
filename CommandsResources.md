@@ -199,8 +199,6 @@ ___
 > htop - Process Viewer<br>
 > File manager<br>
 > Vim - Text Editor<br>
-> vscodium<br>
-> Discord<br>
 > fastfetch [logo](https://github.com/fastfetch-cli/fastfetch/wiki/Logo-options)<br>
 > [It's FOSS](https://itsfoss.com/)
 
@@ -223,28 +221,29 @@ ___
   - gTiles
 </details><br>
 
-- Windows Applications
-> OBS https://obsproject.com/ <br>
-> ffmpeg https://ffmpeg.org/ <br>
-> youtube-dl https://github.com/yt-dlp/yt-dlp <br>
-> mkvtoolnix https://mkvtoolnix.download/ <br>
-> process_lasso https://bitsum.com/ <br>
-> vscodium <br>
-> vlc https://www.videolan.org/vlc/ <br>
+- Applications
+> [OBS](https://obsproject.com/)<br>
+> [ffmpeg](https://ffmpeg.org/)<br>
+> [youtube-dl](https://github.com/yt-dlp/yt-dlp)<br>
+> [mkvtoolnix](https://mkvtoolnix.download/)<br>
+> [process_lasso](https://bitsum.com/)<br>
+> vscodium<br>
+> [vlc](https://www.videolan.org/vlc/)<br>
 > 7zip <br>
 > gpuz <br>
 > cpuz <br>
-> WinDirStat https://windirstat.net/ <br>
-> Crystaldiskinfo https://crystalmark.info/en/software/crystaldiskinfo/ <br>
-> Mp3tag https://www.mp3tag.de/en/ <br>
-> PC Benchmark https://www.userbenchmark.com<br>
-> All info ip can get off you https://ipleak.net/ <br>
-> Wireshark https://www.wireshark.org/ <br>
-> Firefox - Web Browser <br>
-> Image Editor https://www12.lunapic.com/editor/?action=transparent <br>
-> Git - Github <br>
-> LosslessCut https://github.com/mifi/lossless-cut <br>
-> [Discord](https://ptb.discord.com/download) <br>
+> [WinDirStat](https://windirstat.net/)<br>
+> [Crystaldiskinfo](https://crystalmark.info/en/software/crystaldiskinfo/)<br>
+> [Mp3tag](https://www.mp3tag.de/en/)<br>
+> [PC Benchmark](https://www.userbenchmark.com)<br>
+> All info ip can get off you https://ipleak.net/<br>
+> [Wireshark](https://www.wireshark.org/)<br>
+> Firefox - Web Browser<br>
+> [Image Editor](https://www12.lunapic.com/editor/?action=transparent)<br>
+> Git - Github<br>
+> [LosslessCut](https://github.com/mifi/lossless-cut)<br>
+> [Discord](https://ptb.discord.com/download)<br>
+> [Czkawka Duplicate File Search](https://github.com/qarmin/czkawka?tab=readme-ov-file)<br>
 > Windy Weather Forecast https://www.windy.com
 
 - Web browsing
