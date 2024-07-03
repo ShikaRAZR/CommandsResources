@@ -200,7 +200,9 @@ ___
 > File manager<br>
 > Vim - Text Editor<br>
 > vscodium<br>
-> Discord
+> Discord<br>
+> fastfetch [logo](https://github.com/fastfetch-cli/fastfetch/wiki/Logo-options)<br>
+> [It's FOSS](https://itsfoss.com/)
 
 <details> 
   <summary>Linux Mint Custom</summary>
