@@ -245,6 +245,7 @@ ___
 > [Discord](https://ptb.discord.com/download)<br>
 > [Czkawka Duplicate File Search](https://github.com/qarmin/czkawka?tab=readme-ov-file)<br>
 > Windy Weather Forecast https://www.windy.com
+> [Everything (Fast File Explorer Search)](https://www.voidtools.com/)
 
 - Web browsing
 > [Popup Blocker](https://addons.mozilla.org/en-US/firefox/addon/popup-blocker/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
