@@ -244,7 +244,7 @@ ___
 > [LosslessCut](https://github.com/mifi/lossless-cut)<br>
 > [Discord](https://ptb.discord.com/download)<br>
 > [Czkawka Duplicate File Search](https://github.com/qarmin/czkawka?tab=readme-ov-file)<br>
-> Windy Weather Forecast https://www.windy.com
+> Windy Weather Forecast https://www.windy.com <br>
 > [Everything (Fast File Explorer Search)](https://www.voidtools.com/)
 
 - Web browsing
