@@ -371,6 +371,9 @@ Use output template with %(autonumber)0Nd, where N in the number of digits inste
         youtube-dl -f best -o "%(autonumber)03d-%(title)s.%(ext)s" -a GFLSongs.txt --autonumber-start 66 --add-header "
 
 
+<details> 
+  <summary>OTHER</summary>
+
 ___
 NOT WORKING CORRECTLY<br>
 Headache to rename and sort the files based on the order.<br>
@@ -395,7 +398,7 @@ https://trac.ffmpeg.org/wiki/HowToBurnSubtitlesIntoVideo<br>
 https://captionsconverter.com/<br>
 https://downsub.com/<br>
 Google2SRT
-
+</details> 
 
 
 <br> <br> <br> <br> <br> <br> <br> <br>
