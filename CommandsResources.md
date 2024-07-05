@@ -192,7 +192,8 @@ ___
 <span style="font-size:12px"><a href="#top">Back to top</a></span>
 
 ## General Application Link Stuff
-- Linux
+
+### Linux
 > gThumb - Image Viewer<br>
 > Drawing - Image Editor<br>
 > Timeshift - OS Backup<br>
@@ -221,7 +222,7 @@ ___
   - gTiles
 </details><br>
 
-- Applications
+### Applications
 > [OBS](https://obsproject.com/)<br>
 > [ffmpeg](https://ffmpeg.org/)<br>
 > [youtube-dl](https://github.com/yt-dlp/yt-dlp)<br>
@@ -247,7 +248,7 @@ ___
 > Windy Weather Forecast https://www.windy.com <br>
 > [Everything (Fast File Explorer Search)](https://www.voidtools.com/)
 
-- Web browsing
+### Web browsing
 > [Popup Blocker](https://addons.mozilla.org/en-US/firefox/addon/popup-blocker/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
 > [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
 > [Smart HTTPS](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
@@ -256,14 +257,14 @@ ___
 > [Youtube Ad Auto-skipper](https://addons.mozilla.org/en-US/firefox/addon/youtube-ad-auto-skipper/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
 > [Steamable Video Hosting](https://streamable.com/)
 
-- Personal
+### Personal
 > https://regexr.com/ <br>
 > Temporary Video Sharing https://streamable.com/ <br>
 > [Discord History](https://github.com/Tyrrrz/DiscordChatExporter/releases) - [Guide](https://www.swipetips.com/how-to-download-your-chat-history-from-discord/) <br>
 > [Streaming](https://letflix.tv/movie/watch-stalker-17191)
 
 <details> 
-  <summary>Anime</summary>
+  <summary><span style="font-weight:bold; font-size:1.3em">Anime</span></summary>
   <a href="https://danbooru.donmai.us/">danbooru</a>
   <a href="https://gelbooru.com/">gelbooru</a>
   <a href="https://www.pixiv.net/en/">pixiv</a>
@@ -289,7 +290,7 @@ ___
 > Music https://downloads.khinsider.com/ <br>
 > Sheet Music https://josh.agarrado.net/music/anime/index.php <br>
 
-- Game Stuff
+### Game Stuff
 > Osu replays https://ordr.issou.best/ <br>
 > https://www.gflcorner.com/ <br>
 > [GFL Logistics Calculator](https://tempkaridc.github.io/gf/) <br>
@@ -300,7 +301,7 @@ ___
 > [Switch Emulator](https://ryujinx.org/download)
 
 <details> 
-  <summary>JP</summary>
+  <summary><span style="font-weight:bold; font-size:1.3em">JP</span></summary>
   <a href="https://github.com/yudataguy/Awesome-Japanese#beginner-guide">General</a> <br>
   <a href="https://supernative.tv/ja/">TV Show Phrases</a> <br>
   <a href="http://www.technologyimprov.com/HiraganaAudioQuiz">Hiragana Audio Memorize</a> <br>
@@ -336,7 +337,8 @@ ___
         ffmpeg -i output1.mp3 -ss 00:00:30 -to 00:00:40 -c copy output.mp3
 
 - FILE CONVERSION:
-> ffmpeg.exe
+        
+        ffmpeg.exe
 
 - BATCH CONVERT
 
@@ -539,11 +541,10 @@ Google2SRT
 <details> 
   <summary>Other</summary>
 
-[![Love](https://media.tenor.com/QAU2oFvucdcAAAAC/heart.gif)](https://tenor.com/view/heart-gif-18231995)
-
-[![](Img)](Link)
-![](Img)
-<a href=""><img src=""></a>
-<img src="ur cute/" alt="ur cute/">
+                [![Love](https://media.tenor.com/QAU2oFvucdcAAAAC/heart.gif)](https://tenor.com/view/heart-gif-18231995)
+                [![](Img)](Link)
+                ![](Img)
+                <a href=""><img src=""></a>
+                <img src="ur cute/" alt="ur cute/">
 </details> 
 
