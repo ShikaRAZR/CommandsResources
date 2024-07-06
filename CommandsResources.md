@@ -146,13 +146,13 @@ ___
 <details> 
   <summary>Install Linux Guest Additions</summary>
   <img src="guestadditions.png" alt="Zorin">
-</details>
 
-- Device - Insert Guest Additions CD Image...
-- Go to disk and run:
+  - Device - Insert Guest Additions CD Image...
+  - Go to disk and run:
 
         sudo ./VBoxLinuxAdditions.run<br>
         sudo adduser 'user' vboxsf
+</details><br>
 
 <details> 
   <summary>View Installed Packages (In date order)</summary>
@@ -234,6 +234,7 @@ particularly useful when you want to 'start all over' with an application becaus
 > htop - Process Viewer<br>
 > fdisk, parted, gparted, gnome-disks - Partition Manager<br>
 > [Nala](https://github.com/volitank/nala) - apt frontend<br>
+> [ufw](https://github.com/jbq/ufw) - firewall [Guide](https://christitus.com/linux-security-mistakes/)
 
 > fastfetch [logo](https://github.com/fastfetch-cli/fastfetch/wiki/Logo-options)<br>
 > Drawing - Image Editor<br>
