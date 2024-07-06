@@ -185,7 +185,6 @@ ___
         apt-cache pkgnames <search_term>
 </details><br>
 
-
 <details>
   <summary>Uninstall/Remove Unused/Orphaned Packages - apt autoremove deborphan</summary>
 
@@ -205,10 +204,23 @@ particularly useful when you want to 'start all over' with an application becaus
         "aptitude remove packagename" or "aptitude purge packagename" (likewise)
 
 > will also attempt to remove other packages which were required by packagename on but are not required by any remaining packages. Note that aptitude only remembers dependency information for packages that it has installed.
+</details><br>
+
+<details>
+  <summary>Nala</summary>
+
+        sudo nala fetch
+        Mirrors you want to keep separated by spaces (1..16): 1 2 3
+> fetch debian mirrors test for fast download
+        
+        nala install packagename
+> install package
+
+        nala purge packagename
+        nala autoremove
+>uninstall package
 </details>
 
-        apt-get remove --purge packagename
-        apt-get autoremove
 <br> <br> <br> <br> <br> <br> <br> <br>
 
 
