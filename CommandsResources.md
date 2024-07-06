@@ -48,13 +48,7 @@ https://google.github.io/styleguide/docguide/style.html
         git commit
         git pull (download the master branch online into your pc)
         git push origin ***master***
-  
-- Other Commands
 
-        git init (initialize local repo)
-        git status
-        git config --list
-___
 - Adding To A Repository On Git - (MAIN)
 
         git add (will show differences in code and possible conflicts)
@@ -71,6 +65,12 @@ ___
 <summary>OTHER</summary>
 
 ___
+- Other Commands
+
+        git init (initialize local repo)
+        git status
+        git config --list
+
 - New Branch - used to isolate new features that are being created
 
         git branch (shows total branches, and the one your in)
@@ -183,8 +183,9 @@ ___
         dpkg -l > apps.txt (sends to txt in home dir)
         apt-cache search <search term>
         apt-cache pkgnames <search_term>
-</details>
+</details><br>
 
+- Remove Unused/Orphaned Packages - apt autoremove deborphan
 
 
 <br> <br> <br> <br> <br> <br> <br> <br>
@@ -248,7 +249,8 @@ ___
 > [Discord](https://ptb.discord.com/download)<br>
 > [Czkawka Duplicate File Search](https://github.com/qarmin/czkawka?tab=readme-ov-file)<br>
 > Windy Weather Forecast https://www.windy.com <br>
-> [Everything (Fast File Explorer Search)](https://www.voidtools.com/)
+> [Everything (Fast File Explorer Search)](https://www.voidtools.com/) <br>
+> [Remote Desktop](https://parsec.app/)
 
 ### Web browsing
 > [Popup Blocker](https://addons.mozilla.org/en-US/firefox/addon/popup-blocker/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
@@ -591,5 +593,13 @@ Google2SRT
                 ![](Img)
                 <a href=""><img src=""></a>
                 <img src="ur cute/" alt="ur cute/">
-</details> 
+
+                
+
+                dir /b > namelist.txt
+
+                VSCode Search
+                ^(.+)$
+                <img src="ur cute/$1"> 
+                </details> 
 
