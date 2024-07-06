@@ -218,14 +218,15 @@ particularly useful when you want to 'start all over' with an application becaus
 ## General Application Link Stuff
 
 ### Linux
-> gThumb - Image Viewer<br>
-> Drawing - Image Editor<br>
 > Timeshift - OS Backup<br>
 > htop - Process Viewer<br>
-> File manager<br>
-> Vim - Text Editor<br>
-> fastfetch [logo](https://github.com/fastfetch-cli/fastfetch/wiki/Logo-options)<br>
 > fdisk, parted, gparted, gnome-disks - Partition Manager<br>
+> [Nala](https://github.com/volitank/nala) - apt frontend<br>
+
+> fastfetch [logo](https://github.com/fastfetch-cli/fastfetch/wiki/Logo-options)<br>
+> Drawing - Image Editor<br>
+> gThumb - Image Viewer<br>
+> Vim - Text Editor<br>
 > [It's FOSS](https://itsfoss.com/)
 
 <details> 
@@ -382,6 +383,9 @@ particularly useful when you want to 'start all over' with an application becaus
 
         Restart
         Ctrl + Alt + Esc
+
+        Paste in Terminal
+        Ctrl + Shift + V
 </details>
 
 
@@ -426,16 +430,6 @@ particularly useful when you want to 'start all over' with an application becaus
 
         for %a in ("Combine\*.mp4") do ffmpeg -i "Combine\%~na.mp4" -i "Combine\%~na.mp3" -map 0:v -map 1:a -c:v copy -c:a copy "Combined\%~na.mp4" -y
 
-- SUBTITLE COMBINE (NOT WORKING CORRECTLY)
-
-        ffmpeg -i "input.mp4" -i "subtitles.srt" -c:s mov_text -c:v copy -c:a copy output.mp4
-
-- BATCH SUBTITLE COMBINE (NOT WORKING CORRECTLY)
-
-        for %a in ("Combine\*.mp4") do ffmpeg -i "Combine\%~na.mp4" -i "Combine\%~na.srt" -c:s mov_text -c:v copy -c:a copy "Combined\%~na.mp4"
-
-So to add auto-numbering, use -A
-
 - DOWNLOAD FROM TXT
 
         youtube-dl -f best -o "%(autonumber)0Nd-%(title)s.%(ext)s" -a GFLSongs.txt --autonumber-start 63 --add-header ""
@@ -447,6 +441,16 @@ Use output template with %(autonumber)0Nd, where N in the number of digits inste
 
 <details> 
   <summary>OTHER</summary>
+
+- SUBTITLE COMBINE (NOT WORKING CORRECTLY)
+
+        ffmpeg -i "input.mp4" -i "subtitles.srt" -c:s mov_text -c:v copy -c:a copy output.mp4
+
+- BATCH SUBTITLE COMBINE (NOT WORKING CORRECTLY)
+
+        for %a in ("Combine\*.mp4") do ffmpeg -i "Combine\%~na.mp4" -i "Combine\%~na.srt" -c:s mov_text -c:v copy -c:a copy "Combined\%~na.mp4"
+
+So to add auto-numbering, use -A
 
 ___
 NOT WORKING CORRECTLY<br>
