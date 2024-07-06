@@ -266,7 +266,7 @@ ___
 > [Streaming](https://letflix.tv/movie/watch-stalker-17191)
 
 <details> 
-  <summary><span style="font-weight:bold; font-size:1.3em">Anime</span></summary>
+  <summary style="font-weight:bold; font-size:1.3em">Anime</summary>
   <a href="https://danbooru.donmai.us/">danbooru</a>
   <a href="https://gelbooru.com/">gelbooru</a>
   <a href="https://www.pixiv.net/en/">pixiv</a>
@@ -304,7 +304,7 @@ ___
 > [Switch Emulator](https://ryujinx.org/download)
 
 <details> 
-  <summary><span style="font-weight:bold; font-size:1.3em">JP</span></summary>
+  <summary style="font-weight:bold; font-size:1.3em">JP</span></summary>
   <a href="https://github.com/yudataguy/Awesome-Japanese#beginner-guide">General</a> <br>
   <a href="https://supernative.tv/ja/">TV Show Phrases</a> <br>
   <a href="http://www.technologyimprov.com/HiraganaAudioQuiz">Hiragana Audio Memorize</a> <br>
@@ -318,7 +318,7 @@ ___
 </details>
 <br>
 <details> 
-  <summary><span style="font-weight:bold; font-size:1.3em">Hotkeys</span></summary>
+  <summary style="font-weight:bold; font-size:1.3em">Hotkeys</span></summary>
 
 - Windows
 
@@ -350,6 +350,12 @@ ___
         Window + shift + arrow
 
 - Linux
+
+        Shutdown
+        Ctrl + Alt + End
+
+        Restart
+        Ctrl + Alt + Esc
 </details>
 
 
