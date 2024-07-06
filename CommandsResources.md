@@ -14,6 +14,7 @@ List of commands and resources that are personally useful for me.
 <br> <br> <br> <br> <br> <br> <br> <br>
 
 
+
 <span style="font-size:12px"><a href="#top">Back to top</a></span>
 
 ## Markdown Guide 
@@ -22,6 +23,7 @@ https://www.markdownguide.org/basic-syntax#paragraphs-1
 https://www.markdownguide.org/basic-syntax/
 
 https://google.github.io/styleguide/docguide/style.html
+
 
 
 <br> <br> <br> <br> <br> <br> <br> <br>
@@ -274,6 +276,7 @@ ___
   <a href="https://hanime.tv/">hanime</a>
   <a href="https://www.zerochan.net/">zerochan</a>
   <a href="https://kemono.su/">kemono</a>
+  <a href="https://rule34.xyz/">rule34xyz</a>
   mangadex mangalife mangahub
 </details>
 
@@ -313,6 +316,42 @@ ___
   <a href="https://animelon.com/">JP Sub Anime</a>
   
 </details>
+<br>
+<details> 
+  <summary><span style="font-weight:bold; font-size:1.3em">Hotkeys</span></summary>
+
+- Windows
+
+        Task Manager 
+        Ctrl + Shift + Esc
+
+        Opens File Explorer
+        Windows logo key + E
+
+        Creates another instance of the current folder in a new window
+        Ctrl + N
+
+        Opens a tab
+        Ctrl + T
+
+        Moves across tabs 
+        Ctrl + Tab
+
+        Properties
+        Alt + Enter
+
+        Preview
+        Alt + P
+
+        Snipping
+        Window + shift + s
+
+        Move windows
+        Window + shift + arrow
+
+- Linux
+</details>
+
 
 
 
