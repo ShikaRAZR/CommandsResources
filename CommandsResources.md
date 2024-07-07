@@ -213,12 +213,19 @@ particularly useful when you want to 'start all over' with an application becaus
         Mirrors you want to keep separated by spaces (1..16): 1 2 3
 > fetch debian mirrors test for fast download
         
-        nala install packagename
+        sudo nala install packagename
 > install package
 
-        nala purge packagename
-        nala autoremove
->uninstall package
+        sudo nala purge packagename
+        sudo nala autoremove
+>uninstall package, remove unused packages
+
+        sudo nala update
+        sudo nala upgrade
+> fetch lastest package, install updates
+
+        nala list --upgradable
+> see from update if anything can be upgraded
 </details>
 
 <br> <br> <br> <br> <br> <br> <br> <br>
@@ -250,6 +257,7 @@ particularly useful when you want to 'start all over' with an application becaus
   - Themes
   - Disks (gnome-disks)
   - Disk Usage Analyzer (baobab)
+  - Update Manager
 - Panel:
   - System monitor
   - Files
@@ -257,10 +265,11 @@ particularly useful when you want to 'start all over' with an application becaus
   - Terminal
   - Software Manager
   - System Setting
-  - Update Manager
 - Extensions
-  - Transparent Panel
+  - Transparent Panels Reloaded
   - gTiles
+- Other
+  - [Tela Icon](https://github.com/vinceliuice/Tela-icon-theme) [Guide](https://www.youtube.com/watch?v=oWRHumOldS8)
 </details><br>
 
 ### Applications
@@ -365,22 +374,7 @@ particularly useful when you want to 'start all over' with an application becaus
         Task Manager 
         Ctrl + Shift + Esc
 
-        Opens File Explorer
-        Windows logo key + E
-
-        Creates another instance of the current folder in a new window
-        Ctrl + N
-
-        Opens a tab
-        Ctrl + T
-
-        Moves across tabs 
-        Ctrl + Tab
-
-        Properties
-        Alt + Enter
-
-        Preview
+        Preview (File)
         Alt + P
 
         Snipping
@@ -399,6 +393,26 @@ particularly useful when you want to 'start all over' with an application becaus
 
         Paste in Terminal
         Ctrl + Shift + V
+
+        Terminal
+        Ctrl + Alt + T
+
+- Both
+
+        Properties (File)
+        Alt + Enter
+
+        Opens File Explorer (File)
+        Windows logo key + E
+
+        Creates another instance of the current folder in a new window (File)
+        Ctrl + N
+        
+        Opens a tab (File, Firefox)
+        Ctrl + T
+
+        Moves across tabs (File, Firefox)
+        Ctrl + Tab, Ctrl + Shift + Tab
 </details>
 
 
@@ -629,18 +643,18 @@ Google2SRT
 <details> 
   <summary>Other</summary>
 
-                [![Love](https://media.tenor.com/QAU2oFvucdcAAAAC/heart.gif)](https://tenor.com/view/heart-gif-18231995)
-                [![](Img)](Link)
-                ![](Img)
-                <a href=""><img src=""></a>
-                <img src="ur cute/" alt="ur cute/">
+        [![Love](https://media.tenor.com/QAU2oFvucdcAAAAC/heart.gif)](https://tenor.com/view/heart-gif-18231995)
+        [![](Img)](Link)
+        ![](Img)
+        <a href=""><img src=""></a>
+        <img src="ur cute/" alt="ur cute/">
 
                 
 
-                dir /b > namelist.txt
+        dir /b > namelist.txt
 
-                VSCode Search
-                ^(.+)$
-                <img src="ur cute/$1"> 
-                </details> 
+        VSCode Search
+        ^(.+)$
+        <img src="ur cute/$1"> 
+        </details> 
 
