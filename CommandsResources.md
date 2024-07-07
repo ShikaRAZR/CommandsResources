@@ -60,6 +60,10 @@ https://google.github.io/styleguide/docguide/style.html
         git commit -m "comment"
         git push origin ***branchName***
 
+- Check Remote Branch Difference
+
+        git fetch
+        git diff <mainbranch_path> <remotebranch_path>
 
 <details>
 <summary>OTHER</summary>
