@@ -269,11 +269,15 @@ particularly useful when you want to 'start all over' with an application becaus
   - Terminal
   - Software Manager
   - System Setting
+  - Discord
+  - VSCodium
 - Extensions
-  - Transparent Panels Reloaded
-  - gTiles
+  - Transparent Panels Reloaded (Panel Color#352878/Opacity)
+  - gTiles 1(3,1.5---1) 2(3,1.5---1,1) 3(1,1---1) 4(.3,3,.3,4.5,.3---.5,8,.5)
 - Other
   - [Tela Icon](https://github.com/vinceliuice/Tela-icon-theme) [Guide](https://www.youtube.com/watch?v=oWRHumOldS8)
+  - Terminal Color#181237/Opacity
+  - Background 404 Clouds
 </details><br>
 
 ### Applications
