@@ -269,14 +269,17 @@ particularly useful when you want to 'start all over' with an application becaus
   - Terminal
   - Software Manager
   - System Setting
+  - Screenshot
   - Discord
   - VSCodium
 - Extensions
-  - Transparent Panels Reloaded (Panel Color#352878/Opacity)
+  - Transparent Panels Reloaded (Panel Color#352878/Opacity 70)
   - gTiles 1(3,1.5---1) 2(3,1.5---1,1) 3(1,1---1) 4(.3,3,.3,4.5,.3---.5,8,.5)
 - Other
   - [Tela Icon](https://github.com/vinceliuice/Tela-icon-theme) [Guide](https://www.youtube.com/watch?v=oWRHumOldS8)
-  - Terminal Color#181237/Opacity
+  - Terminal Color #181237/Opacity/Palette:
+  [Option 1](https://coolors.co/22276E-A5A3D4-5B61AE-4B3E7F-E7E2F2-7E6BA2-D2D5EE-2596BE)
+  [Option 2](https://coolors.co/7f8acd-7368a5-dbdbef-131a6a-cac7e9-6f75c3-37397f-efeaf5)
   - Background 404 Clouds
 </details><br>
 
@@ -407,6 +410,12 @@ particularly useful when you want to 'start all over' with an application becaus
 
         Lockscreen 
         Ctrl + Alt + L
+
+        Close an application window
+        Ctrl + Q
+
+        Run console
+        Alt + F2
 
 - Both
 
