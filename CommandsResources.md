@@ -226,6 +226,9 @@ particularly useful when you want to 'start all over' with an application becaus
 
         nala list --upgradable
 > see from update if anything can be upgraded
+
+        nala search packagename
+> search package
 </details>
 
 <br> <br> <br> <br> <br> <br> <br> <br>
@@ -243,6 +246,7 @@ particularly useful when you want to 'start all over' with an application becaus
 > [Nala](https://github.com/volitank/nala) - apt frontend<br>
 > [ufw](https://github.com/jbq/ufw) - firewall [Guide](https://christitus.com/linux-security-mistakes/)
 
+> [Windows in a Bottle](https://usebottles.com/)<br>
 > fastfetch [logo](https://github.com/fastfetch-cli/fastfetch/wiki/Logo-options)<br>
 > Drawing - Image Editor<br>
 > gThumb - Image Viewer<br>
@@ -297,22 +301,22 @@ particularly useful when you want to 'start all over' with an application becaus
 > [Czkawka Duplicate File Search](https://github.com/qarmin/czkawka?tab=readme-ov-file)<br>
 > Windy Weather Forecast https://www.windy.com <br>
 > [Everything (Fast File Explorer Search)](https://www.voidtools.com/) <br>
-> [Remote Desktop](https://parsec.app/)
+> [Remote Desktop](https://parsec.app/) <br>
 
-### Web browsing
+### Web Browser
 > [Popup Blocker](https://addons.mozilla.org/en-US/firefox/addon/popup-blocker/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
 > [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
 > [Smart HTTPS](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
 > [The Camelizer - Price Tracker](https://addons.mozilla.org/en-US/firefox/addon/the-camelizer-price-history-ch/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
 > [DocsAfterDark](https://addons.mozilla.org/en-US/firefox/addon/docsafterdark/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
 > [Youtube Ad Auto-skipper](https://addons.mozilla.org/en-US/firefox/addon/youtube-ad-auto-skipper/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
-> [Steamable Video Hosting](https://streamable.com/)
+> [Steamable Video Hosting](https://streamable.com/) <br>
+> https://regexr.com/
 
 ### Personal
-> https://regexr.com/ <br>
-> Temporary Video Sharing https://streamable.com/ <br>
 > [Discord History](https://github.com/Tyrrrz/DiscordChatExporter/releases) - [Guide](https://www.swipetips.com/how-to-download-your-chat-history-from-discord/) <br>
-> [Streaming](https://letflix.tv/movie/watch-stalker-17191)
+> [Streaming](https://letflix.tv/movie/watch-stalker-17191) <br>
+> [Reddit - multireddit of your subscriptions](https://old.reddit.com/r/0sanitymemes+1stPersonAnimations+ANormalDayInRussia+APK+Android+AndroidStudio+AniLick+AnimeInOurWorld+AnimeNoises+AnimeSleeves+AraAra+Arknuts+AzureLane+BDOBeautyAlbum+BMW+BTS+Battlefield+BirdsArentReal+Bitcoin+BitcoinBeginners+BitcoinMarkets+BlenderDoughnuts+CatastrophicFailure+Catswithjobs+Chonkers+Cytus+Damnthatsinteresting+EDM+EpicSeven+EscapefromTarkov+Etterna+FGOcomics+FGOfanart+Fate+FateExtra+FatePrismaIllya+Fencing+FiftyFifty+ForFashion+GFLNeuralCloud+GIRLSundPANZER+GearsOfWar+Genshin_Impact+Genshin_Memepact+GoblinSlayer+Gunime+Gunpla+HaloStory+HeadphoneAdvice+HighQualityReloads+HonkaiImpact+Itasha+JustKiddingNews+KurtzPel+Maplestory+MildFemboys+Minecraft+Music+OppaiLove+OsuSkins+OverlordNsfw+Overwatch+PcBuild+PetTheDamnCat+Piracy+ProgrammerHumor+PunishingGrayRaven+RealEstate+ReleaseMySoul+Rimuru+RoastMe+Saber+SelfDrivingCars+Shitty_Car_Mods+TacticalDolls+TarkovMemes+UnrestrictedGFL+WhatAWeeb+Whatcouldgowrong+YoujoSenki+androiddev+anime+animegifs+animenews+animenocontext+apexlegends+arknights+artknights+awwcoholics+bestofosu+blackdesertonline+blender+blenderhelp+bodyweightfitness+cars+cats+confusing_perspective+consentacles+cutelittlefangs+dankmemes+dogecoin+egg_irl+fateapocrypha+fatestaynight+fourminute+funny+gachagaming+gaming+gifs+girlsfrontline+goodanimemes+grailwhores+grandorder+hackernews+halo+hardware+instant_regret+insurgency+java+javagamedev+javahelp+jobs+karanokyoukai+killthecameraman+kpop+learnjava+learnjavascript+learnprogramming+lostarkgame+manga+massage+memes+modernwarfare+osugame+overlord+personalfinance+piano+pianocovers+pimpcats+pouts+red_velvet+sakimichan+science+smug+stalker+starcitizen+toarumajutsunoindex+touhou+tvxq+typemoon+u_CheetahSperm18+u_Chendroshee+u_Djinnfor+u_Hanada_Yanochi+u_Hentaki_Coco+u_Imagen-Breaker+u_Waifu-Is-Bae+u_ZumiDraws+u_chirofish+u_sevrivas262/)
 
 <details> 
   <summary style="font-weight:bold; font-size:1.3em">Anime</summary>
@@ -397,6 +401,9 @@ particularly useful when you want to 'start all over' with an application becaus
         Terminal
         Ctrl + Alt + T
 
+        Lockscreen 
+        Ctrl + Alt + L
+
 - Both
 
         Properties (File)
@@ -407,7 +414,7 @@ particularly useful when you want to 'start all over' with an application becaus
 
         Creates another instance of the current folder in a new window (File)
         Ctrl + N
-        
+
         Opens a tab (File, Firefox)
         Ctrl + T
 
