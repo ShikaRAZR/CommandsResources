@@ -269,7 +269,7 @@ particularly useful when you want to 'start all over' with an application becaus
   [Option 1](https://coolors.co/22276E-A5A3D4-5B61AE-4B3E7F-E7E2F2-7E6BA2-D2D5EE-2596BE)
   [Option 2](https://coolors.co/7f8acd-7368a5-dbdbef-131a6a-cac7e9-6f75c3-37397f-efeaf5)
   - Background 404 Clouds
-  - ~/.config/gtk-3.0/ OR /usr/share/themes/404-Cloud-Mint-Y-Dark-Blue/gtk-3.0/[gtk.css](gtk.css)[gtk.css](gtk.css)
+  - ~/.config/gtk-3.0/[gtk.css](gtk.css) OR /usr/share/themes/404-Cloud-Mint-Y-Dark-Blue/gtk-3.0/[gtk.css](gtk.css)
 </details><br>
 
 
