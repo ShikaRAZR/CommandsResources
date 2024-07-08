@@ -1,0 +1,101 @@
+headerbar.titlebar {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    min-height: 0;
+}
+
+decoration {
+    border: 0px solid #181237;
+    background: gray;
+}
+
+/* Active window colors */
+@define-color active_window_bg_color #5B61AE;
+@define-color active_window_fg_color @theme_selected_fg_color;
+
+/* Inactive window colors */
+@define-color inactive_window_fg_color @theme_unfocused_fg_color;
+@define-color inactive_window_bg_color #4B3E7F;
+
+headerbar {
+    box-shadow: none;
+}
+
+headerbar:not(:backdrop),
+headerbar:not(:backdrop) button:not(:backdrop) {
+    color: @active_window_fg_color;
+    background-color: @active_window_bg_color;
+    background-image: none;
+    border-color: @active_window_bg_color;
+    text-shadow: none;
+    -gtk-icon-shadow: none;
+}
+
+headerbar:backdrop,
+headerbar:backdrop button:backdrop {
+    color: @inactive_window_fg_color;
+    background-color: @inactive_window_bg_color;
+    background-image: none;
+    border-color: @inactive_window_bg_color;
+}
+
+
+/* Disables the circle image around the close button,
+     as well the "shadow" image of inactive window icons
+     for Mint-Y-Legacy themes.
+   */
+headerbar button.titlebutton,
+.titlebar button.titlebutton {
+    background-image: none;
+}
+
+
+headerbar button.titlebutton:not(:backdrop) {
+    color: @active_window_fg_color;
+}
+
+headerbar button.titlebutton:backdrop {
+    color: @inactive_window_fg_color;
+}
+
+/* Hover over icons will invert the image with a square image. */
+headerbar button.titlebutton:hover:not(:backdrop) {
+    color: @active_window_bg_color;
+    background-image: -gtk-gradient(radial, center center, 0, center center, 0.8, to(@active_window_fg_color), to(transparent));
+}
+
+headerbar button:hover:not(:backdrop) {
+    color: @active_window_bg_color;
+    background-color: @active_window_fg_color;
+}
+
+/* Clicking an icon will change the hover representation from circle to square. */
+headerbar button.titlebutton:active:not(:backdrop) {
+    color: @active_window_bg_color;
+    background-image: -gtk-gradient(radial, center center, 0, center center, 0.5, to(@active_window_fg_color), to(transparent));
+}
+
+/* Hover over icons will invert the image with a square image. */
+headerbar button.titlebutton:hover:backdrop {
+    color: @inactive_window_bg_color;
+    background-image: -gtk-gradient(radial, center center, 0, center center, 0.8, to(@inactive_window_fg_color), to(transparent));
+}
+
+headerbar button:hover:backdrop {
+    color: @inactive_window_bg_color;
+    background-color: @inactive_window_fg_color;
+}
+
+/* Clicking an icon will change the hover representation from circle to square. */
+headerbar button.titlebutton:active:backdrop {
+    color: @inactive_window_bg_color;
+    background-image: -gtk-gradient(radial, center center, 0, center center, 0.5, to(@inactive_window_fg_color), to(transparent));
+}
+
+/* Prevent dark squares appearing around unfocused
+     OSD app icons in new Mint-Y themes. */
+.titlebar button.titlebutton.maximize:hover,
+.titlebar button.titlebutton.minimize:hover,
+.titlebar button.titlebutton.close:hover {
+    background-image: none;
+}
