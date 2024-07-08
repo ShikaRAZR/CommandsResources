@@ -233,29 +233,7 @@ particularly useful when you want to 'start all over' with an application becaus
 
         nala search packagename
 > search package
-</details>
-
-<br> <br> <br> <br> <br> <br> <br> <br>
-
-
-
-<span style="font-size:12px"><a href="#top">Back to top</a></span>
-
-## General Application Link Stuff
-
-### Linux
-> Timeshift - OS Backup<br>
-> htop - Process Viewer<br>
-> fdisk, parted, gparted, gnome-disks - Partition Manager<br>
-> [Nala](https://github.com/volitank/nala) - apt frontend<br>
-> [ufw](https://github.com/jbq/ufw) - firewall [Guide](https://christitus.com/linux-security-mistakes/)
-
-> [Windows in a Bottle](https://usebottles.com/)<br>
-> fastfetch [logo](https://github.com/fastfetch-cli/fastfetch/wiki/Logo-options)<br>
-> Drawing - Image Editor<br>
-> gThumb - Image Viewer<br>
-> Vim - Text Editor<br>
-> [It's FOSS](https://itsfoss.com/)
+</details><br>
 
 <details> 
   <summary>Linux Mint Custom</summary>
@@ -281,11 +259,76 @@ particularly useful when you want to 'start all over' with an application becaus
   - gTiles 1(3,1.5---1) 2(3,1.5---1,1) 3(1,1---1) 4(.3,3,.3,4.5,.3---.5,8,.5)
 - Other
   - [Tela Icon](https://github.com/vinceliuice/Tela-icon-theme) [Guide](https://www.youtube.com/watch?v=oWRHumOldS8)
-  - Terminal Color #181237/Opacity/Palette:
+  - Terminal Color Alt+Enter:Preferences/No Menubar/#181237/Opacity/Palette:
   [Option 1](https://coolors.co/22276E-A5A3D4-5B61AE-4B3E7F-E7E2F2-7E6BA2-D2D5EE-2596BE)
   [Option 2](https://coolors.co/7f8acd-7368a5-dbdbef-131a6a-cac7e9-6f75c3-37397f-efeaf5)
   - Background 404 Clouds
+  - /usr/share/themes/404-Cloud-Mint-Y-Dark-Blue/gtk-3.0/gtk.css
+> add onto the css with the following:
+
+        headerbar.titlebar {
+                padding-top: 0px;
+                padding-bottom: 0px;
+                min-height: 0;
+        }
+        decoration {
+                border: 0px solid #181237;
+                background: gray;
+        }
+
+        /* Active window colors */
+        @define-color active_window_bg_color #5B61AE;
+        @define-color active_window_fg_color @theme_selected_fg_color;
+
+        /* Inactive window colors */
+        @define-color inactive_window_fg_color @theme_unfocused_fg_color;
+        @define-color inactive_window_bg_color #4B3E7F;
+
+        headerbar {
+                box-shadow: none;
+        }
+
+        headerbar:not(:backdrop),
+        headerbar:not(:backdrop) button:not(:backdrop) {
+                color: @active_window_fg_color;
+                background-color: @active_window_bg_color;
+                background-image: none;
+                border-color: @active_window_bg_color;
+                text-shadow: none;
+                -gtk-icon-shadow: none;
+        }
+
+        headerbar:backdrop,
+        headerbar:backdrop button:backdrop {
+                color: @inactive_window_fg_color;
+                background-color: @inactive_window_bg_color;
+                background-image: none;
+                border-color: @inactive_window_bg_color;
+        }
 </details><br>
+
+
+<br> <br> <br> <br> <br> <br> <br> <br>
+
+
+
+<span style="font-size:12px"><a href="#top">Back to top</a></span>
+
+## General Application Link Stuff
+
+### Linux
+> Timeshift - OS Backup<br>
+> htop - Process Viewer<br>
+> fdisk, parted, gparted, gnome-disks - Partition Manager<br>
+> [Nala](https://github.com/volitank/nala) - apt frontend<br>
+> [ufw](https://github.com/jbq/ufw) - firewall [Guide](https://christitus.com/linux-security-mistakes/)
+
+> [Windows in a Bottle](https://usebottles.com/)<br>
+> fastfetch [logo](https://github.com/fastfetch-cli/fastfetch/wiki/Logo-options)<br>
+> Drawing - Image Editor<br>
+> gThumb - Image Viewer<br>
+> Vim - Text Editor<br>
+> [It's FOSS](https://itsfoss.com/)
 
 ### Applications
 > [OBS](https://obsproject.com/)<br>
