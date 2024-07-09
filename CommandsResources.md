@@ -263,6 +263,7 @@ particularly useful when you want to 'start all over' with an application becaus
 
         git clone https://github.com/vinceliuice/Tela-icon-theme.git
         sudo -s
+        cd Tela-icon-theme/
         ./install.sh -d /usr/share/icons/
 
   - Terminal Color Alt+Enter:Preferences/No Menubar/#181237/Opacity/Palette:
