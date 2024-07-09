@@ -243,7 +243,7 @@ particularly useful when you want to 'start all over' with an application becaus
 </details><br>
 
 <details> 
-  <summary>Linux Mint Custom</summary>
+  <summary>Linux Mint 21.3 Custom</summary>
 
 - Favorites: 
   - Extensions
@@ -262,7 +262,7 @@ particularly useful when you want to 'start all over' with an application becaus
   - Discord
   - VSCodium
 - Extensions
-  - Transparent Panels Reloaded (Panel Color#352878/Opacity 70)
+  - Transparent Panels Reloaded (#181237/Opacity 70)
   - gTiles 1(3,1.5---1) 2(3,1.5---1,1) 3(1,1---1) 4(.3,3,.3,4.5,.3---.5,8,.5)
 - Other
   - [Tela Icon](https://github.com/vinceliuice/Tela-icon-theme) [Guide](https://www.youtube.com/watch?v=oWRHumOldS8)
@@ -274,10 +274,18 @@ particularly useful when you want to 'start all over' with an application becaus
         ./install.sh -d /usr/share/icons/
 
   - Terminal Color Alt+Enter:Preferences/No Menubar/#181237/Opacity/Palette:
-  [Option 1](https://coolors.co/22276E-A5A3D4-5B61AE-4B3E7F-E7E2F2-7E6BA2-D2D5EE-2596BE)
-  [Option 2](https://coolors.co/7f8acd-7368a5-dbdbef-131a6a-cac7e9-6f75c3-37397f-efeaf5)
+> [Option 1](https://coolors.co/22276e-a5a3d4-5b61ae-4b3e7f-e7e2f2-7e6ba2-2596be-d2d5ee)<br>
+> [Option 2](https://coolors.co/7f8acd-7368a5-dbdbef-131a6a-cac7e9-6f75c3-37397f-efeaf5)<br>
+> [Accents (Raw)](https://coolors.co/293fc8-d1a993-efdae9-9c7db5-d0e0f7)<br>
+> [Primary (Raw)](https://coolors.co/4e3473-614ea0-2b38a0-8590d0-e8e6f3)<br>
+> [Accents (Firefox)](https://coolors.co/0020f0-c7deff-ffccf1-ff9c66-a333ff)<br>
+> [Primary (Firefox)](https://coolors.co/2f1f46-3b2f60-1a2361-394794-7367b6)<br>
+> [Accents (VSCode)](https://coolors.co/334eff-4760ff-85b8ff-c7deff-ffccf1-ff85de-ff9c66)<br>
+> [Primary (VSCode)](https://coolors.co/2f1f46-3b2f60-3f4ea2-2f40b1-8075bd-11152c-161f50-362e60)<br>
+> Toolbar-Popup Color #394794, Text #C7DEFF, Background-Search #1A2361, Tab Highlight #FFCCF1
   - Background 404 Clouds
   - ~/.config/gtk-3.0/[gtk.css](gtk.css) OR /usr/share/themes/404-Cloud-Mint-Y-Dark-Blue/gtk-3.0/[gtk.css](gtk.css)
+  - Window Tiling - Drag to top maximizes
 </details><br>
 
 
@@ -342,7 +350,9 @@ particularly useful when you want to 'start all over' with an application becaus
 > [DocsAfterDark](https://addons.mozilla.org/en-US/firefox/addon/docsafterdark/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
 > [Youtube Ad Auto-skipper](https://addons.mozilla.org/en-US/firefox/addon/youtube-ad-auto-skipper/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
 > [Steamable Video Hosting](https://streamable.com/) <br>
-> https://regexr.com/
+> https://regexr.com/ <br>
+> [Hue Finder](https://colors.artyclick.com/color-hue-finder) <br>
+> [Color Palettes](https://coolors.co/)
 
 ### Personal
 > [Discord History](https://github.com/Tyrrrz/DiscordChatExporter/releases) - [Guide](https://www.swipetips.com/how-to-download-your-chat-history-from-discord/) <br>
