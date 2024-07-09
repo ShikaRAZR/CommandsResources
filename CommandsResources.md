@@ -312,9 +312,9 @@ particularly useful when you want to 'start all over' with an application becaus
 > [process_lasso](https://bitsum.com/)<br>
 > vscodium<br>
 > [vlc](https://www.videolan.org/vlc/)<br>
-> 7zip <br>
-> gpuz <br>
-> cpuz <br>
+> 7zip<br>
+> gpuz<br>
+> cpuz<br>
 > [WinDirStat](https://windirstat.net/)<br>
 > [Crystaldiskinfo](https://crystalmark.info/en/software/crystaldiskinfo/)<br>
 > [Mp3tag](https://www.mp3tag.de/en/)<br>
@@ -327,9 +327,12 @@ particularly useful when you want to 'start all over' with an application becaus
 > [LosslessCut](https://github.com/mifi/lossless-cut)<br>
 > [Discord](https://ptb.discord.com/download)<br>
 > [Czkawka Duplicate File Search](https://github.com/qarmin/czkawka?tab=readme-ov-file)<br>
-> Windy Weather Forecast https://www.windy.com <br>
-> [Everything (Fast File Explorer Search)](https://www.voidtools.com/) <br>
-> [Remote Desktop](https://parsec.app/) <br>
+> Windy Weather Forecast https://www.windy.com<br>
+> [Everything (Fast File Explorer Search)](https://www.voidtools.com/)<br>
+> [Remote Desktop](https://parsec.app/)<br>
+> LibreOffice (Document Reader)<br>
+> Anki (Flashcard)
+
 
 ### Web Browser
 > [Popup Blocker](https://addons.mozilla.org/en-US/firefox/addon/popup-blocker/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
@@ -382,7 +385,8 @@ particularly useful when you want to 'start all over' with an application becaus
 > [Escape From Tarkov Wiki](https://escapefromtarkov.gamepedia.com/Escape_from_Tarkov_Wiki) [Armor](https://tarkov.dev/items/armors) [Ammo](https://www.eft-ammo.com/ammo-graph)<br>
 > https://eftfg.com/ammo<br>
 > [Steam](https://store.steampowered.com/)<br>
-> [Switch Emulator](https://ryujinx.org/download)
+> [Switch Emulator](https://ryujinx.org/download)<br>
+> [ATLauncher (Minecraft)](https://atlauncher.com/)
 
 <details> 
   <summary style="font-weight:bold; font-size:1.3em">JP</span></summary>
