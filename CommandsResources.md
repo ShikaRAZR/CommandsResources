@@ -235,6 +235,13 @@ particularly useful when you want to 'start all over' with an application becaus
 > search package
 </details><br>
 
+<details>
+  <summary>Other Commands</summary>
+  
+        gnome-screenshot -a
+> Gnome Screenshot - Snipping
+</details><br>
+
 <details> 
   <summary>Linux Mint Custom</summary>
 
