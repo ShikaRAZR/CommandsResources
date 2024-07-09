@@ -282,7 +282,7 @@ particularly useful when you want to 'start all over' with an application becaus
 > [Primary (Firefox)](https://coolors.co/2f1f46-3b2f60-1a2361-394794-7367b6)<br>
 > [Accents (VSCode)](https://coolors.co/334eff-4760ff-85b8ff-c7deff-ffccf1-ff85de-ff9c66)<br>
 > [Primary (VSCode)](https://coolors.co/2f1f46-3b2f60-3f4ea2-2f40b1-8075bd-11152c-161f50-362e60)<br>
-> Toolbar-Popup Color #394794, Text #C7DEFF, Background-Search #1A2361, Tab Highlight #FFCCF1
+> Toolbar-Popup Color #5B61AE, Text #C7DEFF, Background-Search #1A2361, Tab Highlight #FFCCF1
   - Background 404 Clouds
   - ~/.config/gtk-3.0/[gtk.css](gtk.css) OR /usr/share/themes/404-Cloud-Mint-Y-Dark-Blue/gtk-3.0/[gtk.css](gtk.css)
   - Window Tiling - Drag to top maximizes
@@ -303,7 +303,9 @@ particularly useful when you want to 'start all over' with an application becaus
 > htop - Process Viewer<br>
 > fdisk, parted, gparted, gnome-disks - Partition Manager<br>
 > [Nala](https://github.com/volitank/nala) - apt frontend<br>
-> [ufw](https://github.com/jbq/ufw) - firewall [Guide](https://christitus.com/linux-security-mistakes/)
+> [ufw](https://github.com/jbq/ufw) - firewall [Guide](https://christitus.com/linux-security-mistakes/)<br>
+> [Firejail Sandbox](https://github.com/netblue30/firejail)<br>
+> Git
 
 > [Windows in a Bottle](https://usebottles.com/)<br>
 > fastfetch [logo](https://github.com/fastfetch-cli/fastfetch/wiki/Logo-options)<br>
@@ -349,6 +351,8 @@ particularly useful when you want to 'start all over' with an application becaus
 > [The Camelizer - Price Tracker](https://addons.mozilla.org/en-US/firefox/addon/the-camelizer-price-history-ch/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
 > [DocsAfterDark](https://addons.mozilla.org/en-US/firefox/addon/docsafterdark/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
 > [Youtube Ad Auto-skipper](https://addons.mozilla.org/en-US/firefox/addon/youtube-ad-auto-skipper/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
+>[Tabliss](https://addons.mozilla.org/en-US/firefox/addon/tabliss/)
+
 > [Steamable Video Hosting](https://streamable.com/) <br>
 > https://regexr.com/ <br>
 > [Hue Finder](https://colors.artyclick.com/color-hue-finder) <br>
