@@ -313,6 +313,7 @@ particularly useful when you want to 'start all over' with an application becaus
 > gThumb - Image Viewer<br>
 > Vim - Text Editor<br>
 > [It's FOSS](https://itsfoss.com/)
+> [Linux Ricing](https://github.com/avtzis/awesome-linux-ricing)
 
 ### Applications
 > [OBS](https://obsproject.com/)<br>
@@ -473,6 +474,9 @@ particularly useful when you want to 'start all over' with an application becaus
 
         Moves across tabs (File, Firefox)
         Ctrl + Tab, Ctrl + Shift + Tab
+
+        Close Tab (File, Firefox)
+        Ctrl + W
 </details>
 
 
