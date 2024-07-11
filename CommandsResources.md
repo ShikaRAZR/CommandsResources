@@ -342,6 +342,7 @@ particularly useful when you want to 'start all over' with an application becaus
 > [Everything (Fast File Explorer Search)](https://www.voidtools.com/)<br>
 > [Remote Desktop](https://parsec.app/)<br>
 > LibreOffice (Document Reader)<br>
+> [QEMU](https://www.qemu.org/download/#windows) [GUI](https://qtemu.org/)<br>
 > Anki (Flashcard)
 
 
