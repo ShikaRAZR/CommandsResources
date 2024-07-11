@@ -1,4 +1,4 @@
-Commands & Resources
+# Commands & Resources
 List of commands and resources that are personally useful for me.
 
 ## Table of Contents
