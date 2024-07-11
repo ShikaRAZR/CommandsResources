@@ -1,4 +1,4 @@
-# Commands & Resources
+https://addons.mozilla.org/en-US/firefox/addon/blocksite/# Commands & Resources
 List of commands and resources that are personally useful for me.
 
 ## Table of Contents
@@ -347,14 +347,15 @@ particularly useful when you want to 'start all over' with an application becaus
 
 
 ### Web Browser
-> [Popup Blocker](https://addons.mozilla.org/en-US/firefox/addon/popup-blocker/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
-> [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
-> [Smart HTTPS](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
-> [The Camelizer - Price Tracker](https://addons.mozilla.org/en-US/firefox/addon/the-camelizer-price-history-ch/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
-> [DocsAfterDark](https://addons.mozilla.org/en-US/firefox/addon/docsafterdark/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
+> [Popup Blocker](https://addons.mozilla.org/en-US/firefox/addon/popup-blocker/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
+> [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
+> [Smart HTTPS](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
+> [The Camelizer - Price Tracker](https://addons.mozilla.org/en-US/firefox/addon/the-camelizer-price-history-ch/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
+> [DocsAfterDark](https://addons.mozilla.org/en-US/firefox/addon/docsafterdark/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
 > [Youtube Ad Auto-skipper](https://addons.mozilla.org/en-US/firefox/addon/youtube-ad-auto-skipper/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
->[Tabliss](https://addons.mozilla.org/en-US/firefox/addon/tabliss/) <br>
-> [Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/)
+>[Tabliss](https://addons.mozilla.org/en-US/firefox/addon/tabliss/)<br>
+> [Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/)<br>
+> [Website Blocker](https://addons.mozilla.org/en-US/firefox/addon/block-website/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) [Git](https://github.com/ray-lothian/Block-Site)
 
 > [Steamable Video Hosting](https://streamable.com/) <br>
 > https://regexr.com/ <br>
@@ -478,6 +479,9 @@ particularly useful when you want to 'start all over' with an application becaus
 
         Close Tab (File, Firefox)
         Ctrl + W
+
+        Cut
+        Ctrl + X
 </details>
 
 
