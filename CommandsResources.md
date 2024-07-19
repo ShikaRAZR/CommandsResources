@@ -217,16 +217,16 @@ particularly useful when you want to 'start all over' with an application becaus
         Mirrors you want to keep separated by spaces (1..16): 1 2 3
 > fetch debian mirrors test for fast download
         
+        sudo nala update
+        sudo nala upgrade
+> ^DO ABOVE FIRST fetch lastest package, install updates
+
         sudo nala install packagename
 > install package
 
         sudo nala purge packagename
         sudo nala autoremove
 >uninstall package, remove unused packages
-
-        sudo nala update
-        sudo nala upgrade
-> fetch lastest package, install updates
 
         nala list --upgradable
 > see from update if anything can be upgraded
