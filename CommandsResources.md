@@ -251,6 +251,7 @@ particularly useful when you want to 'start all over' with an application becaus
   - Disks (gnome-disks)
   - Disk Usage Analyzer (baobab)
   - Update Manager
+  - Timeshift
 - Panel:
   - System monitor
   - Files
@@ -286,6 +287,7 @@ particularly useful when you want to 'start all over' with an application becaus
   - Background 404 Clouds
   - ~/.config/gtk-3.0/[gtk.css](gtk.css) OR /usr/share/themes/404-Cloud-Mint-Y-Dark-Blue/gtk-3.0/[gtk.css](gtk.css)
   - Window Tiling - Drag to top maximizes
+  - Sound - Sounds - Tiling and snapping windows (Off)
 </details><br>
 
 
@@ -305,15 +307,18 @@ particularly useful when you want to 'start all over' with an application becaus
 > [Nala](https://github.com/volitank/nala) - apt frontend<br>
 > [ufw](https://github.com/jbq/ufw) - firewall [Guide](https://christitus.com/linux-security-mistakes/)<br>
 > [Firejail Sandbox](https://github.com/netblue30/firejail)<br>
-> Git
+> Git<br>
 
 > [Windows in a Bottle](https://usebottles.com/)<br>
 > fastfetch [logo](https://github.com/fastfetch-cli/fastfetch/wiki/Logo-options)<br>
 > Drawing - Image Editor<br>
 > gThumb - Image Viewer<br>
 > Vim - Text Editor<br>
-> [It's FOSS](https://itsfoss.com/)
-> [Linux Ricing](https://github.com/avtzis/awesome-linux-ricing)
+> [It's FOSS](https://itsfoss.com/)<br>
+> [Linux Ricing](https://github.com/avtzis/awesome-linux-ricing)<br>
+
+### Android
+> [Openboard](https://github.com/openboard-team/openboard)<br>
 
 ### Applications
 > [OBS](https://obsproject.com/)<br>
@@ -343,7 +348,7 @@ particularly useful when you want to 'start all over' with an application becaus
 > [Remote Desktop](https://parsec.app/)<br>
 > LibreOffice (Document Reader)<br>
 > [QEMU](https://www.qemu.org/download/#windows) [GUI](https://qtemu.org/)<br>
-> Anki (Flashcard)
+> Anki (Flashcard)<br>
 
 
 ### Web Browser
