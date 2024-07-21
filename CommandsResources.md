@@ -319,7 +319,9 @@ particularly useful when you want to 'start all over' with an application becaus
 
 ### Android
 > [Openboard](https://github.com/openboard-team/openboard)<br>
-> [F-Droid](https://f-droid.org/en/)
+> [F-Droid](https://f-droid.org/en/)<br>
+> [dvd (yt-dlp)](https://f-droid.org/packages/org.yausername.dvd/)<br>
+> [New Pipe](https://f-droid.org/en/packages/org.schabi.newpipe/)<br>
 
 ### Applications
 > [OBS](https://obsproject.com/)<br>
