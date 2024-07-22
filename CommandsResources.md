@@ -353,6 +353,7 @@ particularly useful when you want to 'start all over' with an application becaus
 > LibreOffice (Document Reader)<br>
 > [QEMU](https://www.qemu.org/download/#windows) [GUI](https://qtemu.org/)<br>
 > Anki (Flashcard)<br>
+> [Youtube TV](https://github.com/marcosrg9/YouTubeTV?tab=readme-ov-file)<br>
 
 
 ### Web Browser
