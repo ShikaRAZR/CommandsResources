@@ -324,6 +324,7 @@ particularly useful when you want to 'start all over' with an application becaus
 > [New Pipe](https://f-droid.org/en/packages/org.schabi.newpipe/)<br>
 
 ### Applications
+> [Chromium](https://www.chromium.org/getting-involved/download-chromium/)(Not-as-easy steps: Snapshots)<br>
 > [OBS](https://obsproject.com/)<br>
 > [ffmpeg](https://ffmpeg.org/)<br>
 > [youtube-dl](https://github.com/yt-dlp/yt-dlp)<br>
