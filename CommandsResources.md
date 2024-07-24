@@ -154,7 +154,9 @@ ___
   - Device - Insert Guest Additions CD Image...
   - Go to disk and run:
 
-        sudo ./VBoxLinuxAdditions.run<br>
+        sudo ./VBoxLinuxAdditions.run
+  - Give permissions to sharedfolder
+  
         sudo adduser 'user' vboxsf
 </details><br>
 
