@@ -317,6 +317,7 @@ particularly useful when you want to 'start all over' with an application becaus
 > gThumb - Image Viewer<br>
 > Vim - Text Editor<br>
 > [It's FOSS](https://itsfoss.com/)<br>
+> [sysguides](https://sysguides.com/)<br>
 > [Linux Ricing](https://github.com/avtzis/awesome-linux-ricing)<br>
 
 ### Android
