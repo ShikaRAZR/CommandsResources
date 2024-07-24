@@ -172,8 +172,7 @@ particularly useful when you want to 'start all over' with an application becaus
 
 
 
-<details> 
-  <summary>Virtual Machine/Emulation/Containers</summary>
+
 
 <details> 
   <summary>KVM Qemu VirtManager</summary>
@@ -182,6 +181,10 @@ particularly useful when you want to 'start all over' with an application becaus
 [Article](https://sysguides.com/install-kvm-on-linux)
 
 </details><br>
+
+
+
+
 
 <details> 
   <summary>Waydroid</summary>
@@ -251,7 +254,5 @@ particularly useful when you want to 'start all over' with an application becaus
     waydroid prop set persist.waydroid.width 0-9999 (int)
     waydroid prop set persist.waydroid.height 0-9999 (int)
 > Resolution
-
-</details><br>
 
 </details><br>
