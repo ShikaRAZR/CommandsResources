@@ -32,9 +32,9 @@
   - awk -F ':a' - Separate the architecture field from the package name
   - column -t - pretty print the columns separated by space
   - As shown above, it only works on ARM architecture and need slight modification for the architecture field separator 
-</details>
 
         for x in $(ls -1t /var/log/dpkg.log*); do zcat -f $x |tac |grep -e " install " -e " upgrade "; done |awk -F ":a" '{print $1 " :a" $2}' |column -t
+</details><br>
 
 
 
@@ -110,6 +110,10 @@ particularly useful when you want to 'start all over' with an application becaus
         nala search packagename
 > search package
 </details><br>
+
+
+
+
 
 <details>
   <summary>Other Commands</summary>
