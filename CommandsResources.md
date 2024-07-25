@@ -145,13 +145,14 @@ ___
 ## General Application Link Stuff
 
 ### Linux
-> Timeshift - OS Backup<br>
-> htop - Process Viewer<br>
-> fdisk, parted, gparted, gnome-disks - Partition Manager<br>
 > [Nala](https://github.com/volitank/nala) - apt frontend<br>
+> htop - Process Viewer<br>
+> Git<br>
+> Mission Center<br>
+> Timeshift - OS Backup<br>
+> fdisk, parted, gparted, gnome-disks - Partition Manager<br>
 > [ufw](https://github.com/jbq/ufw) - firewall [Guide](https://christitus.com/linux-security-mistakes/)<br>
 > [Firejail Sandbox](https://github.com/netblue30/firejail)<br>
-> Git<br>
 
 > [Windows in a Bottle](https://usebottles.com/)<br>
 > fastfetch [logo](https://github.com/fastfetch-cli/fastfetch/wiki/Logo-options)<br>
