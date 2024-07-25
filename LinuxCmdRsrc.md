@@ -281,5 +281,12 @@ particularly useful when you want to 'start all over' with an application becaus
     sudo ufw allow 53
     sudo ufw allow 67
     sudo ufw default allow FORWARD
+    sudo systemctl restart ufw
 > UFW/GUFW ports required
+
+    sudo ufw reset
+    sudo ufw enable
+    sudo ufw default reject
+    sudo systemctl restart ufw
+> ufw default
 </details><br>
