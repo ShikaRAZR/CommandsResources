@@ -149,6 +149,12 @@ particularly useful when you want to 'start all over' with an application becaus
 - Extensions
   - Transparent Panels Reloaded (#181237/Opacity 70)
   - gTiles 1(3,1.5---1) 2(3,1.5---1,1) 3(1,1---1) 4(.3,3,.3,4.5,.3---.5,8,.5)
+- Applets
+  - Command Launcher
+  
+        gnome-screenshot -w (screenshot current window)
+        gnome-terminal -- waydroid (run waydroid on terminal)
+
 - Other
   - [Tela Icon](https://github.com/vinceliuice/Tela-icon-theme) [Guide](https://www.youtube.com/watch?v=oWRHumOldS8)
 > Commands
