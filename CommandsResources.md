@@ -315,6 +315,11 @@ ___
         Run console
         Alt + F2
 
+        Move Window (Keyboard Only)
+        Alt + F7 (Esc- Cancel, Enter - Finish)
+
+        Resize Window (Keyboard Only)
+        Alt + F8 (Esc- Cancel, Enter - Finish)
 - Both
 
         Properties (File)
