@@ -157,23 +157,24 @@ particularly useful when you want to 'start all over' with an application becaus
 
 - Other
   - [Tela Icon](https://github.com/vinceliuice/Tela-icon-theme) [Guide](https://www.youtube.com/watch?v=oWRHumOldS8)
-> Commands
+  - Commands:
 
         git clone https://github.com/vinceliuice/Tela-icon-theme.git
         sudo -s
         cd Tela-icon-theme/
         ./install.sh -d /usr/share/icons/
 
-  - Terminal Color Alt+Enter:Preferences/No Menubar/#181237/Opacity/Palette:
-> [Option 1](https://coolors.co/22276e-a5a3d4-5b61ae-4b3e7f-e7e2f2-7e6ba2-2596be-d2d5ee)<br>
-> [Option 2](https://coolors.co/7f8acd-7368a5-dbdbef-131a6a-cac7e9-6f75c3-37397f-efeaf5)<br>
-> [Accents (Raw)](https://coolors.co/293fc8-d1a993-efdae9-9c7db5-d0e0f7)<br>
-> [Primary (Raw)](https://coolors.co/4e3473-614ea0-2b38a0-8590d0-e8e6f3)<br>
-> [Accents (Firefox)](https://coolors.co/0020f0-c7deff-ffccf1-ff9c66-a333ff)<br>
-> [Primary (Firefox)](https://coolors.co/2f1f46-3b2f60-1a2361-394794-7367b6)<br>
-> [Accents (VSCode)](https://coolors.co/334eff-4760ff-85b8ff-c7deff-ffccf1-ff85de-ff9c66)<br>
-> [Primary (VSCode)](https://coolors.co/2f1f46-3b2f60-3f4ea2-2f40b1-8075bd-11152c-161f50-362e60)<br>
-> Toolbar-Popup Color #5B61AE, Text #C7DEFF, Background-Search #1A2361, Tab Highlight #FFCCF1
+  - Terminal Color Alt+Enter:Preferences/No Menubar/#181237/Opacity/Palette:<br>
+    [Option 1](https://coolors.co/22276e-a5a3d4-5b61ae-4b3e7f-e7e2f2-7e6ba2-2596be-d2d5ee)<br>
+    [Option 2](https://coolors.co/7f8acd-7368a5-dbdbef-131a6a-cac7e9-6f75c3-37397f-efeaf5)
+    [Accents (Raw)](https://coolors.co/293fc8-d1a993-efdae9-9c7db5-d0e0f7)
+    [Primary (Raw)](https://coolors.co/4e3473-614ea0-2b38a0-8590d0-e8e6f3)
+    [Accents (Firefox)](https://coolors.co/0020f0-c7deff-ffccf1-ff9c66-a333ff)
+    [Primary (Firefox)](https://coolors.co/2f1f46-3b2f60-1a2361-394794-7367b6)
+    [Accents (VSCode)](https://coolors.co/334eff-4760ff-85b8ff-c7deff-ffccf1-ff85de-ff9c66)
+    [Primary (VSCode)](https://coolors.co/2f1f46-3b2f60-3f4ea2-2f40b1-8075bd-11152c-161f50-362e60)<br>
+
+  - Firefox: Toolbar-Popup Color #5B61AE, Text #C7DEFF, Background-Search #1A2361, Tab Highlight #FFCCF1
   - Background 404 Clouds
   - ~/.config/gtk-3.0/[gtk.css](gtk.css) OR /usr/share/themes/404-Cloud-Mint-Y-Dark-Blue/gtk-3.0/[gtk.css](gtk.css)
   - Window Tiling - Drag to top maximizes
