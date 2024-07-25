@@ -154,6 +154,14 @@ particularly useful when you want to 'start all over' with an application becaus
   
         gnome-screenshot -w (screenshot current window)
         gnome-terminal -- waydroid (run waydroid on terminal)
+- Keyboard > Shortcuts
+  - Windows > Position > Move Window (Add)
+
+        Shift + Ctrl + Alt + Z
+  - Custom Shortcuts > gnome-screenshot-snip (Make)
+
+        gnome-screenshot -a
+        Shift + Ctrl + Alt + S
 
 - Other
   - [Tela Icon](https://github.com/vinceliuice/Tela-icon-theme) [Guide](https://www.youtube.com/watch?v=oWRHumOldS8)
@@ -164,7 +172,7 @@ particularly useful when you want to 'start all over' with an application becaus
         cd Tela-icon-theme/
         ./install.sh -d /usr/share/icons/
 
-  - Terminal Color Alt+Enter:Preferences/No Menubar/#181237/Opacity/Palette:<br>
+  - Terminal Color #181237/Preferences: Alt+Enter/No Menubar/Opacity/Palette:<br>
     [Option 1](https://coolors.co/22276e-a5a3d4-5b61ae-4b3e7f-e7e2f2-7e6ba2-2596be-d2d5ee)<br>
     [Option 2](https://coolors.co/7f8acd-7368a5-dbdbef-131a6a-cac7e9-6f75c3-37397f-efeaf5)
     [Accents (Raw)](https://coolors.co/293fc8-d1a993-efdae9-9c7db5-d0e0f7)
