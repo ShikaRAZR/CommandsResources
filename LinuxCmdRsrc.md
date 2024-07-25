@@ -154,7 +154,7 @@ particularly useful when you want to 'start all over' with an application becaus
   - Command Launcher
   
         gnome-screenshot -w (screenshot current window)
-        gnome-terminal -- waydroid (run waydroid on terminal)
+        gnome-terminal -- waydroid first-launch (run waydroid on terminal)
 - Keyboard > Shortcuts
   - Windows > Position > Move Window (Add)
 
