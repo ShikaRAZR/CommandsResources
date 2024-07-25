@@ -211,7 +211,8 @@ particularly useful when you want to 'start all over' with an application becaus
 
 [Linux Mint Waydroid Setup](https://medium.com/@tony.j.miri/android-on-linux-mint-with-waydroid-setup-guide-ff0ca8eab22)<br>
 [Waydroid Extras Script For Gaming](https://github.com/casualsnek/waydroid_script?tab=readme-ov-file)<br>
-[Waydroid Resolution Change](https://docs.waydro.id/usage/waydroid-prop-options)
+[Waydroid Resolution Change](https://docs.waydro.id/usage/waydroid-prop-options)<br>
+[Waydroid Network Issues](https://docs.waydro.id/debugging/networking-issues)<br>
 
 ### Waydroid Install Commands
 
@@ -250,7 +251,7 @@ particularly useful when you want to 'start all over' with an application becaus
     python3 -m venv venv
     venv/bin/pip install -r requirements.txt
     sudo venv/bin/python3 main.py
-> install/run script
+> install/run script (gapps, libhoudini, magisk)
 
 <br><br>
 ### Granting full permission for apps data (HACK), combat against the apps permission issue on Android 11
@@ -275,4 +276,10 @@ particularly useful when you want to 'start all over' with an application becaus
     waydroid prop set persist.waydroid.height 0-9999 (int)
 > Resolution
 
+### Waydroid Network Requirements
+
+    sudo ufw allow 53
+    sudo ufw allow 67
+    sudo ufw default allow FORWARD
+> UFW/GUFW ports required
 </details><br>
