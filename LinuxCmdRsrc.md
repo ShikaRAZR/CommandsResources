@@ -135,6 +135,7 @@ particularly useful when you want to 'start all over' with an application becaus
   - Disks (gnome-disks)
   - Disk Usage Analyzer (baobab)
   - Update Manager
+  - Firewall Configuration (gufw)
   - Timeshift
 - Panel:
   - System monitor
