@@ -625,6 +625,7 @@ Google2SRT
 <img src="Standard Wallpapers/Predator.png">
 <img src="Standard Wallpapers/Red Wallpaper.jpg">
 <img src="Standard Wallpapers/Saber 8.png">
+<img src="Standard Wallpapers/Small Pic Svarog Heavy Industries.png">
 <img src="Standard Wallpapers/tumblr_owrccebouC1u41kbzo1_1280.png">
 
 </details> <br><br>
