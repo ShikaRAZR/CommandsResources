@@ -358,6 +358,34 @@ ___
 - https://youtube-dl.org/ Old/Original
 - https://github.com/yt-dlp/yt-dlp New/Update
 
+### Main Commands 
+#### ($ means input variable)
+
+        yt-dlp.exe -f bestaudio $link -o "\Downloads\%(title)s.%(ext)s"
+> Command Example
+
+        -f bestaudio
+        -f bestvideo
+        -f bestaudio + bestvideo
+
+        --cookies-from-browser [brave, chrome, chromium, edge, firefox, opera, safari]
+        --add-header $link
+        --autonumber-start $number
+        --playlist-start $start
+        --playlist-end $end
+
+        -o "\Downloads\%(title)s.%(ext)s"
+        -o "%(autonumber)0Nd-%(title)s.%(ext)s"
+> Extension Options
+
+        yt-dlp.exe -f bestaudio --autonumber-start $number --playlist-start $start --playlist-end $end $link -o "\Downloads\%(autonumber)0d-%(title)s.%(ext)s"
+
+        yt-dlp.exe --add-header "Referer: https://girlsfrontline.kr/db/musicplayer/" -a templist.txt -o "%(autonumber)03d-(%(id)s).%(ext)s"
+> More Examples
+<details> 
+  <summary>Commands</summary>
+
+
         .\youtube-dl.exe --help
         youtube-dl -F "link" //displays video options to dowload
         youtube-dl -f "number" "link" //"number" - to select video quality
@@ -394,6 +422,7 @@ ___
 Use output template with %(autonumber)0Nd, where N in the number of digits instead.
 
         youtube-dl -f best -o "%(autonumber)03d-%(title)s.%(ext)s" -a GFLSongs.txt --autonumber-start 66 --add-header "
+</details> 
 
 
 <details> 
