@@ -380,8 +380,43 @@ ___
 
         yt-dlp.exe -f bestaudio --autonumber-start $number --playlist-start $start --playlist-end $end $link -o "\Downloads\%(autonumber)0d-%(title)s.%(ext)s"
 
-        yt-dlp.exe --add-header "Referer: https://girlsfrontline.kr/db/musicplayer/" -a templist.txt -o "%(autonumber)03d-(%(id)s).%(ext)s"
+        yt-dlp.exe --add-header "Referer: https://girlsfrontline.kr/db/musicplayer/" -a templist.txt -o "\Downloads\%(autonumber)03d-(%(id)s).%(ext)s"
+
+        yt-dlp.exe "Referer: https://downloads.khinsider.com/" -a templist.txt -o "\Downloads\%(id)s.%(ext)s"
 > More Examples
+
+        https://girlsfrontline.kr/db/musicplayer/
+        <li><a href="#" data-src="
+        everything before link
+
+        "[\s\S]*$
+        Everything after link
+
+
+        https://downloads.khinsider.com/ (copy inner html)
+        .+(?=\bhref\b)
+        everything before href
+
+        ^((?!href).)*$
+        any lines that dont have href 
+
+        (\r?\n)(?:\r?\n)+
+        all blank lines 
+
+        (?<=.mp3).*
+        everything after .mp3 
+
+        href="
+        Replace with:
+        https://downloads.khinsider.com
+
+        command pallete - "delete duplicate lines"
+> Regex
+
+
+
+
+
 <details> 
   <summary>Commands</summary>
 
