@@ -1,6 +1,7 @@
 # Commands & Resources
 List of commands and resources that are personally useful for me.
 
+VS Code Settings Markdown > Preview Scroll Editor/Preview with Preview/Editor
 ## Table of Contents
 1. [Markdown Guide](#markdown-guide)
 2. [Git Commands](#git-commands)
@@ -196,7 +197,7 @@ ___
 > Windy Weather Forecast https://www.windy.com<br>
 > [Everything (Fast File Explorer Search)](https://www.voidtools.com/)<br>
 > [Remote Desktop](https://parsec.app/)<br>
-> LibreOffice (Document Reader)<br>
+> LibreOffice (Document Reader) [AbiWord](https://github.com/AbiWord/abiword?tab=readme-ov-file) [LaTeX (miktex)](https://www.latex-project.org/get/#tex-distributions)<br>
 > [QEMU](https://www.qemu.org/download/#windows) [GUI](https://qtemu.org/)<br>
 > Anki (Flashcard)<br>
 > [Youtube TV](https://github.com/marcosrg9/YouTubeTV?tab=readme-ov-file)<br>
