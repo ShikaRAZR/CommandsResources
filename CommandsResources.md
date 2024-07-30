@@ -202,6 +202,7 @@ ___
 > Anki (Flashcard)<br>
 > [Youtube TV](https://github.com/marcosrg9/YouTubeTV?tab=readme-ov-file)<br>
 > [Bulk File Rename Utility](https://www.bulkrenameutility.co.uk/)<br>
+> [Music Player](https://mpv.io/)<br>
 
 
 ### Web Browser
