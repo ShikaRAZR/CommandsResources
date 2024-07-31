@@ -241,29 +241,48 @@ ___
   mangadex mangalife mangahub
 </details>
 
-> My Anime List https://myanimelist.net/<br>
-> Image Search https://findit.moe/ https://iqdb.org/ https://saucenao.com/<br>
-> Upscaler https://waifu2x.udp.jp/ <br>
-> Manga EN https://mangadex.org/ https://tachiyomi.org/<br>
-> Manga JP https://j8jp.com/manga/list-mode/ https://welovemanga.one/manga-list.html https://nicomanga.com/<br>
+> [My Anime List](https://myanimelist.net/)<br>
+> Image Search [findit](https://findit.moe/) [iqdb](https://iqdb.org/) [saucenao](https://saucenao.com/)<br>
+> Upscaler [waifu2x](https://waifu2x.udp.jp/) <br>
+> Manga EN [mangadex](https://mangadex.org/) [tachiyomi](https://tachiyomi.org/)<br>
+> Manga JP 
+[j8jp](https://j8jp.com/manga/list-mode/) 
+[welovemanga](https://welovemanga.one/manga-list.html) 
+[nicomanga](https://nicomanga.com/)<br>
 > Manga DL 
 [Tachidesk](https://github.com/Suwayomi/Tachidesk-Server#what-is-tachidesk) [Kindle-Comic-Converter-kcc_5.6.2.exe](https://github.com/ciromattia/kcc) 
 [Kindlegen](https://github.com/ciromattia/kcc/issues/371)<br>
-> Anime DL https://animekaizoku.com/ https://www.animeout.xyz/ https://anidl.org/ https://kayoanime.com/ https://anidl.org/ https://www.animesenpai4u.com/ https://mkvshows.com/<br>
-> Stream https://aniwave.to/ https://animepahe.ru/ https://littleweeb.github.io/ https://kickassanime.am/<br>
-> Music https://downloads.khinsider.com/ <br>
-> Sheet Music https://josh.agarrado.net/music/anime/index.php <br>
+> Anime DL 
+[animekaizoku](https://animekaizoku.com/)
+[animeout](https://www.animeout.xyz/)
+[anidl](https://anidl.org/)
+[kayoanime](https://kayoanime.com/)
+[anidl](https://anidl.org/)
+[animesenpai4u](https://www.animesenpai4u.com/)
+[mkvshows](https://mkvshows.com/)<br>
+> Stream 
+[aniwave](https://aniwave.to/)
+[animepahe](https://animepahe.ru/)
+[littleweeb](https://littleweeb.github.io/)
+[kickassanime](https://kickassanime.am/)<br>
+> Music [khinsider](https://downloads.khinsider.com/) <br>
+> [Sheet Music agarrado](https://josh.agarrado.net/music/anime/index.php) <br>
 
 ### Game Stuff
 > Osu replays https://ordr.issou.best/ <br>
-> https://www.gflcorner.com/ <br>
-> [GFL Logistics Calculator](https://tempkaridc.github.io/gf/) <br>
-> [Arknights Aceship's Toolbox](https://aceship.github.io/AN-EN-Tags/index.html) <br>
 > [Escape From Tarkov Wiki](https://escapefromtarkov.gamepedia.com/Escape_from_Tarkov_Wiki) [Armor](https://tarkov.dev/items/armors) [Ammo](https://www.eft-ammo.com/ammo-graph)<br>
 > https://eftfg.com/ammo<br>
 > [Steam](https://store.steampowered.com/)<br>
 > [Switch Emulator](https://ryujinx.org/download)<br>
 > [ATLauncher (Minecraft)](https://atlauncher.com/)
+
+> [Girls' Frontline Cutscene Interpreter](https://gfl.amaryllisworks.pw/)
+> [GFL Corner](https://www.gflcorner.com/)
+> [GFL Music Player](https://girlsfrontline.kr/musicplayer)
+> [GFL Logistics Calculator](https://tempkaridc.github.io/gf/) <br>
+> [Arknights Tier List](https://ak.gamepress.gg/tier-list/arknights-operator-tier-list)
+> [Arknights Aceship's Toolbox](https://aceship.github.io/AN-EN-Tags/index.html) <br>
+
 
 <details> 
   <summary style="font-weight:bold; font-size:1.3em">JP</span></summary>
