@@ -165,6 +165,7 @@ ___
 > [Linux Ricing](https://github.com/avtzis/awesome-linux-ricing)<br>
 
 ### Android
+> [Aurora Store](https://auroraoss.com/)<br>
 > [Openboard](https://github.com/openboard-team/openboard)<br>
 > [F-Droid](https://f-droid.org/en/)<br>
 > [dvd (yt-dlp)](https://f-droid.org/packages/org.yausername.dvd/)<br>
