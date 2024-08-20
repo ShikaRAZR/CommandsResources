@@ -531,7 +531,7 @@ Google2SRT
 
 ## Emojis
 - Small<br>
-
+<span>
 <img src="ur cute/01 catgirlhuggies.webp">
 <img src="ur cute/02 kristineunicry.webp">
 <img src="ur cute/03 emiliaaa.webp">
@@ -625,6 +625,8 @@ Google2SRT
 <img src="ur cute/97 Meow.gif">
 <img src="ur cute/98 fubukidance.gif">
 <img src="ur cute/99 awawa.gif">
+</span>
+
 <br><br>
 
 <details> 
