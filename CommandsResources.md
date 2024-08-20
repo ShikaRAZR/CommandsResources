@@ -818,7 +818,7 @@ Google2SRT
 <img src="Standard Wallpapers/Landscape/Predator.png" height="350">
 <img src="Standard Wallpapers/Landscape/Red Wallpaper.jpg" height="350">
 <img src="Standard Wallpapers/Landscape/Small Pic Svarog Heavy Industries.png" height="350">
-
+<br>
 <img src="Standard Wallpapers/Portrait/1ad3ba6.jpg" height="350">
 <img src="Standard Wallpapers/Portrait/20240119_232804.jpg" height="350">
 <img src="Standard Wallpapers/Portrait/316a1ff.png" height="350">
@@ -826,7 +826,6 @@ Google2SRT
 <img src="Standard Wallpapers/Portrait/Artoria 46.jpg" height="350">
 <img src="Standard Wallpapers/Portrait/Copy of IMG_20191008_215858.jpg" height="350">
 <img src="Standard Wallpapers/Portrait/Fate Servants.png" height="350">
-<img src="Standard Wallpapers/Portrait/filename.txt" height="350">
 <img src="Standard Wallpapers/Portrait/G&K Extended.jpg" height="350">
 <img src="Standard Wallpapers/Portrait/Griffin Emblem Extended.jpg" height="350">
 <img src="Standard Wallpapers/Portrait/Okita.jpg" height="350">
