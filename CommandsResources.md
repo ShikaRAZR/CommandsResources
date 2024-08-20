@@ -803,33 +803,36 @@ Google2SRT
 <details> 
   <summary>Standard Wallpapers</summary>
 
-<img src="Standard Wallpapers/120 Nobunga.jpg">
-<img src="Standard Wallpapers/122 Saber Lily.png">
-<img src="Standard Wallpapers/1ad3ba6.jpg">
-<img src="Standard Wallpapers/20240119_232804.jpg">
-<img src="Standard Wallpapers/316a1ff.png">
-<img src="Standard Wallpapers/359 Sopmod.jpg">
-<img src="Standard Wallpapers/404 Clouds.jpg">
-<img src="Standard Wallpapers/404.jpg">
-<img src="Standard Wallpapers/612 Rhine Lab.jpg">
-<img src="Standard Wallpapers/613 Nearl.jpg">
-<img src="Standard Wallpapers/621 EP - [Bridge to the Dawn].jpg">
-<img src="Standard Wallpapers/624 Arknights Endfield.png">
-<img src="Standard Wallpapers/Artoria 46.jpg">
-<img src="Standard Wallpapers/Copy of IMG_20191008_215858.jpg">
-<img src="Standard Wallpapers/Fate Servants.png">
-<img src="Standard Wallpapers/G&K Extended.jpg">
-<img src="Standard Wallpapers/GFL404 Clean.png">
-<img src="Standard Wallpapers/GFLAR.png">
-<img src="Standard Wallpapers/Griffin Emblem Extended.jpg">
-<img src="Standard Wallpapers/Halo Reach Space.jpg">
-<img src="Standard Wallpapers/Koenigsegg.jpg">
-<img src="Standard Wallpapers/Okita.jpg">
-<img src="Standard Wallpapers/Predator.png">
-<img src="Standard Wallpapers/Red Wallpaper.jpg">
-<img src="Standard Wallpapers/Saber 8.png">
-<img src="Standard Wallpapers/Small Pic Svarog Heavy Industries.png">
-<img src="Standard Wallpapers/tumblr_owrccebouC1u41kbzo1_1280.png">
+<img src="Standard Wallpapers/Landscape/120 Nobunga.jpg" height="350">
+<img src="Standard Wallpapers/Landscape/122 Saber Lily.png" height="350">
+<img src="Standard Wallpapers/Landscape/359 Sopmod.jpg" height="350">
+<img src="Standard Wallpapers/Landscape/404 Clouds.jpg" height="350">
+<img src="Standard Wallpapers/Landscape/612 Rhine Lab.jpg" height="350">
+<img src="Standard Wallpapers/Landscape/613 Nearl.jpg" height="350">
+<img src="Standard Wallpapers/Landscape/621 EP - [Bridge to the Dawn].jpg" height="350">
+<img src="Standard Wallpapers/Landscape/624 Arknights Endfield.png" height="350">
+<img src="Standard Wallpapers/Landscape/filename.txt" height="350">
+<img src="Standard Wallpapers/Landscape/GFL404 Clean.png" height="350">
+<img src="Standard Wallpapers/Landscape/GFLAR.png" height="350">
+<img src="Standard Wallpapers/Landscape/Halo Reach Space.jpg" height="350">
+<img src="Standard Wallpapers/Landscape/Koenigsegg.jpg" height="350">
+<img src="Standard Wallpapers/Landscape/Predator.png" height="350">
+<img src="Standard Wallpapers/Landscape/Red Wallpaper.jpg" height="350">
+<img src="Standard Wallpapers/Landscape/Small Pic Svarog Heavy Industries.png" height="350">
+
+<img src="Standard Wallpapers/Portrait/1ad3ba6.jpg" height="350">
+<img src="Standard Wallpapers/Portrait/20240119_232804.jpg" height="350">
+<img src="Standard Wallpapers/Portrait/316a1ff.png" height="350">
+<img src="Standard Wallpapers/Portrait/404.jpg" height="350">
+<img src="Standard Wallpapers/Portrait/Artoria 46.jpg" height="350">
+<img src="Standard Wallpapers/Portrait/Copy of IMG_20191008_215858.jpg" height="350">
+<img src="Standard Wallpapers/Portrait/Fate Servants.png" height="350">
+<img src="Standard Wallpapers/Portrait/filename.txt" height="350">
+<img src="Standard Wallpapers/Portrait/G&K Extended.jpg" height="350">
+<img src="Standard Wallpapers/Portrait/Griffin Emblem Extended.jpg" height="350">
+<img src="Standard Wallpapers/Portrait/Okita.jpg" height="350">
+<img src="Standard Wallpapers/Portrait/Saber 8.png" height="350">
+<img src="Standard Wallpapers/Portrait/tumblr_owrccebouC1u41kbzo1_1280.png" height="350">
 
 </details> <br><br>
 
