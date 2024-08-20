@@ -730,10 +730,15 @@ Google2SRT
 
                 
 
-        dir /b /ON > namelist.txt
+        dir /b /ON > namelist.txt (Windows 10)
+        cmd /r dir /b > filename.txt (Windows 11)
 
-        VSCode Search
+        VSCode
+        Search:
+        ^(.+)$
+        Replace:
         <img src="Standard Wallpapers/$1">
         <img src="ur cute/$1"> 
-        </details> 
+
+</details> 
 
