@@ -811,7 +811,6 @@ Google2SRT
 <img src="Standard Wallpapers/Landscape/613 Nearl.jpg" height="350">
 <img src="Standard Wallpapers/Landscape/621 EP - [Bridge to the Dawn].jpg" height="350">
 <img src="Standard Wallpapers/Landscape/624 Arknights Endfield.png" height="350">
-<img src="Standard Wallpapers/Landscape/filename.txt" height="350">
 <img src="Standard Wallpapers/Landscape/GFL404 Clean.png" height="350">
 <img src="Standard Wallpapers/Landscape/GFLAR.png" height="350">
 <img src="Standard Wallpapers/Landscape/Halo Reach Space.jpg" height="350">
