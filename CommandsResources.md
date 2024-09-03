@@ -3,7 +3,7 @@ List of commands and resources that are personally useful for me.
 
 VS Code Settings Markdown > Preview Scroll Editor/Preview with Preview/Editor
 ## Table of Contents
-1. [Markdown Guide](#markdown-guide)
+1. [Markdown, VSCode Guide](#markdown-vscode-guide)
 2. [Git Commands](#git-commands)
 3. [Linux Commands & Resources](LinuxCmdRsrc.md)
 4. [General Application Link Stuff](#general-application-link-stuff)
@@ -18,14 +18,20 @@ VS Code Settings Markdown > Preview Scroll Editor/Preview with Preview/Editor
 
 <span style="font-size:12px"><a href="#top">Back to top</a></span>
 
-## Markdown Guide 
+## Markdown VSCode Guide 
+#### Markdown
 https://www.markdownguide.org/basic-syntax#paragraphs-1
 
 https://www.markdownguide.org/basic-syntax/
 
 https://google.github.io/styleguide/docguide/style.html
 
-
+#### VSCode
+> (Opening Tabs) When you [single-]click a file in the left sidebar's file browser or open it from the quick open menu (Ctrl-P, type the file name, Enter), Visual Studio Code opens it in what's called "Preview Mode", which allows you to quickly view files.
+<br><br>
+Preview Mode tabs are not kept open. As soon as you go to open another file from the sidebar, the existing Preview Mode tab (if one exists) is used. You can determine if a tab is in Preview Mode, by looking at its title in the tab bar. If the title is italic, the tab is in preview mode.
+<br><br>
+To open a file for editing (i.e. don't open in Preview Mode), double-click on the file in the sidebar, or single-click it in the sidebar then double click the title of its Preview Mode tab.
 
 <br> <br> <br> <br> <br> <br> <br> <br>
 
