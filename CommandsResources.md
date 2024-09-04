@@ -268,10 +268,11 @@ ___
 [animesenpai4u](https://www.animesenpai4u.com/)
 [mkvshows](https://mkvshows.com/)<br>
 > Stream 
-[aniwave](https://aniwave.to/)
+[<s>aniwave</s>](https://aniwave.to/)
 [animepahe](https://animepahe.ru/)
 [littleweeb](https://littleweeb.github.io/)
-[kickassanime](https://kickassanime.am/)<br>
+[kickassanime](https://kickassanime.am/)
+[kickassanimemx](www1.kickassanime.mx)<br>
 > Music [khinsider](https://downloads.khinsider.com/) <br>
 > [Sheet Music agarrado](https://josh.agarrado.net/music/anime/index.php) <br>
 

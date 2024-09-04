@@ -1,0 +1,459 @@
+{
+  "blocked": [
+    "youtube.com",
+    "osu.ppy.sh",
+    "github.com",
+    "google.com",
+    "reddit.com",
+    "gfverse.info",
+    "tempkaridc.github.io",
+    "aceship.github.io",
+    "eftfg.com",
+    "fandom.com",
+    "myanimelist.net",
+    "tarkov-market.com",
+    "mangadex.org",
+    "animeout.xyz",
+    "aniwave.to",
+    "animepahe.ru",
+    "khinsider.com",
+    "agarrado.net",
+    "waifu2x.net",
+    "doujinstyle.com",
+    "girlsfrontline.kr",
+    "x.com",
+    "pixiv.net",
+    "twitch.tv",
+    "duckduckgo.com",
+    "bing.com",
+    "vscodium.com",
+    "videolan.org",
+    "7-zip.org",
+    "ffmpeg.org",
+    "wikihow.com",
+    "microsoft.com",
+    "en.wikipedia.org",
+    "ign.com",
+    "robertsspaceindustries.com",
+    "mail.google.com",
+    "gmail.com",
+    "*://cloudflare.com/*",
+    "discord.com",
+    "mozilla.org",
+    "git-scm.com",
+    "obsproject.com",
+    "steampowered.com",
+    "virtualbox.org",
+    "amazon.com",
+    "googleusercontent.com",
+    "instagram.com",
+    "gamepress.gg",
+    "iopwiki.com",
+    "amaryllisworks.pw",
+    "gitlab.com",
+    "s-ul.net",
+    "linuxmint.com",
+    "discordapp.com",
+    "twitter.com",
+    "yahoo.com",
+    "*://youtu.be/*",
+    "donmai.us",
+    "*://amzn.to/*",
+    "*://a.co/*",
+    "*://ordr.issou.best/*",
+    "*://starcitizen.tools/*",
+    "*://www.erkul.games/*",
+    "*://finder.cstone.space/*",
+    "*://media1.tenor.com/*",
+    "*://tenor.com/*",
+    "*://stackoverflow.com/*",
+    "*://nodejs.org/*",
+    "*://animeout.xyz/*",
+    "*://superuser.com/*",
+    "*://w3schools.com/*",
+    "*://animeout.com/*",
+    "*://nimbus.animeout.com/*",
+    "*://ddl.animeout.com/*",
+    "*://www.w3schools.com/*",
+    "*://www.electronjs.org/*",
+    "*://zeke.github.io/*",
+    "*://www.rust-lang.org/*",
+    "*://doc.rust-lang.org/*",
+    "*://rust-cli.github.io/*",
+    "*://rustup.rs/*",
+    "*://www1.kickassanime.mx/*"
+  ],
+  "close": 0,
+  "contextmenu-frame": true,
+  "contextmenu-pause": true,
+  "contextmenu-resume": true,
+  "contextmenu-top": true,
+  "crate": 5,
+  "css": "",
+  "disable-actions-options": true,
+  "disable-actions-page": true,
+  "guid": "a65ab6d4-e082-41d1-a120-ed6a9673f6ea",
+  "initialBlock": true,
+  "initialBlockCurrent": true,
+  "last-update": 1720687589235,
+  "managed.storage.overwrite.on.start": false,
+  "map": {},
+  "message": "",
+  "no-password-on-add": false,
+  "notes": {
+    "youtube.com": {
+      "date": 1720688450047,
+      "origin": "options"
+    },
+    "osu.ppy.sh": {
+      "date": 1720688644138,
+      "origin": "prompt"
+    },
+    "github.com": {
+      "date": 1720688667527,
+      "origin": "prompt"
+    },
+    "google.com": {
+      "date": 1720688682490,
+      "origin": "prompt"
+    },
+    "reddit.com": {
+      "date": 1720688689759,
+      "origin": "prompt"
+    },
+    "gfverse.info": {
+      "date": 1720688707336,
+      "origin": "prompt"
+    },
+    "tempkaridc.github.io": {
+      "date": 1720688712018,
+      "origin": "prompt"
+    },
+    "aceship.github.io": {
+      "date": 1720688725461,
+      "origin": "prompt"
+    },
+    "eftfg.com": {
+      "date": 1720688737076,
+      "origin": "prompt"
+    },
+    "fandom.com": {
+      "date": 1720688761872,
+      "origin": "prompt"
+    },
+    "myanimelist.net": {
+      "date": 1720688774890,
+      "origin": "prompt"
+    },
+    "tarkov-market.com": {
+      "date": 1720688798716,
+      "origin": "prompt"
+    },
+    "mangadex.org": {
+      "date": 1720688843814,
+      "origin": "prompt"
+    },
+    "animeout.xyz": {
+      "date": 1720688869141,
+      "origin": "prompt"
+    },
+    "aniwave.to": {
+      "date": 1720689255891,
+      "origin": "prompt"
+    },
+    "animepahe.ru": {
+      "date": 1720689276278,
+      "origin": "prompt"
+    },
+    "khinsider.com": {
+      "date": 1720689280387,
+      "origin": "prompt"
+    },
+    "agarrado.net": {
+      "date": 1720689289649,
+      "origin": "prompt"
+    },
+    "waifu2x.net": {
+      "date": 1720689294383,
+      "origin": "prompt"
+    },
+    "doujinstyle.com": {
+      "date": 1720689321428,
+      "origin": "prompt"
+    },
+    "girlsfrontline.kr": {
+      "date": 1720689327377,
+      "origin": "prompt"
+    },
+    "x.com": {
+      "date": 1720689504343,
+      "origin": "prompt"
+    },
+    "pixiv.net": {
+      "date": 1720689507695,
+      "origin": "prompt"
+    },
+    "twitch.tv": {
+      "date": 1720689510023,
+      "origin": "prompt"
+    },
+    "duckduckgo.com": {
+      "date": 1720689587320,
+      "origin": "prompt"
+    },
+    "bing.com": {
+      "date": 1720689598116,
+      "origin": "prompt"
+    },
+    "vscodium.com": {
+      "date": 1720689651293,
+      "origin": "prompt"
+    },
+    "videolan.org": {
+      "date": 1720689661716,
+      "origin": "prompt"
+    },
+    "7-zip.org": {
+      "date": 1720689672895,
+      "origin": "prompt"
+    },
+    "ffmpeg.org": {
+      "date": 1720689684707,
+      "origin": "prompt"
+    },
+    "wikihow.com": {
+      "date": 1720689826094,
+      "origin": "prompt"
+    },
+    "microsoft.com": {
+      "date": 1720689874141,
+      "origin": "prompt"
+    },
+    "en.wikipedia.org": {
+      "date": 1720690133808,
+      "origin": "options"
+    },
+    "ign.com": {
+      "date": 1720690160578,
+      "origin": "options"
+    },
+    "robertsspaceindustries.com": {
+      "date": 1720690196730,
+      "origin": "options"
+    },
+    "mail.google.com": {
+      "date": 1720692234696,
+      "origin": "options"
+    },
+    "gmail.com": {
+      "date": 1720692311389,
+      "origin": "options"
+    },
+    "*://cloudflare.com/*": {
+      "date": 1720728464812,
+      "origin": "options"
+    },
+    "discord.com": {
+      "date": 1720732144082,
+      "origin": "prompt"
+    },
+    "mozilla.org": {
+      "date": 1720732170219,
+      "origin": "prompt"
+    },
+    "git-scm.com": {
+      "date": 1720732196655,
+      "origin": "prompt"
+    },
+    "obsproject.com": {
+      "date": 1720732216387,
+      "origin": "prompt"
+    },
+    "steampowered.com": {
+      "date": 1720732251523,
+      "origin": "prompt"
+    },
+    "virtualbox.org": {
+      "date": 1720732264258,
+      "origin": "prompt"
+    },
+    "amazon.com": {
+      "date": 1720756316596,
+      "origin": "prompt"
+    },
+    "googleusercontent.com": {
+      "date": 1720843330875,
+      "origin": "prompt"
+    },
+    "instagram.com": {
+      "date": 1720844400732,
+      "origin": "prompt"
+    },
+    "gamepress.gg": {
+      "date": 1720853252434,
+      "origin": "prompt"
+    },
+    "iopwiki.com": {
+      "date": 1721197900875,
+      "origin": "prompt"
+    },
+    "amaryllisworks.pw": {
+      "date": 1721198460899,
+      "origin": "prompt"
+    },
+    "gitlab.com": {
+      "date": 1721202487657,
+      "origin": "prompt"
+    },
+    "s-ul.net": {
+      "date": 1721203257857,
+      "origin": "prompt"
+    },
+    "linuxmint.com": {
+      "date": 1721347192630,
+      "origin": "prompt"
+    },
+    "discordapp.com": {
+      "date": 1721415636273,
+      "origin": "prompt"
+    },
+    "twitter.com": {
+      "date": 1721415695459,
+      "origin": "options"
+    },
+    "yahoo.com": {
+      "date": 1721416123742,
+      "origin": "prompt"
+    },
+    "*://youtu.be/*": {
+      "date": 1721457721658,
+      "origin": "options"
+    },
+    "donmai.us": {
+      "date": 1722138954719,
+      "origin": "prompt"
+    },
+    "*://amzn.to/*": {
+      "date": 1722221849153,
+      "origin": "options"
+    },
+    "*://a.co/*": {
+      "date": 1722221938982,
+      "origin": "options"
+    },
+    "*://ordr.issou.best/*": {
+      "date": 1723629716340,
+      "origin": "options"
+    },
+    "*://starcitizen.tools/*": {
+      "date": 1723785405436,
+      "origin": "options"
+    },
+    "*://www.erkul.games/*": {
+      "date": 1723785433936,
+      "origin": "options"
+    },
+    "*://finder.cstone.space/*": {
+      "date": 1723798231831,
+      "origin": "options"
+    },
+    "*://media1.tenor.com/*": {
+      "date": 1724191294133,
+      "origin": "options"
+    },
+    "*://tenor.com/*": {
+      "date": 1724191710519,
+      "origin": "options"
+    },
+    "*://stackoverflow.com/*": {
+      "date": 1725253633946,
+      "origin": "options"
+    },
+    "*://nodejs.org/*": {
+      "date": 1725340561572,
+      "origin": "options"
+    },
+    "*://animeout.xyz/*": {
+      "date": 1725340634769,
+      "origin": "options"
+    },
+    "*://superuser.com/*": {
+      "date": 1725340677911,
+      "origin": "options"
+    },
+    "*://w3schools.com/*": {
+      "date": 1725340715179,
+      "origin": "options"
+    },
+    "*://animeout.com/*": {
+      "date": 1725340854815,
+      "origin": "options"
+    },
+    "*://nimbus.animeout.com/*": {
+      "date": 1725341490188,
+      "origin": "options"
+    },
+    "*://ddl.animeout.com/*": {
+      "date": 1725341528350,
+      "origin": "options"
+    },
+    "*://www.w3schools.com/*": {
+      "date": 1725344785784,
+      "origin": "options"
+    },
+    "*://www.electronjs.org/*": {
+      "date": 1725351545942,
+      "origin": "options"
+    },
+    "*://zeke.github.io/*": {
+      "date": 1725359490833,
+      "origin": "options"
+    },
+    "*://www.rust-lang.org/*": {
+      "date": 1725401832590,
+      "origin": "options"
+    },
+    "*://doc.rust-lang.org/*": {
+      "date": 1725401987914,
+      "origin": "options"
+    },
+    "*://rust-cli.github.io/*": {
+      "date": 1725403828834,
+      "origin": "options"
+    },
+    "*://rustup.rs/*": {
+      "date": 1725404930447,
+      "origin": "options"
+    },
+    "*://www1.kickassanime.mx/*": {
+      "date": 1725443978526,
+      "origin": "options"
+    }
+  },
+  "notification": true,
+  "pause-periods": [
+    5,
+    10,
+    15,
+    30,
+    60,
+    360,
+    1440,
+    -1
+  ],
+  "redirect": "",
+  "retries": {
+    "count": 0,
+    "first": 0
+  },
+  "reverse": true,
+  "schedule": {
+    "times": {}
+  },
+  "schedule-offset": 0,
+  "schedules": {},
+  "sha256": "",
+  "timeout": 60,
+  "title": true,
+  "wrong": 1
+}
