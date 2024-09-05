@@ -81,7 +81,8 @@
     "*://doc.rust-lang.org/*",
     "*://rust-cli.github.io/*",
     "*://rustup.rs/*",
-    "*://www1.kickassanime.mx/*"
+    "*://www1.kickassanime.mx/*",
+    "*://rust-lang.github.io/*"
   ],
   "close": 0,
   "contextmenu-frame": true,
@@ -92,7 +93,7 @@
   "css": "",
   "disable-actions-options": true,
   "disable-actions-page": true,
-  "guid": "a65ab6d4-e082-41d1-a120-ed6a9673f6ea",
+  "guid": "2e355734-803d-4653-9bcc-263839d1482d",
   "initialBlock": true,
   "initialBlockCurrent": true,
   "last-update": 1720687589235,
@@ -427,6 +428,10 @@
     },
     "*://www1.kickassanime.mx/*": {
       "date": 1725443978526,
+      "origin": "options"
+    },
+    "*://rust-lang.github.io/*": {
+      "date": 1725520526179,
       "origin": "options"
     }
   },
