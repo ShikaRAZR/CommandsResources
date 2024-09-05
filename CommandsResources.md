@@ -539,99 +539,104 @@ Google2SRT
 ## Emojis
 - Small<br>
 <span>
-<img src="ur cute/01 catgirlhuggies.webp">
-<img src="ur cute/02 kristineunicry.webp">
-<img src="ur cute/03 emiliaaa.webp">
-<img src="ur cute/04 noelsip.webp">
-<img src="ur cute/05 AquaHD.webp">
-<img src="ur cute/06 cryrosu.webp">
-<img src="ur cute/06 rosucrybread.webp">
-<img src="ur cute/06 rosuneutral.webp">
-<img src="ur cute/07 kiss~1.webp">
-<img src="ur cute/08 diaredevil.webp">
-<img src="ur cute/09 WATEFAK.webp">
-<img src="ur cute/10 shunyaaa.webp">
-<img src="ur cute/11 suck.webp">
-<img src="ur cute/12 unicry.webp">
-<img src="ur cute/13 KeqingGN.webp">
-<img src="ur cute/14 happy.webp">
-<img src="ur cute/15 NJgasm.webp">
-<img src="ur cute/16 gn.webp">
-<img src="ur cute/17 rikashock.webp">
-<img src="ur cute/18 AquaCry.webp">
-<img src="ur cute/19 TokoPat.webp">
-<img src="ur cute/20 ayameheart.webp">
-<img src="ur cute/21 murmwot.webp">
-<img src="ur cute/22 kokomisigh.webp">
-<img src="ur cute/23 nani.webp">
-<img src="ur cute/24 hornyisback.webp">
-<img src="ur cute/25 rosusigh.webp">
-<img src="ur cute/26 sob.gif">
-<img src="ur cute/27 yaedrive_chickenjagoo.gif">
-<img src="ur cute/28 wubbaboo_tired.webp">
-<img src="ur cute/29 WatameHuh.webp">
-<img src="ur cute/30 suiwave.webp">
-<img src="ur cute/31 limwat.webp">
-<img src="ur cute/32 AlstolfoBlush.webp">
-<img src="ur cute/33 AMsalute.webp">
-<img src="ur cute/34 ArcyPouty.webp">
-<img src="ur cute/35 catHUH.gif">
-<img src="ur cute/36 ChenShrug.webp">
-<img src="ur cute/37 ded.webp">
-<img src="ur cute/38 ElainaHeart.webp">
-<img src="ur cute/39 giveheart.gif">
-<img src="ur cute/40 goodmorning.webp">
-<img src="ur cute/41 goodnight.webp">
-<img src="ur cute/42 heh.gif">
-<img src="ur cute/43 hkpatpat.gif">
-<img src="ur cute/44 notlikethis.webp">
-<img src="ur cute/45 OkayuMogu.webp">
-<img src="ur cute/46 p7wink.webp">
-<img src="ur cute/47 pp90blush.webp">
-<img src="ur cute/48 rinkodespair.webp">
-<img src="ur cute/49 RoseDead.webp">
-<img src="ur cute/50 rosuhappy.gif">
-<img src="ur cute/51 rosunote.gif">
-<img src="ur cute/52 rosupatpat.gif">
-<img src="ur cute/53 rosupout.gif">
-<img src="ur cute/54 SanaYapi.webp">
-<img src="ur cute/55 SanaBox.webp">
-<img src="ur cute/56 SanaSad1.webp">
-<img src="ur cute/57 SanaSad2.webp">
-<img src="ur cute/58 SanaTeehee.webp">
-<img src="ur cute/59 SanaWorried.webp">
-<img src="ur cute/60 AMsmartthink.webp">
-<img src="ur cute/61 NijikaThink.webp">
-<img src="ur cute/62  yaethink_anyuki.webp">
-<img src="ur cute/63 yaesmart_chickenjagoo.gif">
-<img src="ur cute/64 AMthink.webp">
-<img src="ur cute/65 Yes.webp">
-<img src="ur cute/66 YES.webp">
-<img src="ur cute/67 AMyes.webp">
-<img src="ur cute/68 SakuyaPhew.webp">
-<img src="ur cute/69 AyameLaugh.webp">
-<img src="ur cute/70  rosulaugh.webp">
-<img src="ur cute/71 pleading.webp">
-<img src="ur cute/72 zerotwoheart.webp">
-<img src="ur cute/73 rosublush.webp">
-<img src="ur cute/74 sigh.webp">
-<img src="ur cute/75 yaeraidenkiss_limeria.webp">
-<img src="ur cute/76 AMNoThanks.gif">
-<img src="ur cute/77 g11sleepy.gif">
-<img src="ur cute/78 AMcatcuddle.gif">
-<img src="ur cute/79 AMCuddle.gif">
-<img src="ur cute/80 AMastolfokiss.webp">
-<img src="ur cute/81 astolfoblush.gif">
-<img src="ur cute/82 AMBoyKisserDance.gif">
-<img src="ur cute/83 AMmiyanoshrug.webp">
-<img src="ur cute/84 nekooo.gif">
-<img src="ur cute/85 AMsleepydrool.webp">
-<img src="ur cute/94 shijima-shimeji.gif">
-<img src="ur cute/95 noted-anime.gif">
-<img src="ur cute/96 NeroGasm.webp">
-<img src="ur cute/97 Meow.gif">
-<img src="ur cute/98 fubukidance.gif">
-<img src="ur cute/99 awawa.gif">
+<img src="ur cute/001 catgirlhuggies.webp"> 
+<img src="ur cute/002 kristineunicry.webp"> 
+<img src="ur cute/003 emiliaaa.webp"> 
+<img src="ur cute/004 noelsip.webp"> 
+<img src="ur cute/005 AquaHD.webp"> 
+<img src="ur cute/006 cryrosu.webp"> 
+<img src="ur cute/006 rosucrybread.webp"> 
+<img src="ur cute/006 rosuneutral.webp"> 
+<img src="ur cute/007 kiss~1.webp"> 
+<img src="ur cute/008 diaredevil.webp"> 
+<img src="ur cute/009 WATEFAK.webp"> 
+<img src="ur cute/010 shunyaaa.webp"> 
+<img src="ur cute/011 suck.webp"> 
+<img src="ur cute/012 unicry.webp"> 
+<img src="ur cute/013 KeqingGN.webp"> 
+<img src="ur cute/014 happy.webp"> 
+<img src="ur cute/015 NJgasm.webp"> 
+<img src="ur cute/016 gn.webp"> 
+<img src="ur cute/017 rikashock.webp"> 
+<img src="ur cute/018 AquaCry.webp"> 
+<img src="ur cute/019 TokoPat.webp"> 
+<img src="ur cute/020 ayameheart.webp"> 
+<img src="ur cute/021 murmwot.webp"> 
+<img src="ur cute/022 kokomisigh.webp"> 
+<img src="ur cute/023 nani.webp"> 
+<img src="ur cute/024 hornyisback.webp"> 
+<img src="ur cute/025 rosusigh.webp"> 
+<img src="ur cute/026 sob.gif"> 
+<img src="ur cute/027 yaedrive_chickenjagoo.gif"> 
+<img src="ur cute/028 wubbaboo_tired.webp"> 
+<img src="ur cute/029 WatameHuh.webp"> 
+<img src="ur cute/030 suiwave.webp"> 
+<img src="ur cute/031 limwat.webp"> 
+<img src="ur cute/032 AlstolfoBlush.webp"> 
+<img src="ur cute/033 AMsalute.webp"> 
+<img src="ur cute/034 ArcyPouty.webp"> 
+<img src="ur cute/035 catHUH.gif"> 
+<img src="ur cute/036 ChenShrug.webp"> 
+<img src="ur cute/037 ded.webp"> 
+<img src="ur cute/038 ElainaHeart.webp"> 
+<img src="ur cute/039 giveheart.gif"> 
+<img src="ur cute/040 goodmorning.webp"> 
+<img src="ur cute/041 goodnight.webp"> 
+<img src="ur cute/042 heh.gif"> 
+<img src="ur cute/043 hkpatpat.gif"> 
+<img src="ur cute/044 notlikethis.webp"> 
+<img src="ur cute/045 OkayuMogu.webp"> 
+<img src="ur cute/046 p7wink.webp"> 
+<img src="ur cute/047 pp90blush.webp"> 
+<img src="ur cute/048 rinkodespair.webp"> 
+<img src="ur cute/049 RoseDead.webp"> 
+<img src="ur cute/050 rosuhappy.gif"> 
+<img src="ur cute/051 rosunote.gif"> 
+<img src="ur cute/052 rosupatpat.gif"> 
+<img src="ur cute/053 rosupout.gif"> 
+<img src="ur cute/054 SanaYapi.webp"> 
+<img src="ur cute/055 SanaBox.webp"> 
+<img src="ur cute/056 SanaSad1.webp"> 
+<img src="ur cute/057 SanaSad2.webp"> 
+<img src="ur cute/058 SanaTeehee.webp"> 
+<img src="ur cute/059 SanaWorried.webp"> 
+<img src="ur cute/060 AMsmartthink.webp"> 
+<img src="ur cute/061 NijikaThink.webp"> 
+<img src="ur cute/062  yaethink_anyuki.webp"> 
+<img src="ur cute/063 yaesmart_chickenjagoo.gif"> 
+<img src="ur cute/064 AMthink.webp"> 
+<img src="ur cute/065 Yes.webp"> 
+<img src="ur cute/066 YES.webp"> 
+<img src="ur cute/067 AMyes.webp"> 
+<img src="ur cute/068 SakuyaPhew.webp"> 
+<img src="ur cute/069 AyameLaugh.webp"> 
+<img src="ur cute/070  rosulaugh.webp"> 
+<img src="ur cute/071 pleading.webp"> 
+<img src="ur cute/072 zerotwoheart.webp"> 
+<img src="ur cute/073 rosublush.webp"> 
+<img src="ur cute/074 sigh.webp"> 
+<img src="ur cute/075 yaeraidenkiss_limeria.webp"> 
+<img src="ur cute/076 AMNoThanks.gif"> 
+<img src="ur cute/077 g11sleepy.gif"> 
+<img src="ur cute/078 AMcatcuddle.gif"> 
+<img src="ur cute/079 AMCuddle.gif"> 
+<img src="ur cute/080 AMastolfokiss.webp"> 
+<img src="ur cute/081 astolfoblush.gif"> 
+<img src="ur cute/082 AMBoyKisserDance.gif"> 
+<img src="ur cute/083 AMmiyanoshrug.webp"> 
+<img src="ur cute/084 nekooo.gif"> 
+<img src="ur cute/085 AMsleepydrool.webp"> 
+<img src="ur cute/086 InaFacepalm.webp"> 
+<img src="ur cute/087 grizzlyFacepalm.webp"> 
+<img src="ur cute/088 scared.gif"> 
+<img src="ur cute/089 ScaredCrow.webp"> 
+<img src="ur cute/090 BoneePat.webp"> 
+<img src="ur cute/994 shijima-shimeji.gif"> 
+<img src="ur cute/995 noted-anime.gif"> 
+<img src="ur cute/996 NeroGasm.webp"> 
+<img src="ur cute/997 Meow.gif"> 
+<img src="ur cute/998 fubukidance.gif"> 
+<img src="ur cute/999 awawa.gif"> 
 </span>
 
 <br><br>
@@ -639,101 +644,112 @@ Google2SRT
 <details> 
   <summary>Large</summary>
 
-<img src="ur cute/Large/01 surprise.webp">
-<img src="ur cute/Large/02 hkpatpat.gif">
-<img src="ur cute/Large/03 notlikethis.webp">
-<img src="ur cute/Large/04 yaedrive_chickenjagoo.gif">
-<img src="ur cute/Large/05 catHUH.gif">
-<img src="ur cute/Large/06 nod.gif">
-<img src="ur cute/Large/07 goodmorning.webp">
-<img src="ur cute/Large/08 goodnight.webp">
-<img src="ur cute/Large/09 AMsalute.webp">
-<img src="ur cute/Large/10 rosupatpat.gif">
-<img src="ur cute/Large/11 rosuhappy.gif">
-<img src="ur cute/Large/12 rosupout.gif">
-<img src="ur cute/Large/13 rosunote.gif">
-<img src="ur cute/Large/14 rosucry.webp">
-<img src="ur cute/Large/15 cry.webp">
-<img src="ur cute/Large/16 rosubread.webp">
-<img src="ur cute/Large/17 emiliaaa.webp">
-<img src="ur cute/Large/18 flushed.gif">
-<img src="ur cute/Large/19 pointed fingers .gif">
-<img src="ur cute/Large/20 melt.gif">
-<img src="ur cute/Large/21 tail rub.gif">
-<img src="ur cute/Large/22 suicheer.png">
-<img src="ur cute/Large/23 AlstolfoBlush.webp">
-<img src="ur cute/Large/24 ArcyPouty.webp">
-<img src="ur cute/Large/25 awawa.webp">
-<img src="ur cute/Large/26 pray.webp">
-<img src="ur cute/Large/27 sob.gif">
-<img src="ur cute/Large/28 yes.gif">
-<img src="ur cute/Large/29 teehee.webp">
-<img src="ur cute/Large/30 shrug.webp">
-<img src="ur cute/Large/31 wubbaboo_tired.webp">
-<img src="ur cute/Large/32 sway.gif">
-<img src="ur cute/Large/33 ChenShrug.webp">
-<img src="ur cute/Large/34 ded.webp">
-<img src="ur cute/Large/35 ElainaFustrated.webp">
-<img src="ur cute/Large/36 ElainaHeart.webp">
-<img src="ur cute/Large/37 ElainaThumbsUp.webp">
-<img src="ur cute/Large/38 WatameHuh.webp">
-<img src="ur cute/Large/39 heh.gif">
-<img src="ur cute/Large/40 Hug.png">
-<img src="ur cute/Large/41 IllyaWhat.gif">
-<img src="ur cute/Large/42 Kiss.gif">
-<img src="ur cute/Large/43 Lick.gif">
-<img src="ur cute/Large/44 MeguruHug.webp">
-<img src="ur cute/Large/45 MeguruSmile.webp">
-<img src="ur cute/Large/46 Mex.webp">
-<img src="ur cute/Large/47 nekooo.gif">
-<img src="ur cute/Large/48 OkayuMogu.webp">
-<img src="ur cute/Large/49 owoHugs.gif">
-<img src="ur cute/Large/50 p7wink.webp">
-<img src="ur cute/Large/51 Peak.webp">
-<img src="ur cute/Large/52 TakeNotes.webp">
-<img src="ur cute/Large/53 pp90blush.webp">
-<img src="ur cute/Large/54 Question.webp">
-<img src="ur cute/Large/55 suijuice.webp">
-<img src="ur cute/Large/56 sana Wink.webp">
-<img src="ur cute/Large/57 SanaBox.webp">
-<img src="ur cute/Large/58 sanacry.webp">
-<img src="ur cute/Large/59 suiwave.webp">
-<img src="ur cute/Large/60 AMsmartthink.webp">
-<img src="ur cute/Large/61 NijikaThink.webp">
-<img src="ur cute/Large/62  yaethink_anyuki.webp">
-<img src="ur cute/Large/63 yaesmart_chickenjagoo.gif">
-<img src="ur cute/Large/64 AMthink.webp">
-<img src="ur cute/Large/65 Yes.webp">
-<img src="ur cute/Large/66 YES.webp">
-<img src="ur cute/Large/67 AMyes.webp">
-<img src="ur cute/Large/68 SakuyaPhew.webp">
-<img src="ur cute/Large/69 AyameLaugh.webp">
-<img src="ur cute/Large/70  rosulaugh.webp">
-<img src="ur cute/Large/71 pleading.webp">
-<img src="ur cute/Large/72 rosublush.webp">
-<img src="ur cute/Large/73 sigh.webp">
-<img src="ur cute/Large/74 yaeraidenkiss_limeria.webp">
-<img src="ur cute/Large/75 AMNoThanks.gif">
-<img src="ur cute/Large/76 g11sleepy.gif">
-<img src="ur cute/Large/77 AMCuddle.gif">
-<img src="ur cute/Large/78 AMastolfokiss.webp">
-<img src="ur cute/Large/79 astolfoblush.gif">
-<img src="ur cute/Large/80 AMBoyKisserDance.gif">
-<img src="ur cute/Large/81 AMmiyanoshrug.webp">
-<img src="ur cute/Large/82 AMsleepydrool.webp">
-<img src="ur cute/Large/87 Dear Dance.gif">
-<img src="ur cute/Large/88 Yae Miko Lick.gif">
-<img src="ur cute/Large/89 fish bite.gif">
-<img src="ur cute/Large/90 Trailblazer_Nom01.png">
-<img src="ur cute/Large/91 Pout.png">
-<img src="ur cute/Large/92 uuu.webp">
-<img src="ur cute/Large/93 Firewatch Nuke.gif">
-<img src="ur cute/Large/94 nachoSuneruHD.webp">
-<img src="ur cute/Large/95 Perlica Ice Cream.webp">
-<img src="ur cute/Large/96 rainbow-dance.gif">
-<img src="ur cute/Large/97 Smug.png">
-<img src="ur cute/Large/98 AlphaScream.gif">
-<img src="ur cute/Large/99 CatNod.gif">
+<img src="ur cute/Large/001 surprise.webp" height="96"> 
+<img src="ur cute/Large/002 hkpatpat.gif" height="96"> 
+<img src="ur cute/Large/003 notlikethis.webp" height="96"> 
+<img src="ur cute/Large/004 yaedrive_chickenjagoo.gif" height="96"> 
+<img src="ur cute/Large/005 catHUH.gif" height="96"> 
+<img src="ur cute/Large/006 nod.gif" height="96"> 
+<img src="ur cute/Large/007 goodmorning.webp" height="96"> 
+<img src="ur cute/Large/008 goodnight.webp" height="96"> 
+<img src="ur cute/Large/009 AMsalute.webp" height="96"> 
+<img src="ur cute/Large/010 rosupatpat.gif" height="96"> 
+<img src="ur cute/Large/011 rosuhappy.gif" height="96"> 
+<img src="ur cute/Large/012 rosupout.gif" height="96"> 
+<img src="ur cute/Large/013 rosunote.gif" height="96"> 
+<img src="ur cute/Large/014 rosucry.webp" height="96"> 
+<img src="ur cute/Large/015 cry.webp" height="96"> 
+<img src="ur cute/Large/016 rosubread.webp" height="96"> 
+<img src="ur cute/Large/017 emiliaaa.webp" height="96"> 
+<img src="ur cute/Large/018 flushed.gif" height="96"> 
+<img src="ur cute/Large/019 pointed fingers .gif" height="96"> 
+<img src="ur cute/Large/020 melt.gif" height="96"> 
+<img src="ur cute/Large/021 tail rub.gif" height="96"> 
+<img src="ur cute/Large/022 suicheer.png" height="96"> 
+<img src="ur cute/Large/023 AlstolfoBlush.webp" height="96"> 
+<img src="ur cute/Large/024 ArcyPouty.webp" height="96"> 
+<img src="ur cute/Large/025 awawa.webp" height="96"> 
+<img src="ur cute/Large/026 pray.webp" height="96"> 
+<img src="ur cute/Large/027 sob.gif" height="96"> 
+<img src="ur cute/Large/028 yes.gif" height="96"> 
+<img src="ur cute/Large/029 teehee.webp" height="96"> 
+<img src="ur cute/Large/030 shrug.webp" height="96"> 
+<img src="ur cute/Large/031 wubbaboo_tired.webp" height="96"> 
+<img src="ur cute/Large/032 sway.gif" height="96"> 
+<img src="ur cute/Large/033 ChenShrug.webp" height="96"> 
+<img src="ur cute/Large/034 ded.webp" height="96"> 
+<img src="ur cute/Large/035 ElainaFustrated.webp" height="96"> 
+<img src="ur cute/Large/036 ElainaHeart.webp" height="96"> 
+<img src="ur cute/Large/037 ElainaThumbsUp.webp" height="96"> 
+<img src="ur cute/Large/038 WatameHuh.webp" height="96"> 
+<img src="ur cute/Large/039 heh.gif" height="96"> 
+<img src="ur cute/Large/040 Hug.png" height="96"> 
+<img src="ur cute/Large/041 IllyaWhat.gif" height="96"> 
+<img src="ur cute/Large/042 Kiss.gif" height="96"> 
+<img src="ur cute/Large/043 Lick.gif" height="96"> 
+<img src="ur cute/Large/044 MeguruHug.webp" height="96"> 
+<img src="ur cute/Large/045 MeguruSmile.webp" height="96"> 
+<img src="ur cute/Large/046 Mex.webp" height="96"> 
+<img src="ur cute/Large/047 nekooo.gif" height="96"> 
+<img src="ur cute/Large/048 OkayuMogu.webp" height="96"> 
+<img src="ur cute/Large/049 owoHugs.gif" height="96"> 
+<img src="ur cute/Large/050 p7wink.webp" height="96"> 
+<img src="ur cute/Large/051 Peak.webp" height="96"> 
+<img src="ur cute/Large/052 TakeNotes.webp" height="96"> 
+<img src="ur cute/Large/053 pp90blush.webp" height="96"> 
+<img src="ur cute/Large/054 Question.webp" height="96"> 
+<img src="ur cute/Large/055 suijuice.webp" height="96"> 
+<img src="ur cute/Large/056 sana Wink.webp" height="96"> 
+<img src="ur cute/Large/057 SanaBox.webp" height="96"> 
+<img src="ur cute/Large/058 sanacry.webp" height="96"> 
+<img src="ur cute/Large/059 suiwave.webp" height="96"> 
+<img src="ur cute/Large/060 AMsmartthink.webp" height="96"> 
+<img src="ur cute/Large/061 NijikaThink.webp" height="96"> 
+<img src="ur cute/Large/062  yaethink_anyuki.webp" height="96"> 
+<img src="ur cute/Large/063 yaesmart_chickenjagoo.gif" height="96"> 
+<img src="ur cute/Large/064 AMthink.webp" height="96"> 
+<img src="ur cute/Large/065 Yes.webp" height="96"> 
+<img src="ur cute/Large/066 YES.webp" height="96"> 
+<img src="ur cute/Large/067 AMyes.webp" height="96"> 
+<img src="ur cute/Large/068 SakuyaPhew.webp" height="96"> 
+<img src="ur cute/Large/069 AyameLaugh.webp" height="96"> 
+<img src="ur cute/Large/070  rosulaugh.webp" height="96"> 
+<img src="ur cute/Large/071 pleading.webp" height="96"> 
+<img src="ur cute/Large/072 rosublush.webp" height="96"> 
+<img src="ur cute/Large/073 sigh.webp" height="96"> 
+<img src="ur cute/Large/074 yaeraidenkiss_limeria.webp" height="96"> 
+<img src="ur cute/Large/075 AMNoThanks.gif" height="96"> 
+<img src="ur cute/Large/076 g11sleepy.gif" height="96"> 
+<img src="ur cute/Large/077 AMCuddle.gif" height="96"> 
+<img src="ur cute/Large/078 AMastolfokiss.webp" height="96"> 
+<img src="ur cute/Large/079 astolfoblush.gif" height="96"> 
+<img src="ur cute/Large/080 AMBoyKisserDance.gif" height="96"> 
+<img src="ur cute/Large/081 AMmiyanoshrug.webp" height="96"> 
+<img src="ur cute/Large/082 AMsleepydrool.webp" height="96"> 
+<img src="ur cute/Large/086 InaFacepalm.webp" height="96"> 
+<img src="ur cute/Large/087 grizzlyFacepalm.webp" height="96"> 
+<img src="ur cute/Large/088 scared.gif" height="96"> 
+<img src="ur cute/Large/089 ScaredCrow.webp" height="96"> 
+<img src="ur cute/Large/090 BoneePat.webp" height="96"> 
+<img src="ur cute/Large/981 lean.gif" height="96"> 
+<img src="ur cute/Large/982 fat.gif" height="96"> 
+<img src="ur cute/Large/983 wait.webp" height="96"> 
+<img src="ur cute/Large/984 nomnommm.gif" height="96"> 
+<img src="ur cute/Large/985 blue-archive-arona.gif" height="96"> 
+<img src="ur cute/Large/986 stop-talking.gif" height="96"> 
+<img src="ur cute/Large/987 Dear Dance.gif" height="96"> 
+<img src="ur cute/Large/988 Yae Miko Lick.gif" height="96"> 
+<img src="ur cute/Large/989 fish bite.gif" height="96"> 
+<img src="ur cute/Large/990 Trailblazer_Nom01.png" height="96"> 
+<img src="ur cute/Large/991 Pout.png" height="96"> 
+<img src="ur cute/Large/992 uuu.webp" height="96"> 
+<img src="ur cute/Large/993 Firewatch Nuke.gif" height="96"> 
+<img src="ur cute/Large/994 nachoSuneruHD.webp" height="96"> 
+<img src="ur cute/Large/995 Perlica Ice Cream.webp" height="96"> 
+<img src="ur cute/Large/996 rainbow-dance.gif" height="96"> 
+<img src="ur cute/Large/997 Smug.png" height="96"> 
+<img src="ur cute/Large/998 AlphaScream.gif" height="96"> 
+<img src="ur cute/Large/999 CatNod.gif" height="96">  
 
 </details><br><br>
 
@@ -742,35 +758,40 @@ Google2SRT
 <details> 
   <summary>XLarge</summary>
 
-<img src="ur cute/ExtraLarge/01 cry.jpg" height="250">
-<img src="ur cute/ExtraLarge/02 Cute Cheer.gif" height="250">
-<img src="ur cute/ExtraLarge/03 dance-happy.gif" height="250">
-<img src="ur cute/ExtraLarge/05 heart.gif" height="250">
-<img src="ur cute/ExtraLarge/07 omori-basil.gif" height="250">
-<img src="ur cute/ExtraLarge/08 ozu_oz_yarimasu_heart.gif" height="250">
-<img src="ur cute/ExtraLarge/09 paw.png" height="250">
-<img src="ur cute/ExtraLarge/11 sticker_1.gif" height="250">
-<img src="ur cute/ExtraLarge/12 sticker_1.png" height="250">
-<img src="ur cute/ExtraLarge/13 sticker_3.gif" height="250">
-<img src="ur cute/ExtraLarge/14 sticker_5.png" height="250">
-<img src="ur cute/ExtraLarge/15 sticker_6.gif" height="250">
-<img src="ur cute/ExtraLarge/16 sticker_7.gif" height="250">
-<img src="ur cute/ExtraLarge/17 sticker_9.gif" height="250">
-<img src="ur cute/ExtraLarge/18 sticker_16.png" height="250">
-<img src="ur cute/ExtraLarge/19 sticker_28.png" height="250">
-<img src="ur cute/ExtraLarge/20 sticker_30.png" height="250">
-<img src="ur cute/ExtraLarge/24 wataten-anime.gif" height="250">
-<img src="ur cute/ExtraLarge/25 anime-anime-girl.gif" height="250">
-<img src="ur cute/ExtraLarge/26 hu-tao-hungry.gif" height="250">
-<img src="ur cute/ExtraLarge/27 onii-shy.gif" height="250">
-<img src="ur cute/ExtraLarge/28 ehe-ehehe.gif" height="250">
-<img src="ur cute/ExtraLarge/29 non-non-biyori-crying.gif" height="250">
-<img src="ur cute/ExtraLarge/30 non-non-biyori-anime.gif" height="250">
-<img src="ur cute/ExtraLarge/31 no-head-shaking.gif" height="250">
-<img src="ur cute/ExtraLarge/32 HK416G11Sleep.gif" height="250">
-<img src="ur cute/ExtraLarge/33 DushHairFlap.gif" height="250">
-<img src="ur cute/ExtraLarge/34 shoujo-shuumtasu-ryouko-girls-last-tour.gif" height="250">
-<img src="ur cute/ExtraLarge/35 miku-hello.gif" height="250">
+<img src="ur cute/ExtraLarge/001 cry.jpg" height="250"> 
+<img src="ur cute/ExtraLarge/002 Cute Cheer.gif" height="250"> 
+<img src="ur cute/ExtraLarge/003 dance-happy.gif" height="250"> 
+<img src="ur cute/ExtraLarge/005 heart.gif" height="250"> 
+<img src="ur cute/ExtraLarge/007 omori-basil.gif" height="250"> 
+<img src="ur cute/ExtraLarge/008 ozu_oz_yarimasu_heart.gif" height="250"> 
+<img src="ur cute/ExtraLarge/009 paw.png" height="250"> 
+<img src="ur cute/ExtraLarge/011 sticker_1.gif" height="250"> 
+<img src="ur cute/ExtraLarge/012 sticker_1.png" height="250"> 
+<img src="ur cute/ExtraLarge/013 sticker_3.gif" height="250"> 
+<img src="ur cute/ExtraLarge/014 sticker_5.png" height="250"> 
+<img src="ur cute/ExtraLarge/015 sticker_6.gif" height="250"> 
+<img src="ur cute/ExtraLarge/016 sticker_7.gif" height="250"> 
+<img src="ur cute/ExtraLarge/017 sticker_9.gif" height="250"> 
+<img src="ur cute/ExtraLarge/018 sticker_16.png" height="250"> 
+<img src="ur cute/ExtraLarge/019 sticker_28.png" height="250"> 
+<img src="ur cute/ExtraLarge/020 sticker_30.png" height="250"> 
+<img src="ur cute/ExtraLarge/024 wataten-anime.gif" height="250"> 
+<img src="ur cute/ExtraLarge/025 anime-anime-girl.gif" height="250"> 
+<img src="ur cute/ExtraLarge/026 hu-tao-hungry.gif" height="250"> 
+<img src="ur cute/ExtraLarge/027 onii-shy.gif" height="250"> 
+<img src="ur cute/ExtraLarge/028 ehe-ehehe.gif" height="250"> 
+<img src="ur cute/ExtraLarge/029 non-non-biyori-crying.gif" height="250"> 
+<img src="ur cute/ExtraLarge/030 non-non-biyori-anime.gif" height="250"> 
+<img src="ur cute/ExtraLarge/031 no-head-shaking.gif" height="250"> 
+<img src="ur cute/ExtraLarge/032 HK416G11Sleep.gif" height="250"> 
+<img src="ur cute/ExtraLarge/033 DushHairFlap.gif" height="250"> 
+<img src="ur cute/ExtraLarge/034 shoujo-shuumtasu-ryouko-girls-last-tour.gif" height="250"> 
+<img src="ur cute/ExtraLarge/035 miku-hello.gif" height="250"> 
+<img src="ur cute/ExtraLarge/036 dancing-cat-dancing-kitten.gif" height="250"> 
+<img src="ur cute/ExtraLarge/037 anime-cuteness.gif" height="250"> 
+<img src="ur cute/ExtraLarge/038 nope-anime.gif" height="250"> 
+<img src="ur cute/ExtraLarge/039 kawaii.gif" height="250"> 
+<img src="ur cute/ExtraLarge/040 cat-block-eyes.jpg" height="250"> 
 
 </details><br><br>
 
@@ -778,30 +799,31 @@ Google2SRT
 
 <details> 
   <summary>XLargeCat</summary>
-
-<img src="ur cute/ExtraLargeCat/01 cat-love.gif" height="250">
-<img src="ur cute/ExtraLargeCat/02 cat.gif" height="250">
-<img src="ur cute/ExtraLargeCat/03 cat-stare.gif" height="250">
-<img src="ur cute/ExtraLargeCat/04 cat-stare-angry-cat.gif" height="250">
-<img src="ur cute/ExtraLargeCat/05 emoji12-emoji-12.gif" height="250">
-<img src="ur cute/ExtraLargeCat/06 huh-cat-huh-m4rtin.gif" height="250">
-<img src="ur cute/ExtraLargeCat/07 suspicious-cat.gif" height="250">
-<img src="ur cute/ExtraLargeCat/08 sad-sad-cat.gif" height="250">
-<img src="ur cute/ExtraLargeCat/09 sad-cat.gif" height="250">
-<img src="ur cute/ExtraLargeCat/10 cat-cat-pat.gif" height="250">
-<img src="ur cute/ExtraLargeCat/11 huh-cat.gif" height="250">
-<img src="ur cute/ExtraLargeCat/12 annoyed-disappointed.gif" height="250">
-<img src="ur cute/ExtraLargeCat/13 rrane-battal.gif" height="250">
-<img src="ur cute/ExtraLargeCat/14 cat-tired-cat-falling-asleep.gif" height="250">
-<img src="ur cute/ExtraLargeCat/15 cute-kitten.gif" height="250">
-<img src="ur cute/ExtraLargeCat/16 cat-staring.gif" height="250">
-<img src="ur cute/ExtraLargeCat/17 cat-dance-dancing-cat.gif" height="250">
-<img src="ur cute/ExtraLargeCat/18 cool-fun.gif" height="250">
-<img src="ur cute/ExtraLargeCat/19 wow-cat.gif" height="250">
-<img src="ur cute/ExtraLargeCat/20 cat-wiggle-dance-cat-shake-dance.gif" height="250">
-<img src="ur cute/ExtraLargeCat/21 walk sniff.gif" height="250">
-<img src="ur cute/ExtraLargeCat/22 cat-yawning.gif" height="250">
-<img src="ur cute/ExtraLargeCat/23 hug.jpg" height="250">
+<img src="ur cute/ExtraLargeCat/001 cat-love.gif" height="250"> 
+<img src="ur cute/ExtraLargeCat/002 cat.gif" height="250"> 
+<img src="ur cute/ExtraLargeCat/003 cat-stare.gif" height="250"> 
+<img src="ur cute/ExtraLargeCat/004 cat-stare-angry-cat.gif" height="250"> 
+<img src="ur cute/ExtraLargeCat/005 emoji12-emoji-12.gif" height="250"> 
+<img src="ur cute/ExtraLargeCat/006 huh-cat-huh-m4rtin.gif" height="250"> 
+<img src="ur cute/ExtraLargeCat/007 suspicious-cat.gif" height="250"> 
+<img src="ur cute/ExtraLargeCat/008 sad-sad-cat.gif" height="250"> 
+<img src="ur cute/ExtraLargeCat/009 sad-cat.gif" height="250"> 
+<img src="ur cute/ExtraLargeCat/010 cat-cat-pat.gif" height="250"> 
+<img src="ur cute/ExtraLargeCat/011 huh-cat.gif" height="250"> 
+<img src="ur cute/ExtraLargeCat/012 annoyed-disappointed.gif" height="250"> 
+<img src="ur cute/ExtraLargeCat/013 rrane-battal.gif" height="250"> 
+<img src="ur cute/ExtraLargeCat/014 cat-tired-cat-falling-asleep.gif" height="250"> 
+<img src="ur cute/ExtraLargeCat/015 cute-kitten.gif" height="250"> 
+<img src="ur cute/ExtraLargeCat/016 cat-staring.gif" height="250"> 
+<img src="ur cute/ExtraLargeCat/017 cat-dance-dancing-cat.gif" height="250"> 
+<img src="ur cute/ExtraLargeCat/018 cool-fun.gif" height="250"> 
+<img src="ur cute/ExtraLargeCat/019 wow-cat.gif" height="250"> 
+<img src="ur cute/ExtraLargeCat/020 cat-wiggle-dance-cat-shake-dance.gif" height="250"> 
+<img src="ur cute/ExtraLargeCat/021 walk sniff.gif" height="250"> 
+<img src="ur cute/ExtraLargeCat/022 cat-yawning.gif" height="250"> 
+<img src="ur cute/ExtraLargeCat/023 hug.jpg" height="250"> 
+<img src="ur cute/ExtraLargeCat/024 mrfresh-sad-cat.gif" height="250"> 
+<img src="ur cute/ExtraLargeCat/025 meow-cat.gif" height="250"> 
 
 </details><br><br>
 
