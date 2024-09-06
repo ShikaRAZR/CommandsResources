@@ -631,6 +631,7 @@ Google2SRT
 <img src="ur cute/088 scared.gif"> 
 <img src="ur cute/089 ScaredCrow.webp"> 
 <img src="ur cute/090 BoneePat.webp"> 
+<img src="ur cute/091 Shrug.webp"> 
 <img src="ur cute/994 shijima-shimeji.gif"> 
 <img src="ur cute/995 noted-anime.gif"> 
 <img src="ur cute/996 NeroGasm.webp"> 
@@ -731,6 +732,7 @@ Google2SRT
 <img src="ur cute/Large/088 scared.gif" height="96"> 
 <img src="ur cute/Large/089 ScaredCrow.webp" height="96"> 
 <img src="ur cute/Large/090 BoneePat.webp" height="96"> 
+<img src="ur cute/Large/091 Shrug.webp" height="96"> 
 <img src="ur cute/Large/981 lean.gif" height="96"> 
 <img src="ur cute/Large/982 fat.gif" height="96"> 
 <img src="ur cute/Large/983 wait.webp" height="96"> 
@@ -824,6 +826,7 @@ Google2SRT
 <img src="ur cute/ExtraLargeCat/023 hug.jpg" height="250"> 
 <img src="ur cute/ExtraLargeCat/024 mrfresh-sad-cat.gif" height="250"> 
 <img src="ur cute/ExtraLargeCat/025 meow-cat.gif" height="250"> 
+<img src="ur cute/ExtraLargeCat/026 cat-cat-jumping.gif" height="250"> 
 
 </details><br><br>
 
