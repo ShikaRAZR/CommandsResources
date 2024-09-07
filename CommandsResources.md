@@ -32,7 +32,17 @@ https://google.github.io/styleguide/docguide/style.html
 Preview Mode tabs are not kept open. As soon as you go to open another file from the sidebar, the existing Preview Mode tab (if one exists) is used. You can determine if a tab is in Preview Mode, by looking at its title in the tab bar. If the title is italic, the tab is in preview mode.
 <br><br>
 To open a file for editing (i.e. don't open in Preview Mode), double-click on the file in the sidebar, or single-click it in the sidebar then double click the title of its Preview Mode tab.
+<br>
 
+> Set default line endings in Visual Studio Code<br>
+VSCode settings (F1)<br>
+Preferences: Open User Settings (JSON)<br>
+settings.json: "files.eol": "\n" (add)
+
+        {
+                "markdown.preview.scrollPreviewWithEditor": false,
+                "files.eol": "\n"
+        }
 <br> <br> <br> <br> <br> <br> <br> <br>
 
 
@@ -71,6 +81,10 @@ To open a file for editing (i.e. don't open in Preview Mode), double-click on th
 
         git fetch
         git diff <mainbranch_path> <remotebranch_path>
+
+- Force Git to use LF instead of CR+LF under Windows? [stackoverflowlink](https://stackoverflow.com/questions/2517190/how-do-i-force-git-to-use-lf-instead-of-crlf-under-windows)
+
+        git config --global core.autocrlf false
 
 <details>
 <summary>OTHER</summary>
@@ -333,6 +347,9 @@ ___
 
         Paste in Terminal
         Ctrl + Shift + V
+
+        New Terminal Tab
+        Ctrl + Shift + T
 
         Terminal
         Ctrl + Alt + T

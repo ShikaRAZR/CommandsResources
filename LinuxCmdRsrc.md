@@ -240,6 +240,9 @@ particularly useful when you want to 'start all over' with an application becaus
         waydroid first-launch
 > launch waydroid
 
+        waydroid session stop
+> stop waydroid
+
 <br><br>
 ### Waydroid Extras Script
 
