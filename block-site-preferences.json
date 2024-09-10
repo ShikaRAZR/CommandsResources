@@ -82,7 +82,9 @@
     "*://rust-cli.github.io/*",
     "*://rustup.rs/*",
     "*://www1.kickassanime.mx/*",
-    "*://rust-lang.github.io/*"
+    "*://rust-lang.github.io/*",
+    "*://static.wikia.nocookie.net/*",
+    "*://pbs.twimg.com/*"
   ],
   "close": 0,
   "contextmenu-frame": true,
@@ -93,7 +95,7 @@
   "css": "",
   "disable-actions-options": true,
   "disable-actions-page": true,
-  "guid": "2e355734-803d-4653-9bcc-263839d1482d",
+  "guid": "e68a9a6a-f08d-4b0f-884b-187aea43f410",
   "initialBlock": true,
   "initialBlockCurrent": true,
   "last-update": 1720687589235,
@@ -432,6 +434,14 @@
     },
     "*://rust-lang.github.io/*": {
       "date": 1725520526179,
+      "origin": "options"
+    },
+    "*://static.wikia.nocookie.net/*": {
+      "date": 1725850740802,
+      "origin": "options"
+    },
+    "*://pbs.twimg.com/*": {
+      "date": 1725851546163,
       "origin": "options"
     }
   },
