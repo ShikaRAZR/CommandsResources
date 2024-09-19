@@ -84,7 +84,11 @@
     "*://www1.kickassanime.mx/*",
     "*://rust-lang.github.io/*",
     "*://static.wikia.nocookie.net/*",
-    "*://pbs.twimg.com/*"
+    "*://pbs.twimg.com/*",
+    "*://www.escapefromtarkov.com/*",
+    "*://www.cloudflare.com/*",
+    "*://www.nicovideo.jp/*",
+    "*://streamable.com/*"
   ],
   "close": 0,
   "contextmenu-frame": true,
@@ -95,7 +99,7 @@
   "css": "",
   "disable-actions-options": true,
   "disable-actions-page": true,
-  "guid": "e68a9a6a-f08d-4b0f-884b-187aea43f410",
+  "guid": "7c0fa8e3-155e-47e6-a271-057f6a347969",
   "initialBlock": true,
   "initialBlockCurrent": true,
   "last-update": 1720687589235,
@@ -442,6 +446,22 @@
     },
     "*://pbs.twimg.com/*": {
       "date": 1725851546163,
+      "origin": "options"
+    },
+    "*://www.escapefromtarkov.com/*": {
+      "date": 1726013806366,
+      "origin": "options"
+    },
+    "*://www.cloudflare.com/*": {
+      "date": 1726013854498,
+      "origin": "options"
+    },
+    "*://www.nicovideo.jp/*": {
+      "date": 1726717602028,
+      "origin": "options"
+    },
+    "*://streamable.com/*": {
+      "date": 1726786557373,
       "origin": "options"
     }
   },
