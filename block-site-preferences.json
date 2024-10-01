@@ -88,7 +88,9 @@
     "*://www.escapefromtarkov.com/*",
     "*://www.cloudflare.com/*",
     "*://www.nicovideo.jp/*",
-    "*://streamable.com/*"
+    "*://streamable.com/*",
+    "*://calibre-ebook.com/*",
+    "*://annas-archive.org/*"
   ],
   "close": 0,
   "contextmenu-frame": true,
@@ -99,7 +101,7 @@
   "css": "",
   "disable-actions-options": true,
   "disable-actions-page": true,
-  "guid": "7c0fa8e3-155e-47e6-a271-057f6a347969",
+  "guid": "eedfba79-d850-431e-a999-0b4cf6da3a46",
   "initialBlock": true,
   "initialBlockCurrent": true,
   "last-update": 1720687589235,
@@ -462,6 +464,14 @@
     },
     "*://streamable.com/*": {
       "date": 1726786557373,
+      "origin": "options"
+    },
+    "*://calibre-ebook.com/*": {
+      "date": 1727772818969,
+      "origin": "options"
+    },
+    "*://annas-archive.org/*": {
+      "date": 1727772882021,
       "origin": "options"
     }
   },
