@@ -90,7 +90,10 @@
     "*://www.nicovideo.jp/*",
     "*://streamable.com/*",
     "*://calibre-ebook.com/*",
-    "*://annas-archive.org/*"
+    "*://annas-archive.org/*",
+    "*://steamcommunity.com/*",
+    "*://map.projectzomboid.com/*",
+    "*://pzwiki.net/*"
   ],
   "close": 0,
   "contextmenu-frame": true,
@@ -101,7 +104,7 @@
   "css": "",
   "disable-actions-options": true,
   "disable-actions-page": true,
-  "guid": "eedfba79-d850-431e-a999-0b4cf6da3a46",
+  "guid": "671534ac-f55d-4e86-84cc-0b09cc7c87f0",
   "initialBlock": true,
   "initialBlockCurrent": true,
   "last-update": 1720687589235,
@@ -472,6 +475,18 @@
     },
     "*://annas-archive.org/*": {
       "date": 1727772882021,
+      "origin": "options"
+    },
+    "*://steamcommunity.com/*": {
+      "date": 1728093662579,
+      "origin": "options"
+    },
+    "*://map.projectzomboid.com/*": {
+      "date": 1728103662143,
+      "origin": "options"
+    },
+    "*://pzwiki.net/*": {
+      "date": 1728182998733,
       "origin": "options"
     }
   },
