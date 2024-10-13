@@ -60,7 +60,6 @@
     "donmai.us",
     "*://amzn.to/*",
     "*://a.co/*",
-    "*://ordr.issou.best/*",
     "*://starcitizen.tools/*",
     "*://www.erkul.games/*",
     "*://finder.cstone.space/*",
@@ -93,7 +92,9 @@
     "*://annas-archive.org/*",
     "*://steamcommunity.com/*",
     "*://map.projectzomboid.com/*",
-    "*://pzwiki.net/*"
+    "*://pzwiki.net/*",
+    "*://ordr.issou.best/*",
+    "*://link.issou.best/*"
   ],
   "close": 0,
   "contextmenu-frame": true,
@@ -104,7 +105,7 @@
   "css": "",
   "disable-actions-options": true,
   "disable-actions-page": true,
-  "guid": "671534ac-f55d-4e86-84cc-0b09cc7c87f0",
+  "guid": "44a6dfe2-25b4-457b-ae63-ab8a9ba825f1",
   "initialBlock": true,
   "initialBlockCurrent": true,
   "last-update": 1720687589235,
@@ -353,10 +354,6 @@
       "date": 1722221938982,
       "origin": "options"
     },
-    "*://ordr.issou.best/*": {
-      "date": 1723629716340,
-      "origin": "options"
-    },
     "*://starcitizen.tools/*": {
       "date": 1723785405436,
       "origin": "options"
@@ -487,6 +484,14 @@
     },
     "*://pzwiki.net/*": {
       "date": 1728182998733,
+      "origin": "options"
+    },
+    "*://ordr.issou.best/*": {
+      "date": 1723629716340,
+      "origin": "options"
+    },
+    "*://link.issou.best/*": {
+      "date": 1728785264587,
       "origin": "options"
     }
   },
