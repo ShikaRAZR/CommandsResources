@@ -310,7 +310,7 @@ ___
 
 
 <details> 
-  <summary style="font-weight:bold; font-size:1.3em">JP</span></summary>
+  <summary style="font-weight:bold; font-size:1.3em">Learn JP</span></summary>
   <a href="https://github.com/yudataguy/Awesome-Japanese#beginner-guide">General</a> <br>
   <a href="https://supernative.tv/ja/">TV Show Phrases</a> <br>
   <a href="http://www.technologyimprov.com/HiraganaAudioQuiz">Hiragana Audio Memorize</a> <br>
