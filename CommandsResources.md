@@ -225,6 +225,7 @@ ___
 > [Youtube TV](https://github.com/marcosrg9/YouTubeTV?tab=readme-ov-file)<br>
 > [Bulk File Rename Utility](https://www.bulkrenameutility.co.uk/)<br>
 > Music Player [mpv](https://mpv.io/) [foobar2000](https://www.foobar2000.org/) [fooyin](https://www.fooyin.org/)<br>
+> [FreeTube](https://github.com/FreeTubeApp/FreeTube)<br>
 
 
 ### Web Browser
