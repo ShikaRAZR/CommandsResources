@@ -60,6 +60,7 @@
     "donmai.us",
     "*://amzn.to/*",
     "*://a.co/*",
+    "*://ordr.issou.best/*",
     "*://starcitizen.tools/*",
     "*://www.erkul.games/*",
     "*://finder.cstone.space/*",
@@ -93,8 +94,14 @@
     "*://steamcommunity.com/*",
     "*://map.projectzomboid.com/*",
     "*://pzwiki.net/*",
-    "*://ordr.issou.best/*",
-    "*://link.issou.best/*"
+    "*://link.issou.best/*",
+    "*://fxtwitter.com/*",
+    "*://www.prydwen.gg/*",
+    "*://gf2exilium.sunborngame.com/*",
+    "*://endfield.gryphline.com/*",
+    "*://etternaonline.com/*",
+    "*://downloads.etternaonline.com/*",
+    "*://forums.etternaonline.com/*"
   ],
   "close": 0,
   "contextmenu-frame": true,
@@ -105,7 +112,7 @@
   "css": "",
   "disable-actions-options": true,
   "disable-actions-page": true,
-  "guid": "44a6dfe2-25b4-457b-ae63-ab8a9ba825f1",
+  "guid": "1cf44b86-2f19-4e75-9451-cf3ed14baee8",
   "initialBlock": true,
   "initialBlockCurrent": true,
   "last-update": 1720687589235,
@@ -354,6 +361,10 @@
       "date": 1722221938982,
       "origin": "options"
     },
+    "*://ordr.issou.best/*": {
+      "date": 1723629716340,
+      "origin": "options"
+    },
     "*://starcitizen.tools/*": {
       "date": 1723785405436,
       "origin": "options"
@@ -486,12 +497,36 @@
       "date": 1728182998733,
       "origin": "options"
     },
-    "*://ordr.issou.best/*": {
-      "date": 1723629716340,
-      "origin": "options"
-    },
     "*://link.issou.best/*": {
       "date": 1728785264587,
+      "origin": "options"
+    },
+    "*://fxtwitter.com/*": {
+      "date": 1732240742692,
+      "origin": "options"
+    },
+    "*://www.prydwen.gg/*": {
+      "date": 1733461640972,
+      "origin": "options"
+    },
+    "*://gf2exilium.sunborngame.com/*": {
+      "date": 1733786769301,
+      "origin": "options"
+    },
+    "*://endfield.gryphline.com/*": {
+      "date": 1734651251466,
+      "origin": "options"
+    },
+    "*://etternaonline.com/*": {
+      "date": 1734667134672,
+      "origin": "options"
+    },
+    "*://downloads.etternaonline.com/*": {
+      "date": 1734667702531,
+      "origin": "options"
+    },
+    "*://forums.etternaonline.com/*": {
+      "date": 1734670120510,
       "origin": "options"
     }
   },
