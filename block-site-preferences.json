@@ -101,7 +101,13 @@
     "*://endfield.gryphline.com/*",
     "*://etternaonline.com/*",
     "*://downloads.etternaonline.com/*",
-    "*://forums.etternaonline.com/*"
+    "*://forums.etternaonline.com/*",
+    "*://tarkovtracker.io/*",
+    "*://vxtwitter.com/*",
+    "*://arena.tarkov.com/*",
+    "*://voltaic.gg/*",
+    "*://discord.com/*",
+    "*://bit.ly/*"
   ],
   "close": 0,
   "contextmenu-frame": true,
@@ -112,7 +118,7 @@
   "css": "",
   "disable-actions-options": true,
   "disable-actions-page": true,
-  "guid": "fe031e10-f13c-4830-9e60-aa8b887abb34",
+  "guid": "e00a6d37-a210-4e3b-8f41-872a82b71672",
   "initialBlock": true,
   "initialBlockCurrent": true,
   "last-update": 1720687589235,
@@ -527,6 +533,30 @@
     },
     "*://forums.etternaonline.com/*": {
       "date": 1734670120510,
+      "origin": "options"
+    },
+    "*://tarkovtracker.io/*": {
+      "date": 1735538026215,
+      "origin": "options"
+    },
+    "*://vxtwitter.com/*": {
+      "date": 1735605799964,
+      "origin": "options"
+    },
+    "*://arena.tarkov.com/*": {
+      "date": 1735609221718,
+      "origin": "options"
+    },
+    "*://voltaic.gg/*": {
+      "date": 1737330276513,
+      "origin": "options"
+    },
+    "*://discord.com/*": {
+      "date": 1737330304166,
+      "origin": "options"
+    },
+    "*://bit.ly/*": {
+      "date": 1737424276337,
       "origin": "options"
     }
   },
