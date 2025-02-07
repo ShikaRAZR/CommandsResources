@@ -107,7 +107,10 @@
     "*://arena.tarkov.com/*",
     "*://voltaic.gg/*",
     "*://discord.com/*",
-    "*://bit.ly/*"
+    "*://bit.ly/*",
+    "*://rarenkimera.github.io/*",
+    "*://readymag.website/*",
+    "*://www.qy-shi.com/*"
   ],
   "close": 0,
   "contextmenu-frame": true,
@@ -118,7 +121,7 @@
   "css": "",
   "disable-actions-options": true,
   "disable-actions-page": true,
-  "guid": "e00a6d37-a210-4e3b-8f41-872a82b71672",
+  "guid": "07e2af0d-061a-45f9-847a-7b9466f05a53",
   "initialBlock": true,
   "initialBlockCurrent": true,
   "last-update": 1720687589235,
@@ -557,6 +560,18 @@
     },
     "*://bit.ly/*": {
       "date": 1737424276337,
+      "origin": "options"
+    },
+    "*://rarenkimera.github.io/*": {
+      "date": 1738908642974,
+      "origin": "options"
+    },
+    "*://readymag.website/*": {
+      "date": 1738908664269,
+      "origin": "options"
+    },
+    "*://www.qy-shi.com/*": {
+      "date": 1738908673173,
       "origin": "options"
     }
   },
