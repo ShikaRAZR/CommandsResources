@@ -82,7 +82,7 @@ settings.json: "files.eol": "\n" (add)
         git fetch
         git diff <mainbranch_path> <remotebranch_path>
 
-- Force Git to use LF instead of CR+LF under Windows? [stackoverflowlink](https://stackoverflow.com/questions/2517190/how-do-i-force-git-to-use-lf-instead-of-crlf-under-windows)
+- Force Git to use LF instead of CR+LF CLRF under Windows? [stackoverflowlink](https://stackoverflow.com/questions/2517190/how-do-i-force-git-to-use-lf-instead-of-crlf-under-windows)
 
         git config --global core.autocrlf false
 
@@ -174,6 +174,7 @@ ___
 > fdisk, parted, gparted, gnome-disks - Partition Manager<br>
 > [ufw](https://github.com/jbq/ufw) - firewall [Guide](https://christitus.com/linux-security-mistakes/)<br>
 > [Firejail Sandbox](https://github.com/netblue30/firejail)<br>
+> [tldr](https://tldr.sh/) [tealdeer](https://github.com/tealdeer-rs/tealdeer) - simiplified man pages (on website or command line)
 
 > [Windows in a Bottle](https://usebottles.com/)<br>
 > fastfetch [logo](https://github.com/fastfetch-cli/fastfetch/wiki/Logo-options)<br>
