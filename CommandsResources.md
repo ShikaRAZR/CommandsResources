@@ -239,7 +239,8 @@ ___
 >[Tabliss](https://addons.mozilla.org/en-US/firefox/addon/tabliss/)<br>
 > [Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/)<br>
 > [Website Blocker](https://addons.mozilla.org/en-US/firefox/addon/block-website/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) [Git](https://github.com/ray-lothian/Block-Site) <br>
-> [Hide Youtube Distractions](https://addons.mozilla.org/en-US/firefox/addon/untrap-for-youtube/)
+> [Hide Youtube Distractions](https://addons.mozilla.org/en-US/firefox/addon/untrap-for-youtube/)<br>
+> [Feed Reader](https://addons.mozilla.org/en-US/firefox/addon/feedbroreader/)
 
 > [Steamable Video Hosting](https://streamable.com/) <br>
 > https://regexr.com/ <br>

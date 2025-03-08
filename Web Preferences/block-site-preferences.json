@@ -110,7 +110,8 @@
     "*://bit.ly/*",
     "*://rarenkimera.github.io/*",
     "*://readymag.website/*",
-    "*://www.qy-shi.com/*"
+    "*://www.qy-shi.com/*",
+    "*://webapps.stackexchange.com/*"
   ],
   "close": 0,
   "contextmenu-frame": true,
@@ -121,7 +122,7 @@
   "css": "",
   "disable-actions-options": true,
   "disable-actions-page": true,
-  "guid": "07e2af0d-061a-45f9-847a-7b9466f05a53",
+  "guid": "5794fbee-9444-4f88-8484-7099962d722b",
   "initialBlock": true,
   "initialBlockCurrent": true,
   "last-update": 1720687589235,
@@ -572,6 +573,10 @@
     },
     "*://www.qy-shi.com/*": {
       "date": 1738908673173,
+      "origin": "options"
+    },
+    "*://webapps.stackexchange.com/*": {
+      "date": 1741388842447,
       "origin": "options"
     }
   },
