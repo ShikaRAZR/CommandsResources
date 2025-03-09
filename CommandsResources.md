@@ -227,20 +227,23 @@ ___
 > [Bulk File Rename Utility](https://www.bulkrenameutility.co.uk/)<br>
 > Music Player [mpv](https://mpv.io/) [foobar2000](https://www.foobar2000.org/) [fooyin](https://www.fooyin.org/)<br>
 > [FreeTube](https://github.com/FreeTubeApp/FreeTube)<br>
+> [Zen Browser](https://zen-browser.app/)
 
 
 ### Web Browser
 > [Popup Blocker](https://addons.mozilla.org/en-US/firefox/addon/popup-blocker/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
 > [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
 > [Smart HTTPS](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
+> [Website Blocker](https://addons.mozilla.org/en-US/firefox/addon/block-website/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) [Git](https://github.com/ray-lothian/Block-Site) <br>
+> [Feed Reader](https://addons.mozilla.org/en-US/firefox/addon/feedbroreader/)<br>
+> [Hide Youtube Distractions](https://addons.mozilla.org/en-US/firefox/addon/untrap-for-youtube/)<br>
+> [Youtube Dislike](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/)<br>
+> [Lock Tab Page](https://addons.mozilla.org/en-US/firefox/addon/lock-tab-page/)<br>
 > [The Camelizer - Price Tracker](https://addons.mozilla.org/en-US/firefox/addon/the-camelizer-price-history-ch/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
 > [DocsAfterDark](https://addons.mozilla.org/en-US/firefox/addon/docsafterdark/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
 > [Youtube Ad Auto-skipper](https://addons.mozilla.org/en-US/firefox/addon/youtube-ad-auto-skipper/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
->[Tabliss](https://addons.mozilla.org/en-US/firefox/addon/tabliss/)<br>
+> [Tabliss](https://addons.mozilla.org/en-US/firefox/addon/tabliss/)<br>
 > [Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/)<br>
-> [Website Blocker](https://addons.mozilla.org/en-US/firefox/addon/block-website/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) [Git](https://github.com/ray-lothian/Block-Site) <br>
-> [Hide Youtube Distractions](https://addons.mozilla.org/en-US/firefox/addon/untrap-for-youtube/)<br>
-> [Feed Reader](https://addons.mozilla.org/en-US/firefox/addon/feedbroreader/)
 
 > [Steamable Video Hosting](https://streamable.com/) <br>
 > https://regexr.com/ <br>

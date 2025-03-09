@@ -111,7 +111,9 @@
     "*://rarenkimera.github.io/*",
     "*://readymag.website/*",
     "*://www.qy-shi.com/*",
-    "*://webapps.stackexchange.com/*"
+    "*://webapps.stackexchange.com/*",
+    "*://christitus.com/*",
+    "*://zen-browser.app/*"
   ],
   "close": 0,
   "contextmenu-frame": true,
@@ -122,7 +124,7 @@
   "css": "",
   "disable-actions-options": true,
   "disable-actions-page": true,
-  "guid": "5794fbee-9444-4f88-8484-7099962d722b",
+  "guid": "d73daa0a-834e-4254-9663-6a7b93dbdd34",
   "initialBlock": true,
   "initialBlockCurrent": true,
   "last-update": 1720687589235,
@@ -577,6 +579,14 @@
     },
     "*://webapps.stackexchange.com/*": {
       "date": 1741388842447,
+      "origin": "options"
+    },
+    "*://christitus.com/*": {
+      "date": 1741402488001,
+      "origin": "options"
+    },
+    "*://zen-browser.app/*": {
+      "date": 1741477333358,
       "origin": "options"
     }
   },
