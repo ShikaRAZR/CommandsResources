@@ -118,7 +118,8 @@
     "*://i.ytimg.com/*",
     "*://tosdr.org/*",
     "*://www.startpage.com/*",
-    "*://support.startpage.com/*"
+    "*://support.startpage.com/*",
+    "*://saucenao.com/*"
   ],
   "close": 0,
   "contextmenu-frame": true,
@@ -129,7 +130,7 @@
   "css": "",
   "disable-actions-options": true,
   "disable-actions-page": true,
-  "guid": "22821c9a-3e41-48a9-b406-f4356273c8f4",
+  "guid": "8d05c6a3-94e6-4ae3-a4e1-1c70e454214b",
   "initialBlock": true,
   "initialBlockCurrent": true,
   "last-update": 1720687589235,
@@ -612,6 +613,10 @@
     },
     "*://support.startpage.com/*": {
       "date": 1741589138081,
+      "origin": "options"
+    },
+    "*://saucenao.com/*": {
+      "date": 1741589872004,
       "origin": "options"
     }
   },

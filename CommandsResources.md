@@ -236,9 +236,13 @@ ___
 > [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
 > [Smart HTTPS](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
 > [Website Blocker](https://addons.mozilla.org/en-US/firefox/addon/block-website/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) [Git](https://github.com/ray-lothian/Block-Site) <br>
-> [Feed Reader](https://addons.mozilla.org/en-US/firefox/addon/feedbroreader/)<br>
-> [Hide Youtube Distractions](https://addons.mozilla.org/en-US/firefox/addon/untrap-for-youtube/)<br>
+> [Feedbro Reader](https://addons.mozilla.org/en-US/firefox/addon/feedbroreader/)<br>
+> [Untrap Hide Youtube Distractions](https://addons.mozilla.org/en-US/firefox/addon/untrap-for-youtube/)<br>
 > [Youtube Dislike](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/)<br>
+> [Reverse Image Search](https://addons.mozilla.org/en-US/firefox/addon/image-reverse-search/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
+> [Terms of Service; Didn’t Read](https://addons.mozilla.org/en-US/firefox/addon/terms-of-service-didnt-read/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
+> [Startpage - Private Search Engine](https://www.startpage.com/en/) <br>
+
 > [Lock Tab Page](https://addons.mozilla.org/en-US/firefox/addon/lock-tab-page/)<br>
 > [The Camelizer - Price Tracker](https://addons.mozilla.org/en-US/firefox/addon/the-camelizer-price-history-ch/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
 > [DocsAfterDark](https://addons.mozilla.org/en-US/firefox/addon/docsafterdark/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
@@ -246,14 +250,13 @@ ___
 > [Tabliss](https://addons.mozilla.org/en-US/firefox/addon/tabliss/)<br>
 > [Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/)<br>
 > [Browser Profile Spoofer](https://addons.mozilla.org/en-US/firefox/addon/chameleon-ext/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
-> [Terms of Service; Didn’t Read](https://addons.mozilla.org/en-US/firefox/addon/terms-of-service-didnt-read/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
 > [Stylus - CSS editor](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)<br>
+> [Instagram Video Scrubber](https://addons.mozilla.org/en-US/firefox/addon/video-scrubber-for-instagram/)
 
 > [Steamable Video Hosting](https://streamable.com/) <br>
 > https://regexr.com/ <br>
 > [Hue Finder](https://colors.artyclick.com/color-hue-finder) <br>
 > [Color Palettes](https://coolors.co/) <br>
-> [Startpage - Private Search Engine](https://www.startpage.com/en/) <br>
 
 ### Personal
 > [Discord History](https://github.com/Tyrrrz/DiscordChatExporter/releases) - [Guide](https://www.swipetips.com/how-to-download-your-chat-history-from-discord/) <br>
