@@ -113,7 +113,12 @@
     "*://www.qy-shi.com/*",
     "*://webapps.stackexchange.com/*",
     "*://christitus.com/*",
-    "*://zen-browser.app/*"
+    "*://zen-browser.app/*",
+    "*://yt3.ggpht.com/*",
+    "*://i.ytimg.com/*",
+    "*://tosdr.org/*",
+    "*://www.startpage.com/*",
+    "*://support.startpage.com/*"
   ],
   "close": 0,
   "contextmenu-frame": true,
@@ -124,7 +129,7 @@
   "css": "",
   "disable-actions-options": true,
   "disable-actions-page": true,
-  "guid": "606435b2-34ca-4a9b-9020-31b91878f4a8",
+  "guid": "22821c9a-3e41-48a9-b406-f4356273c8f4",
   "initialBlock": true,
   "initialBlockCurrent": true,
   "last-update": 1720687589235,
@@ -587,6 +592,26 @@
     },
     "*://zen-browser.app/*": {
       "date": 1741477333358,
+      "origin": "options"
+    },
+    "*://yt3.ggpht.com/*": {
+      "date": 1741550903911,
+      "origin": "options"
+    },
+    "*://i.ytimg.com/*": {
+      "date": 1741585946850,
+      "origin": "options"
+    },
+    "*://tosdr.org/*": {
+      "date": 1741588642815,
+      "origin": "options"
+    },
+    "*://www.startpage.com/*": {
+      "date": 1741588840853,
+      "origin": "options"
+    },
+    "*://support.startpage.com/*": {
+      "date": 1741589138081,
       "origin": "options"
     }
   },

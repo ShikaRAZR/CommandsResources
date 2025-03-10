@@ -83,7 +83,17 @@ particularly useful when you want to 'start all over' with an application becaus
 </details><br>
 
 
+<details> 
+  <summary>Security</summary>
 
+ - Forum - https://forums.linuxmint.com/viewtopic.php?t=390000
+
+ - Blog - https://easylinuxtipsproject.blogspot.com/p/security.html?m=1
+
+ - Titus - https://youtu.be/QxNsyrftJ8I?si=cCUl6SgggGp9S0xE
+
+ - General - https://youtu.be/Sa0KqbpLye4?si=eXpyoeV8ZrQd-n5u
+</details><br>
 
 
 <details>

@@ -184,6 +184,7 @@ ___
 > [It's FOSS](https://itsfoss.com/)<br>
 > [sysguides](https://sysguides.com/)<br>
 > [Linux Ricing](https://github.com/avtzis/awesome-linux-ricing)<br>
+> [Titus Blog](https://christitus.com/)
 
 ### Android
 > [Android FOSS List](https://github.com/offa/android-foss)<br>
@@ -244,11 +245,15 @@ ___
 > [Youtube Ad Auto-skipper](https://addons.mozilla.org/en-US/firefox/addon/youtube-ad-auto-skipper/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
 > [Tabliss](https://addons.mozilla.org/en-US/firefox/addon/tabliss/)<br>
 > [Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/)<br>
+> [Browser Profile Spoofer](https://addons.mozilla.org/en-US/firefox/addon/chameleon-ext/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
+> [Terms of Service; Didn’t Read](https://addons.mozilla.org/en-US/firefox/addon/terms-of-service-didnt-read/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
+> [Stylus - CSS editor](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)<br>
 
 > [Steamable Video Hosting](https://streamable.com/) <br>
 > https://regexr.com/ <br>
 > [Hue Finder](https://colors.artyclick.com/color-hue-finder) <br>
-> [Color Palettes](https://coolors.co/)
+> [Color Palettes](https://coolors.co/) <br>
+> [Startpage - Private Search Engine](https://www.startpage.com/en/) <br>
 
 ### Personal
 > [Discord History](https://github.com/Tyrrrz/DiscordChatExporter/releases) - [Guide](https://www.swipetips.com/how-to-download-your-chat-history-from-discord/) <br>
