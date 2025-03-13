@@ -119,7 +119,11 @@
     "*://tosdr.org/*",
     "*://www.startpage.com/*",
     "*://support.startpage.com/*",
-    "*://saucenao.com/*"
+    "*://saucenao.com/*",
+    "*://www.redgifs.com/*",
+    "*://preview.redd.it/*",
+    "*://www.nyc.gov/*",
+    "*://a810-bisweb.nyc.gov/*"
   ],
   "close": 0,
   "contextmenu-frame": true,
@@ -130,7 +134,7 @@
   "css": "",
   "disable-actions-options": true,
   "disable-actions-page": true,
-  "guid": "8d05c6a3-94e6-4ae3-a4e1-1c70e454214b",
+  "guid": "770a8042-4dff-4e51-b5b2-f88f96ce5534",
   "initialBlock": true,
   "initialBlockCurrent": true,
   "last-update": 1720687589235,
@@ -617,6 +621,22 @@
     },
     "*://saucenao.com/*": {
       "date": 1741589872004,
+      "origin": "options"
+    },
+    "*://www.redgifs.com/*": {
+      "date": 1741857763119,
+      "origin": "options"
+    },
+    "*://preview.redd.it/*": {
+      "date": 1741858049242,
+      "origin": "options"
+    },
+    "*://www.nyc.gov/*": {
+      "date": 1741865583823,
+      "origin": "options"
+    },
+    "*://a810-bisweb.nyc.gov/*": {
+      "date": 1741866648675,
       "origin": "options"
     }
   },
