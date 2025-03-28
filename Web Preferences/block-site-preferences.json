@@ -123,7 +123,9 @@
     "*://www.redgifs.com/*",
     "*://preview.redd.it/*",
     "*://www.nyc.gov/*",
-    "*://a810-bisweb.nyc.gov/*"
+    "*://a810-bisweb.nyc.gov/*",
+    "*://reforgermap.com/*",
+    "*://beta.voltaic.gg/*"
   ],
   "close": 0,
   "contextmenu-frame": true,
@@ -134,7 +136,7 @@
   "css": "",
   "disable-actions-options": true,
   "disable-actions-page": true,
-  "guid": "770a8042-4dff-4e51-b5b2-f88f96ce5534",
+  "guid": "a2bf961b-a636-42a6-81e7-c7722913c1ad",
   "initialBlock": true,
   "initialBlockCurrent": true,
   "last-update": 1720687589235,
@@ -637,6 +639,14 @@
     },
     "*://a810-bisweb.nyc.gov/*": {
       "date": 1741866648675,
+      "origin": "options"
+    },
+    "*://reforgermap.com/*": {
+      "date": 1742181304913,
+      "origin": "options"
+    },
+    "*://beta.voltaic.gg/*": {
+      "date": 1743043450294,
       "origin": "options"
     }
   },
