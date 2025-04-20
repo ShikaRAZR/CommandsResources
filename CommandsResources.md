@@ -228,7 +228,8 @@ ___
 > [Bulk File Rename Utility](https://www.bulkrenameutility.co.uk/)<br>
 > Music Player [mpv](https://mpv.io/) [foobar2000](https://www.foobar2000.org/) [fooyin](https://www.fooyin.org/)<br>
 > [FreeTube](https://github.com/FreeTubeApp/FreeTube)<br>
-> [Zen Browser](https://zen-browser.app/)
+> [Zen Browser](https://zen-browser.app/)<br>
+> [WinMerge](https://winmerge.org/) (Compare windows files/folders, differencing merging tool)<br>
 
 
 ### Web Browser

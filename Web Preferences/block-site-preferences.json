@@ -125,7 +125,10 @@
     "*://www.nyc.gov/*",
     "*://a810-bisweb.nyc.gov/*",
     "*://reforgermap.com/*",
-    "*://beta.voltaic.gg/*"
+    "*://beta.voltaic.gg/*",
+    "*://steamdb.info/*",
+    "*://freetubeapp.io/*",
+    "*://www.deltaforcemaps.com/*"
   ],
   "close": 0,
   "contextmenu-frame": true,
@@ -136,7 +139,7 @@
   "css": "",
   "disable-actions-options": true,
   "disable-actions-page": true,
-  "guid": "a2bf961b-a636-42a6-81e7-c7722913c1ad",
+  "guid": "cbf9bf71-5bd4-468f-a913-54ae5706aea2",
   "initialBlock": true,
   "initialBlockCurrent": true,
   "last-update": 1720687589235,
@@ -647,6 +650,18 @@
     },
     "*://beta.voltaic.gg/*": {
       "date": 1743043450294,
+      "origin": "options"
+    },
+    "*://steamdb.info/*": {
+      "date": 1743762140233,
+      "origin": "options"
+    },
+    "*://freetubeapp.io/*": {
+      "date": 1744106648825,
+      "origin": "options"
+    },
+    "*://www.deltaforcemaps.com/*": {
+      "date": 1744524529070,
       "origin": "options"
     }
   },
