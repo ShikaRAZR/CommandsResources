@@ -230,6 +230,8 @@ ___
 > [FreeTube](https://github.com/FreeTubeApp/FreeTube)<br>
 > [Zen Browser](https://zen-browser.app/)<br>
 > [WinMerge](https://winmerge.org/) (Compare windows files/folders, differencing merging tool)<br>
+> [Gimp](https://www.gimp.org/)<br>
+> [Oracle Virtual Box](https://www.virtualbox.org/)<br>
 
 
 ### Web Browser
