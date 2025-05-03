@@ -319,11 +319,16 @@ ___
 > [Switch Emulator](https://ryujinx.org/download)<br>
 > [ATLauncher (Minecraft)](https://atlauncher.com/)
 
-> [Girls' Frontline Cutscene Interpreter](https://gfl.amaryllisworks.pw/)
-> [GFL Corner](https://www.gflcorner.com/)
-> [GFL Music Player](https://girlsfrontline.kr/musicplayer)
+> [Girls' Frontline Cutscene Interpreter](https://gfl.amaryllisworks.pw/) <br>
+> [GFL Corner](https://www.gflcorner.com/) <br>
+> [GFL Music Player](https://girlsfrontline.kr/musicplayer) <br>
 > [GFL Logistics Calculator](https://tempkaridc.github.io/gf/) <br>
-> [Arknights Tier List](https://ak.gamepress.gg/tier-list/arknights-operator-tier-list)
+> [GFL Story Text Summary](https://www.reddit.com/r/GirlsFrontline2/comments/1hnx2i1/what_you_need_to_know_a_spoiler_free_quick_lore/) <br>
+> [GFL Story Video Summary](https://www.youtube.com/playlist?list=PLwIAusSNRkbrH6iZrrT-ePN0J1wZmv3LD) <br>
+> [PNC Doll Analysis](https://docs.google.com/spreadsheets/d/1FMK713okcJNQuCv625Ut0TZuQbm9RlHk7l1yOUF9Qdw/edit?gid=0#gid=0) <br>
+> [GFL2 Spreadsheet](https://docs.google.com/spreadsheets/d/1DogyU3K7ZXw2qbhP1EhRXIAw5nCyIV5G5e-QWviBZME/edit?gid=543758471#gid=543758471) <br><br>
+> [Arknights Tier List](https://ak.gamepress.gg/tier-list/arknights-operator-tier-list) <br>
+> [Arknights Tier List 2](https://docs.google.com/spreadsheets/d/1E7HmgKWiV8pKpJpvpVzziYxnaQTP01Vtw_PXEdL7XPA/edit?gid=1108925005#gid=1108925005) <br>
 > [Arknights Aceship's Toolbox](https://aceship.github.io/AN-EN-Tags/index.html) <br>
 
 
