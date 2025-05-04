@@ -162,6 +162,7 @@ particularly useful when you want to 'start all over' with an application becaus
   - gTiles 1(3,1.5---1) 2(3,1.5---1,1) 3(1,1---1) 4(.3,3,.3,4.5,.3---.5,8,.5)
 - Applets
   - Command Launcher
+  - CinnVIIStarkMenu
   
         gnome-screenshot -w (screenshot current window)
         gnome-terminal -- waydroid first-launch (run waydroid on terminal)

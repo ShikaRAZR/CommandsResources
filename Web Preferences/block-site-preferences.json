@@ -128,7 +128,9 @@
     "*://beta.voltaic.gg/*",
     "*://steamdb.info/*",
     "*://freetubeapp.io/*",
-    "*://www.deltaforcemaps.com/*"
+    "*://www.deltaforcemaps.com/*",
+    "*://sp-tarkov.com/*",
+    "*://hub.sp-tarkov.com/*"
   ],
   "close": 0,
   "contextmenu-frame": true,
@@ -139,7 +141,7 @@
   "css": "",
   "disable-actions-options": true,
   "disable-actions-page": true,
-  "guid": "cbf9bf71-5bd4-468f-a913-54ae5706aea2",
+  "guid": "07fd0a9c-c695-4654-9e30-1a15a29f6914",
   "initialBlock": true,
   "initialBlockCurrent": true,
   "last-update": 1720687589235,
@@ -662,6 +664,14 @@
     },
     "*://www.deltaforcemaps.com/*": {
       "date": 1744524529070,
+      "origin": "options"
+    },
+    "*://sp-tarkov.com/*": {
+      "date": 1745122064057,
+      "origin": "options"
+    },
+    "*://hub.sp-tarkov.com/*": {
+      "date": 1745122106471,
       "origin": "options"
     }
   },
