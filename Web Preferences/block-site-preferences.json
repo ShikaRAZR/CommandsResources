@@ -130,7 +130,10 @@
     "*://freetubeapp.io/*",
     "*://www.deltaforcemaps.com/*",
     "*://sp-tarkov.com/*",
-    "*://hub.sp-tarkov.com/*"
+    "*://hub.sp-tarkov.com/*",
+    "*://roadmap.sh/*",
+    "*://docs.puddletag.net/*",
+    "*://flathub.org/apps/org.gnome.EasyTAG*"
   ],
   "close": 0,
   "contextmenu-frame": true,
@@ -141,7 +144,7 @@
   "css": "",
   "disable-actions-options": true,
   "disable-actions-page": true,
-  "guid": "07fd0a9c-c695-4654-9e30-1a15a29f6914",
+  "guid": "e804587a-e002-4675-b4a8-df0ba6ff338d",
   "initialBlock": true,
   "initialBlockCurrent": true,
   "last-update": 1720687589235,
@@ -672,6 +675,18 @@
     },
     "*://hub.sp-tarkov.com/*": {
       "date": 1745122106471,
+      "origin": "options"
+    },
+    "*://roadmap.sh/*": {
+      "date": 1746856113662,
+      "origin": "options"
+    },
+    "*://docs.puddletag.net/*": {
+      "date": 1746857359551,
+      "origin": "options"
+    },
+    "*://flathub.org/apps/org.gnome.EasyTAG*": {
+      "date": 1746857577455,
       "origin": "options"
     }
   },

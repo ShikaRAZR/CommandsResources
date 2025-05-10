@@ -181,6 +181,8 @@ ___
 > Drawing - Image Editor<br>
 > gThumb - Image Viewer<br>
 > Vim - Text Editor<br>
+> [Easytag](https://flathub.org/apps/org.gnome.EasyTAG), [PuddleTag](https://docs.puddletag.net/)<br>
+
 > [It's FOSS](https://itsfoss.com/)<br>
 > [sysguides](https://sysguides.com/)<br>
 > [Linux Ricing](https://github.com/avtzis/awesome-linux-ricing)<br>
@@ -266,7 +268,8 @@ ___
 > [Streaming Letflix](https://letflixtv.pages.dev/) <br>
 > [Reddit - multireddit of your subscriptions](https://old.reddit.com/r/0sanitymemes+1stPersonAnimations+ANormalDayInRussia+APK+Android+AndroidStudio+AniLick+AnimeInOurWorld+AnimeNoises+AnimeSleeves+AraAra+Arknuts+AzureLane+BDOBeautyAlbum+BMW+BTS+Battlefield+BirdsArentReal+Bitcoin+BitcoinBeginners+BitcoinMarkets+BlenderDoughnuts+CatastrophicFailure+Catswithjobs+Chonkers+Cytus+Damnthatsinteresting+EDM+EpicSeven+EscapefromTarkov+Etterna+FGOcomics+FGOfanart+Fate+FateExtra+FatePrismaIllya+Fencing+FiftyFifty+ForFashion+GFLNeuralCloud+GIRLSundPANZER+GearsOfWar+Genshin_Impact+Genshin_Memepact+GoblinSlayer+Gunime+Gunpla+HaloStory+HeadphoneAdvice+HighQualityReloads+HonkaiImpact+Itasha+JustKiddingNews+KurtzPel+Maplestory+MildFemboys+Minecraft+Music+OppaiLove+OsuSkins+OverlordNsfw+Overwatch+PcBuild+PetTheDamnCat+Piracy+ProgrammerHumor+PunishingGrayRaven+RealEstate+ReleaseMySoul+Rimuru+RoastMe+Saber+SelfDrivingCars+Shitty_Car_Mods+TacticalDolls+TarkovMemes+UnrestrictedGFL+WhatAWeeb+Whatcouldgowrong+YoujoSenki+androiddev+anime+animegifs+animenews+animenocontext+apexlegends+arknights+artknights+awwcoholics+bestofosu+blackdesertonline+blender+blenderhelp+bodyweightfitness+cars+cats+confusing_perspective+consentacles+cutelittlefangs+dankmemes+dogecoin+egg_irl+fateapocrypha+fatestaynight+fourminute+funny+gachagaming+gaming+gifs+girlsfrontline+goodanimemes+grailwhores+grandorder+hackernews+halo+hardware+instant_regret+insurgency+java+javagamedev+javahelp+jobs+karanokyoukai+killthecameraman+kpop+learnjava+learnjavascript+learnprogramming+lostarkgame+manga+massage+memes+modernwarfare+osugame+overlord+personalfinance+piano+pianocovers+pimpcats+pouts+red_velvet+sakimichan+science+smug+stalker+starcitizen+toarumajutsunoindex+touhou+tvxq+typemoon+u_CheetahSperm18+u_Chendroshee+u_Djinnfor+u_Hanada_Yanochi+u_Hentaki_Coco+u_Imagen-Breaker+u_Waifu-Is-Bae+u_ZumiDraws+u_chirofish+u_sevrivas262/)<br>
 > [Calibre - ebook manager](https://calibre-ebook.com/)<br>
-> [Books - Anna’s Archive](https://annas-archive.org/)
+> [Books - Anna’s Archive](https://annas-archive.org/)<br>
+> [Developer Roadmap](https://roadmap.sh/)<br>
 
 <details> 
   <summary style="font-weight:bold; font-size:1.3em">Anime</summary>
