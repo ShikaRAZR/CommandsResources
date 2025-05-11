@@ -7,7 +7,7 @@
 
 <details> 
   <summary>Install Linux Guest Additions</summary>
-  <img src="guestadditions.png" alt="Zorin">
+  <img src="Linux/guestadditions.png" alt="Zorin">
 
   - Device - Insert Guest Additions CD Image...
   - Go to disk and run:
@@ -17,10 +17,13 @@
   
         sudo adduser 'user' vboxsf
 </details><br>
-
-
-
-
+<details> 
+        <summary>Install Linux on SSD With Virtual Machine</summary>
+        <img src="Linux/Install Linux with VM/1.jpg" alt="1">
+        <img src="Linux/Install Linux with VM/2.jpg" alt="2">
+        <img src="Linux/Install Linux with VM/3.jpg" alt="3">
+        <img src="Linux/Install Linux with VM/4.jpg" alt="4">
+</details><br>
 
 <details> 
   <summary>View Installed Packages (In date order)</summary>
@@ -196,7 +199,7 @@ particularly useful when you want to 'start all over' with an application becaus
 
   - Firefox: Toolbar-Popup Color #5B61AE, Text #C7DEFF, Background-Search #1A2361, Tab Highlight #FFCCF1
   - Background 404 Clouds
-  - ~/.config/gtk-3.0/[gtk.css](gtk.css) OR /usr/share/themes/404-Cloud-Mint-Y-Dark-Blue/gtk-3.0/[gtk.css](gtk.css)
+  - ~/.config/gtk-3.0/[gtk.css](Linux/gtk.css) OR /usr/share/themes/404-Cloud-Mint-Y-Dark-Blue/gtk-3.0/[gtk.css](Linux/gtk.css)
   - Window Tiling - Drag to top maximizes
   - Sound - Sounds - Tiling and snapping windows (Off)
 </details><br>
