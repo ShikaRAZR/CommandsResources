@@ -127,18 +127,6 @@ particularly useful when you want to 'start all over' with an application becaus
 
 
 
-
-<details>
-  <summary>Other Commands</summary>
-  
-        gnome-screenshot -a
-> Gnome Screenshot - Snipping
-</details><br>
-
-
-
-
-
 <details> 
   <summary>Linux Mint 21.3 Custom</summary>
 
@@ -204,7 +192,58 @@ particularly useful when you want to 'start all over' with an application becaus
   - Sound - Sounds - Tiling and snapping windows (Off)
 </details><br>
 
+<details> 
+  <summary>Linux Mint 22.1 Custom</summary>
 
+- Favorites: 
+  - Extensions
+  - Themes
+  - Disks (gnome-disks)
+  - Disk Usage Analyzer (baobab)
+  - Update Manager
+  - Firewall Configuration (gufw)
+  - Timeshift
+- Panel:
+  - System monitor
+  - Files
+  - Zen
+  - Terminal
+  - Software Manager
+  - System Setting
+  - Screenshot
+  - Discord
+  - VSCodium
+- Extensions
+  - None
+- Applets
+  - Command Launcher
+  - CinnVIIStarkMenu
+  
+        gnome-screenshot -w (screenshot current window)
+        gnome-terminal -- waydroid first-launch (run waydroid on terminal)
+- Keyboard > Shortcuts
+  - Windows > Position > Move Window (Add)
+
+        CMD + Z
+  - Custom Shortcuts > gnome-screenshot-snip (Make)
+
+        gnome-screenshot -a
+        Alt + Shift + S
+
+- Other
+  - [Tela Icon](https://github.com/vinceliuice/Tela-icon-theme) [Guide](https://www.youtube.com/watch?v=oWRHumOldS8)
+  - Commands:
+
+        git clone https://github.com/vinceliuice/Tela-icon-theme.git
+        sudo -s
+        cd Tela-icon-theme/
+        ./install.sh -d /usr/share/icons/
+
+
+  - Window Tiling - Drag to top maximizes
+  - Sound - Sounds - Tiling and snapping windows (Off)
+
+</details><br>
 
 
 
@@ -310,7 +349,7 @@ particularly useful when you want to 'start all over' with an application becaus
 
 
 <details> 
-  <summary>Gaming Compatibility</summary>
+  <summary>Gaming Compatibility/Fixes</summary>
 
 Chris Titus Steam Games in Linux<br>
 https://youtu.be/nRiUdVSeuFU?si=TunuhiYY77qRau-B<br>
@@ -321,4 +360,31 @@ https://github.com/sonic2kk/steamtinkerlaunch<br>
 Proton Tricks (Based on Wine Tricks)<br>
 https://github.com/Matoking/protontricks<br>
 
+Insurgency Error 
+Game fails to start, 'GCC_7.0.0 not found', Ubuntu 22.04 
+https://steamcommunity.com/app/222880/discussions/3/3719440044266078799/ 
 </details><br>
+
+
+
+<details>
+  <summary>Other Commands</summary>
+  
+        gnome-screenshot -a
+> Gnome Screenshot - Snipping
+
+**Touchpad Acceleration (There is no constant sensitivity, accel is the only sens)**
+
+        xinput list
+> Look for your touchpad id in the output (e.g., "SynPS/2 Synaptics TouchPad)
+
+        xinput list-props <id>
+> Display properties for your touchpad's ID
+
+        xinput set-prop <id> "libinput Accel Speed" <value>
+> \<value\> ranges from -1 (min accel) to 1 (max accel)
+
+
+</details><br>
+
+
