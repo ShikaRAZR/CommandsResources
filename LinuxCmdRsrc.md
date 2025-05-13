@@ -196,6 +196,7 @@ particularly useful when you want to 'start all over' with an application becaus
   <summary>Linux Mint 22.1 Custom</summary>
 
 - Favorites: 
+  - System Setting
   - Extensions
   - Themes
   - Disks (gnome-disks)
@@ -209,18 +210,28 @@ particularly useful when you want to 'start all over' with an application becaus
   - Zen
   - Terminal
   - Software Manager
-  - System Setting
   - Screenshot
-  - Discord
+  - Gimp
   - VSCodium
+  - Steam
+  - Bottles
+  - Discord
+- Other Apps
+  - Nala
+  - Proton Tricks
+  - VLC
+  - Weston
+  - Waydroid
 - Extensions
   - None
+
 - Applets
   - Command Launcher
-  - CinnVIIStarkMenu
   
         gnome-screenshot -w (screenshot current window)
         gnome-terminal -- waydroid first-launch (run waydroid on terminal)
+  - CinnVIIStarkMenu
+  
 - Keyboard > Shortcuts
   - Windows > Position > Move Window (Add)
 
@@ -361,7 +372,7 @@ Proton Tricks (Based on Wine Tricks)<br>
 https://github.com/Matoking/protontricks<br>
 
 Insurgency Error 
-Game fails to start, 'GCC_7.0.0 not found', Ubuntu 22.04 
+Game fails to start, 'GCC_7.0.0 not found', Ubuntu 22.04 <br>
 https://steamcommunity.com/app/222880/discussions/3/3719440044266078799/ 
 </details><br>
 
