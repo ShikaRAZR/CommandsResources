@@ -249,7 +249,7 @@ particularly useful when you want to 'start all over' with an application becaus
 > install waydroid
 
         sudo apt install weston
->install weston (optional) ONLY for distros that don't use wayland
+>install weston (optional) ONLY for distros that don't use wayland, <br> run weston then run waydroid
 
         waydroid first-launch
 > launch waydroid
@@ -306,4 +306,19 @@ particularly useful when you want to 'start all over' with an application becaus
     sudo ufw default reject
     sudo systemctl restart ufw
 > ufw default
+</details><br>
+
+
+<details> 
+  <summary>Gaming Compatibility</summary>
+
+Chris Titus Steam Games in Linux<br>
+https://youtu.be/nRiUdVSeuFU?si=TunuhiYY77qRau-B<br>
+
+Tools for Steam<br>
+https://github.com/sonic2kk/steamtinkerlaunch<br>
+
+Proton Tricks (Based on Wine Tricks)<br>
+https://github.com/Matoking/protontricks<br>
+
 </details><br>
