@@ -54,9 +54,17 @@ settings.json: "files.eol": "\n" (add)
 
         sudo apt update
         sudo apt install gh
-
         gh auth login
+
 > Github.com, HTTPS, Paste Authentication Token
+        
+        Name
+        Only select repositories 
+        Repository permissions: Contents (just for editing)
+
+> Create Token on website: <br>
+Settings > Developer Settings > Personal Access Tokens > Fine-grained Tokens
+
 
 - Set Up Git:
 
