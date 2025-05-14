@@ -324,7 +324,7 @@ particularly useful when you want to 'start all over' with an application becaus
 ### Granting full permission for apps data (HACK), combat against the apps permission issue on Android 11
 
     sudo waydroid shell
-> run only when installing gacha game data
+> run only when installing gacha game data (like arknights)
 
     chmod 777 -R /sdcard/Android
     chmod 777 -R /data/media/0/Android 
@@ -349,7 +349,7 @@ particularly useful when you want to 'start all over' with an application becaus
     sudo ufw allow 67
     sudo ufw default allow FORWARD
     sudo systemctl restart ufw
-> UFW/GUFW ports required
+> UFW/GUFW ports required for internet connection
 
     sudo ufw reset
     sudo ufw enable
