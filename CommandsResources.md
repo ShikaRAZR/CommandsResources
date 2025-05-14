@@ -182,6 +182,8 @@ ___
 > gThumb - Image Viewer<br>
 > Vim - Text Editor<br>
 > [Easytag](https://flathub.org/apps/org.gnome.EasyTAG), [PuddleTag](https://docs.puddletag.net/)<br>
+> Hardinfo <br>
+> [Piper](https://github.com/libratbag/piper) (Mouse Perirpheral Editor)<br>
 
 > [It's FOSS](https://itsfoss.com/)<br>
 > [sysguides](https://sysguides.com/)<br>
