@@ -50,6 +50,14 @@ settings.json: "files.eol": "\n" (add)
 <span style="font-size:12px"><a href="#top">Back to top</a></span>
 
 ## Git Commands
+- Authentication
+
+        sudo apt update
+        sudo apt install gh
+
+        gh auth login
+> Github.com, HTTPS, Paste Authentication Token
+
 - Set Up Git:
 
         git config --global user.name "Your Name"
