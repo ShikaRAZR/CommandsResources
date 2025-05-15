@@ -191,15 +191,22 @@ ___
 > [ufw](https://github.com/jbq/ufw) - firewall [Guide](https://christitus.com/linux-security-mistakes/)<br>
 > [Firejail Sandbox](https://github.com/netblue30/firejail)<br>
 > [tldr](https://tldr.sh/) [tealdeer](https://github.com/tealdeer-rs/tealdeer) - simiplified man pages (on website or command line)
+> Hardinfo <br>
 
-> [Windows in a Bottle](https://usebottles.com/)<br>
 > fastfetch [logo](https://github.com/fastfetch-cli/fastfetch/wiki/Logo-options)<br>
-> Drawing - Image Editor<br>
+> [Drawing](https://maoschanz.github.io/drawing/) - Image Editor<br>
 > gThumb - Image Viewer<br>
 > Vim - Text Editor<br>
 > [Easytag](https://flathub.org/apps/org.gnome.EasyTAG), [PuddleTag](https://docs.puddletag.net/)<br>
-> Hardinfo <br>
 > [Piper](https://github.com/libratbag/piper) (Mouse Perirpheral Editor)<br>
+> Gimp<br>
+
+> Weston<br>
+> Waydroid<br>
+> Proton Tricks<br>
+> [Windows in a Bottle](https://usebottles.com/)<br>
+> [Heroic Games Launcher](https://heroicgameslauncher.com/)<br>
+> Mangohud (Flatpak ver for flatpak programs)<br>
 
 > [It's FOSS](https://itsfoss.com/)<br>
 > [sysguides](https://sysguides.com/)<br>

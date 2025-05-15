@@ -364,7 +364,7 @@ particularly useful when you want to 'start all over' with an application becaus
 
 
 <details> 
-  <summary>Gaming Compatibility/Fixes</summary>
+  <summary>Gaming Compatibility/Fixes/Tools</summary>
 
 Chris Titus Steam Games in Linux<br>
 https://youtu.be/nRiUdVSeuFU?si=TunuhiYY77qRau-B<br>
@@ -378,6 +378,53 @@ https://github.com/Matoking/protontricks<br>
 Insurgency Error 
 Game fails to start, 'GCC_7.0.0 not found', Ubuntu 22.04 <br>
 https://steamcommunity.com/app/222880/discussions/3/3719440044266078799/ 
+
+
+### Bottles:
+
+Girls Frontline 2
+```
+wine-ge-proton8-26
+dxvk-2.4.1
+VKD3D disabled
+
+Installed_Dependencies:
+d3dx9
+msls31
+arial32
+times32
+courie32
+d3dcompiler_43
+d3dcompiler_47
+mono
+gecko
+
+renderer: gl
+```
+Run STALKER: ANOMALY 1.5.1 on Linux <br>ge-proton7-43<br>
+https://steamcommunity.com/sharedfiles/filedetails/?id=2945494581<br>
+https://www.reddit.com/r/linux_gaming/comments/tbanq8/stalker_anomaly_on_linux/<br>
+https://github.com/DravenusRex/stalker-gamma-linux-guide<br>
+https://www.youtube.com/watch?v=XBkl3rhgH8c<br>
+```
+ge-proton7-43
+dxvk-2.4.1
+vkd3d-proton-2.14.1
+
+Installed_Dependencies:
+d3dx9
+msls31
+arial32
+times32
+courie32
+d3dcompiler_43
+d3dcompiler_47
+mono
+gecko
+d3dx11
+
+renderer: gl
+```
 </details><br>
 
 
