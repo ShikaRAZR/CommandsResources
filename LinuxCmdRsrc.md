@@ -254,6 +254,7 @@ particularly useful when you want to 'start all over' with an application becaus
   - Window Tiling - Drag to top maximizes
   - Sound - Sounds - Tiling and snapping windows (Off)
   - System settings > effects > (faster animation), [startup applications/preload] (optional)
+  - Add application shortcuts (appimages) - Cinnamon Menu > right click > menu > open menu editor or (just right click menu icon > edit menu)
 </details><br>
 
 
