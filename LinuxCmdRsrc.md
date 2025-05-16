@@ -218,12 +218,8 @@ particularly useful when you want to 'start all over' with an application becaus
   - Discord
 - Other Apps
   - Nala
-  - Proton Tricks
   - VLC
-  - Weston
-  - Waydroid
   - Mission Center
-  - Hardinfo
 - Extensions
   - None
 
@@ -233,6 +229,7 @@ particularly useful when you want to 'start all over' with an application becaus
         gnome-screenshot -w (screenshot current window)
         gnome-terminal -- waydroid first-launch (run waydroid on terminal)
   - CinnVIIStarkMenu
+  - Applets - Trash, Removable Drives, Favorites, Spacer, XApp Status Applet, Calendar, Corner bar
   
 - Keyboard > Shortcuts
   - Windows > Position > Move Window (Add)
@@ -256,7 +253,7 @@ particularly useful when you want to 'start all over' with an application becaus
 
   - Window Tiling - Drag to top maximizes
   - Sound - Sounds - Tiling and snapping windows (Off)
-
+  - System settings > effects > (faster animation), [startup applications/preload] (optional)
 </details><br>
 
 
@@ -306,6 +303,9 @@ particularly useful when you want to 'start all over' with an application becaus
 >install weston (optional) ONLY for distros that don't use wayland, <br> run weston then run waydroid
 
         waydroid first-launch
+> launch waydroid (first time/afterwards too)
+
+        waydroid show-full-ui
 > launch waydroid
 
         waydroid session stop
