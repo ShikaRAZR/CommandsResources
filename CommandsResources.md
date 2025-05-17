@@ -206,6 +206,7 @@ ___
 > Proton Tricks<br>
 > [Windows in a Bottle](https://usebottles.com/)<br>
 > [Heroic Games Launcher](https://heroicgameslauncher.com/)<br>
+> Goverlay (for mangohud config)<br>
 > Mangohud (Flatpak ver for flatpak programs)<br>
 
 > [It's FOSS](https://itsfoss.com/)<br>

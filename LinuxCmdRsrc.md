@@ -380,6 +380,11 @@ Insurgency Error
 Game fails to start, 'GCC_7.0.0 not found', Ubuntu 22.04 <br>
 https://steamcommunity.com/app/222880/discussions/3/3719440044266078799/ 
 
+### Mangohud:
+[Mangohud Video Guide](https://youtu.be/KSQrfWXHPDs?si=gR_LxBZxTbbpDYgV)<br>
+FLATPAK XDG PORTAL FOR SYSTEM CONFIG
+
+        sudo flatpak override --filesystem=xdg-config/MangoHud:ro
 
 ### Bottles:
 
