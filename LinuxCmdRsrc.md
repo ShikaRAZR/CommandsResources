@@ -205,21 +205,28 @@ particularly useful when you want to 'start all over' with an application becaus
   - Firewall Configuration (gufw)
   - Timeshift
 - Panel:
+  - Mission Center
   - System monitor
   - Files
   - Zen
   - Terminal
   - Software Manager
-  - Screenshot
-  - Gimp
   - VSCodium
   - Steam
   - Bottles
   - Discord
 - Other Apps
   - Nala
+  - Git
+  - Gimp
+  - Kdenlive
   - VLC
-  - Mission Center
+  - Pix
+  - Weston
+  - Waydroid 
+  - Protontricks
+  - Piper
+  - Goverlay
 - Extensions
   - None
 
@@ -229,7 +236,7 @@ particularly useful when you want to 'start all over' with an application becaus
         gnome-screenshot -w (screenshot current window)
         gnome-terminal -- waydroid first-launch (run waydroid on terminal)
   - CinnVIIStarkMenu
-  - Applets - Trash, Removable Drives, Favorites, Spacer, XApp Status Applet, Calendar, Corner bar
+  - Applets - Spacer, Trash, Removable Drives, Favorites, XApp Status Applet, Calendar, Corner bar
   
 - Keyboard > Shortcuts
   - Windows > Position > Move Window (Add)
