@@ -392,7 +392,7 @@ Girls Frontline 2
 ```
 wine-ge-proton8-26
 dxvk-2.4.1
-VKD3D disabled
+VKD3D disabled OR vkd3d-proton-2.14.1 (switch)
 
 Installed_Dependencies:
 d3dx9

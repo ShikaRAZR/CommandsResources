@@ -190,9 +190,10 @@ ___
 > fdisk, parted, gparted, gnome-disks - Partition Manager<br>
 > [ufw](https://github.com/jbq/ufw) - firewall [Guide](https://christitus.com/linux-security-mistakes/)<br>
 > [Firejail Sandbox](https://github.com/netblue30/firejail)<br>
-> [tldr](https://tldr.sh/) [tealdeer](https://github.com/tealdeer-rs/tealdeer) - simiplified man pages (on website or command line)
+> [tldr](https://tldr.sh/) [tealdeer](https://github.com/tealdeer-rs/tealdeer) - simiplified man pages (on website or command line)<br>
 > Hardinfo <br>
 
+> Pix - Image Editor<br>
 > fastfetch [logo](https://github.com/fastfetch-cli/fastfetch/wiki/Logo-options)<br>
 > [Drawing](https://maoschanz.github.io/drawing/) - Image Editor<br>
 > gThumb - Image Viewer<br>
