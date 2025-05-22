@@ -1,7 +1,5 @@
 {
   "blocked": [
-    "youtube.com",
-    "osu.ppy.sh",
     "github.com",
     "google.com",
     "reddit.com",
@@ -133,8 +131,11 @@
     "*://hub.sp-tarkov.com/*",
     "*://roadmap.sh/*",
     "*://docs.puddletag.net/*",
-    "*://flathub.org/apps/org.gnome.EasyTAG*"
+    "*://flathub.org/apps/org.gnome.EasyTAG*",
+    "*://www.youtube.com/*",
+    "*://osu.ppy.sh/*"
   ],
+  "changed": 0.14600956768485107,
   "close": 0,
   "contextmenu-frame": true,
   "contextmenu-pause": true,
@@ -144,23 +145,15 @@
   "css": "",
   "disable-actions-options": true,
   "disable-actions-page": true,
-  "guid": "e804587a-e002-4675-b4a8-df0ba6ff338d",
+  "guid": "ed8827b2-8dd5-4efc-a829-d52ed1046123",
   "initialBlock": true,
   "initialBlockCurrent": true,
-  "last-update": 1720687589235,
+  "last-update": 1747280090336,
   "managed.storage.overwrite.on.start": false,
   "map": {},
   "message": "",
   "no-password-on-add": false,
   "notes": {
-    "youtube.com": {
-      "date": 1720688450047,
-      "origin": "options"
-    },
-    "osu.ppy.sh": {
-      "date": 1720688644138,
-      "origin": "prompt"
-    },
     "github.com": {
       "date": 1720688667527,
       "origin": "prompt"
@@ -687,6 +680,14 @@
     },
     "*://flathub.org/apps/org.gnome.EasyTAG*": {
       "date": 1746857577455,
+      "origin": "options"
+    },
+    "*://www.youtube.com/*": {
+      "date": 1747901945193,
+      "origin": "options"
+    },
+    "*://osu.ppy.sh/*": {
+      "date": 1747901971670,
       "origin": "options"
     }
   },
