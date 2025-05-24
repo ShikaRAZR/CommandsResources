@@ -222,6 +222,7 @@ ___
 > [F-Droid](https://f-droid.org/en/)<br>
 > [dvd (yt-dlp)](https://f-droid.org/packages/org.yausername.dvd/)<br>
 > [New Pipe](https://f-droid.org/en/packages/org.schabi.newpipe/)<br>
+> [Wavelet](https://pittvandewitt.github.io/Wavelet/)
 
 ### Applications
 > [Chromium](https://www.chromium.org/getting-involved/download-chromium/)(Not-as-easy steps: Snapshots)<br>
