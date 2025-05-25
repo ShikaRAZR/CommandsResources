@@ -133,7 +133,10 @@
     "*://docs.puddletag.net/*",
     "*://flathub.org/apps/org.gnome.EasyTAG*",
     "*://www.youtube.com/*",
-    "*://osu.ppy.sh/*"
+    "*://osu.ppy.sh/*",
+    "*://crinacle.com/*",
+    "*://hangout.audio/*",
+    "list.hangout.audio/"
   ],
   "changed": 0.14600956768485107,
   "close": 0,
@@ -145,7 +148,7 @@
   "css": "",
   "disable-actions-options": true,
   "disable-actions-page": true,
-  "guid": "ed8827b2-8dd5-4efc-a829-d52ed1046123",
+  "guid": "f46f233a-73f7-4f37-8717-0a2a7455cea8",
   "initialBlock": true,
   "initialBlockCurrent": true,
   "last-update": 1747280090336,
@@ -688,6 +691,18 @@
     },
     "*://osu.ppy.sh/*": {
       "date": 1747901971670,
+      "origin": "options"
+    },
+    "*://crinacle.com/*": {
+      "date": 1748126832175,
+      "origin": "options"
+    },
+    "*://hangout.audio/*": {
+      "date": 1748126846133,
+      "origin": "options"
+    },
+    "list.hangout.audio/": {
+      "date": 1748132419510,
       "origin": "options"
     }
   },
