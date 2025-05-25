@@ -136,7 +136,8 @@
     "*://osu.ppy.sh/*",
     "*://crinacle.com/*",
     "*://hangout.audio/*",
-    "list.hangout.audio/"
+    "list.hangout.audio/",
+    "*://graph.hangout.audio/*"
   ],
   "changed": 0.14600956768485107,
   "close": 0,
@@ -148,7 +149,7 @@
   "css": "",
   "disable-actions-options": true,
   "disable-actions-page": true,
-  "guid": "f46f233a-73f7-4f37-8717-0a2a7455cea8",
+  "guid": "7e2ed03c-d7a7-40c6-9da0-388f7b9ce1a0",
   "initialBlock": true,
   "initialBlockCurrent": true,
   "last-update": 1747280090336,
@@ -703,6 +704,10 @@
     },
     "list.hangout.audio/": {
       "date": 1748132419510,
+      "origin": "options"
+    },
+    "*://graph.hangout.audio/*": {
+      "date": 1748133525403,
       "origin": "options"
     }
   },
