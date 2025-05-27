@@ -137,9 +137,10 @@
     "*://crinacle.com/*",
     "*://hangout.audio/*",
     "list.hangout.audio/",
-    "*://graph.hangout.audio/*"
+    "*://graph.hangout.audio/*",
+    "*://soundcloud.com/*"
   ],
-  "changed": 0.14600956768485107,
+  "changed": 0.5699809556543363,
   "close": 0,
   "contextmenu-frame": true,
   "contextmenu-pause": true,
@@ -149,7 +150,7 @@
   "css": "",
   "disable-actions-options": true,
   "disable-actions-page": true,
-  "guid": "7e2ed03c-d7a7-40c6-9da0-388f7b9ce1a0",
+  "guid": "09931c81-1152-44ae-ac2b-43f110f55635",
   "initialBlock": true,
   "initialBlockCurrent": true,
   "last-update": 1747280090336,
@@ -708,6 +709,10 @@
     },
     "*://graph.hangout.audio/*": {
       "date": 1748133525403,
+      "origin": "options"
+    },
+    "*://soundcloud.com/*": {
+      "date": 1748157730724,
       "origin": "options"
     }
   },
