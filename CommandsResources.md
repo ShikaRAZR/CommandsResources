@@ -225,7 +225,7 @@ ___
 > [Wavelet](https://pittvandewitt.github.io/Wavelet/)
 
 ### Applications
-> EqualizerAPO GraphicEq [SourceForge](https://equalizerapo.com/)<br>
+> EqualizerAPO GraphicEq [SourceForge](https://sourceforge.net/projects/equalizerapo/)<br>
 > [Chromium](https://www.chromium.org/getting-involved/download-chromium/)(Not-as-easy steps: Snapshots)<br>
 > [OBS](https://obsproject.com/)<br>
 > [ffmpeg](https://ffmpeg.org/)<br>
