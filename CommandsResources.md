@@ -226,6 +226,7 @@ ___
 
 ### Applications
 > EqualizerAPO GraphicEq [SourceForge](https://sourceforge.net/projects/equalizerapo/)<br>
+> [ReaPlugs](https://www.reaper.fm/reaplugs/) (for OBS/EqualizerAPO) <br>
 > [Chromium](https://www.chromium.org/getting-involved/download-chromium/)(Not-as-easy steps: Snapshots)<br>
 > [OBS](https://obsproject.com/)<br>
 > [ffmpeg](https://ffmpeg.org/)<br>
