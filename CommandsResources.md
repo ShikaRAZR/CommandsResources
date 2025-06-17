@@ -277,6 +277,8 @@ ___
 > [Reverse Image Search](https://addons.mozilla.org/en-US/firefox/addon/image-reverse-search/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
 > [Terms of Service; Didn’t Read](https://addons.mozilla.org/en-US/firefox/addon/terms-of-service-didnt-read/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
 > [Startpage - Private Search Engine](https://www.startpage.com/en/) <br>
+> [Link Gopher](https://addons.mozilla.org/en-US/firefox/addon/link-gopher/)  <br>
+> [Guide to Collect Links (like videos)](https://support.jdownloader.org/en/knowledgebase/article/collect-and-download-links-from-unsupported-websites)<br>
 
 > [Lock Tab Page](https://addons.mozilla.org/en-US/firefox/addon/lock-tab-page/)<br>
 > [The Camelizer - Price Tracker](https://addons.mozilla.org/en-US/firefox/addon/the-camelizer-price-history-ch/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
