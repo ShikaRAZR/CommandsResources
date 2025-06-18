@@ -294,6 +294,7 @@ ___
 > https://regexr.com/ <br>
 > [Hue Finder](https://colors.artyclick.com/color-hue-finder) <br>
 > [Color Palettes](https://coolors.co/) <br>
+> [Crinacle Squiglink](https://graph.hangout.audio/iem/5128/) <br>
 
 Zen
 > [Private Mode Highlighting](https://zen-browser.app/mods/58649066-2b6f-4a5b-af6d-c3d21d16fc00/) <br>
