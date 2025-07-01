@@ -233,6 +233,9 @@ ___
 > [youtube-dl](https://github.com/yt-dlp/yt-dlp)<br>
 > [mkvtoolnix](https://mkvtoolnix.download/)<br>
 > [process_lasso](https://bitsum.com/)<br>
+> [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)<br>
+> [Hardware Monitor](https://www.cpuid.com/downloads/hwmonitor/hwmonitor_1.58.exe)<br>
+> [Speed Fan](https://almico.com/sfdownload.php)<br>
 > vscodium<br>
 > [vlc](https://www.videolan.org/vlc/)<br>
 > 7zip<br>
