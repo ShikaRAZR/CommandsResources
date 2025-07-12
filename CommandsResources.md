@@ -267,6 +267,7 @@ ___
 > [WinMerge](https://winmerge.org/) (Compare windows files/folders, differencing merging tool)<br>
 > [Gimp](https://www.gimp.org/)<br>
 > [Oracle Virtual Box](https://www.virtualbox.org/)<br>
+> [Keyboard Inspector](https://github.com/mat1jaczyyy/Keyboard-Inspector)
 
 
 ### Web Browser
@@ -375,6 +376,8 @@ Zen
 > [Arknights Tier List](https://ak.gamepress.gg/tier-list/arknights-operator-tier-list) <br>
 > [Arknights Tier List 2](https://docs.google.com/spreadsheets/d/1E7HmgKWiV8pKpJpvpVzziYxnaQTP01Vtw_PXEdL7XPA/edit?gid=1108925005#gid=1108925005) <br>
 > [Arknights Aceship's Toolbox](https://aceship.github.io/AN-EN-Tags/index.html) <br>
+
+> [Mouse Shape Comparisons](https://www.eloshapes.com/)
 
 
 <details> 
