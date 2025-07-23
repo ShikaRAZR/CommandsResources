@@ -466,8 +466,23 @@ Zen
         Ctrl + X
 </details>
 
-
-
+<br>
+<details> 
+  <summary style="font-weight:bold; font-size:1.3em">Cookie Whitelist</span></summary>
+        
+        github.com
+        mangadex.org
+        discord.com
+        x.com
+        osu.ppy.sh
+        myanimelist.net
+        gelbooru.com
+        danbooru.donmai.us
+        pixiv.net
+        twitch.tv
+        google.com
+        youtube.com
+</details>
 
 <br> <br> <br> <br> <br> <br> <br> <br>
 
