@@ -324,6 +324,7 @@ Zen
   <a href="https://www.zerochan.net/">zerochan</a>
   <a href="https://kemono.su/">kemono</a>
   <a href="https://rule34.xyz/">rule34xyz</a>
+  <a href="https://rule34video.com/">rule34video</a>
   mangadex mangalife mangahub
 </details>
 
@@ -376,6 +377,7 @@ Zen
 > [Arknights Tier List](https://ak.gamepress.gg/tier-list/arknights-operator-tier-list) <br>
 > [Arknights Tier List 2](https://docs.google.com/spreadsheets/d/1E7HmgKWiV8pKpJpvpVzziYxnaQTP01Vtw_PXEdL7XPA/edit?gid=1108925005#gid=1108925005) <br>
 > [Arknights Aceship's Toolbox](https://aceship.github.io/AN-EN-Tags/index.html) <br>
+> [Arknights Sanity;Gone](https://sanitygone.help/en/operators/)
 
 > [Mouse Shape Comparisons](https://www.eloshapes.com/)
 
@@ -482,6 +484,7 @@ Zen
         twitch.tv
         google.com
         youtube.com
+        reddit.com
 </details>
 
 <br> <br> <br> <br> <br> <br> <br> <br>
