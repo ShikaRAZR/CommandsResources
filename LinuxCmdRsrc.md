@@ -383,6 +383,8 @@ https://github.com/sonic2kk/steamtinkerlaunch<br>
 Proton Tricks (Based on Wine Tricks)<br>
 https://github.com/Matoking/protontricks<br>
 
+ProtonUp-Qt (Install Wine/Proton compatibility tools like GE-Proton)<br>
+
 Insurgency Error 
 Game fails to start, 'GCC_7.0.0 not found', Ubuntu 22.04 <br>
 https://steamcommunity.com/app/222880/discussions/3/3719440044266078799/ 

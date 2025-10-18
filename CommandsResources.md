@@ -222,7 +222,8 @@ ___
 > [F-Droid](https://f-droid.org/en/)<br>
 > [dvd (yt-dlp)](https://f-droid.org/packages/org.yausername.dvd/)<br>
 > [New Pipe](https://f-droid.org/en/packages/org.schabi.newpipe/)<br>
-> [Wavelet](https://pittvandewitt.github.io/Wavelet/)
+> [Wavelet](https://pittvandewitt.github.io/Wavelet/)<br>
+> [ReDroid Docker Emulator](https://ivonblog.com/en-us/posts/redroid-android-docker/)
 
 ### Applications
 > EqualizerAPO GraphicEq [SourceForge](https://sourceforge.net/projects/equalizerapo/)<br>
@@ -273,14 +274,16 @@ ___
 ### Web Browser
 > [Popup Blocker](https://addons.mozilla.org/en-US/firefox/addon/popup-blocker/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
 > [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
+> [Feedbro Reader](https://addons.mozilla.org/en-US/firefox/addon/feedbroreader/)<br>
+> [Reverse Image Search](https://addons.mozilla.org/en-US/firefox/addon/image-reverse-search/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
+> [Startpage - Private Search Engine](https://www.startpage.com/en/) <br>
+
 > [Smart HTTPS](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
 > [Website Blocker](https://addons.mozilla.org/en-US/firefox/addon/block-website/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) [Git](https://github.com/ray-lothian/Block-Site) <br>
-> [Feedbro Reader](https://addons.mozilla.org/en-US/firefox/addon/feedbroreader/)<br>
 > [Untrap Hide Youtube Distractions](https://addons.mozilla.org/en-US/firefox/addon/untrap-for-youtube/)<br>
 > [Youtube Dislike](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/)<br>
-> [Reverse Image Search](https://addons.mozilla.org/en-US/firefox/addon/image-reverse-search/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
 > [Terms of Service; Didn’t Read](https://addons.mozilla.org/en-US/firefox/addon/terms-of-service-didnt-read/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
-> [Startpage - Private Search Engine](https://www.startpage.com/en/) <br>
+
 > [Link Gopher](https://addons.mozilla.org/en-US/firefox/addon/link-gopher/)  <br>
 > [Guide to Collect Links (like videos)](https://support.jdownloader.org/en/knowledgebase/article/collect-and-download-links-from-unsupported-websites)<br>
 
