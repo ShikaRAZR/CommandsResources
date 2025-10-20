@@ -278,6 +278,7 @@ ___
 > [Reverse Image Search](https://addons.mozilla.org/en-US/firefox/addon/image-reverse-search/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
 > [Startpage - Private Search Engine](https://www.startpage.com/en/) <br>
 > [YouTube Ad Accelerator & EasySpeed](https://addons.mozilla.org/en-US/firefox/addon/youtube-ad-accelerator/) <br>
+> [Saucenao](https://addons.mozilla.org/en-US/firefox/addon/saucenao/) <br>
 
 > [Smart HTTPS](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
 > [Website Blocker](https://addons.mozilla.org/en-US/firefox/addon/block-website/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) [Git](https://github.com/ray-lothian/Block-Site) <br>
