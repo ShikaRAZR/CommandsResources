@@ -354,10 +354,11 @@ Zen
 [mkvshows](https://mkvshows.com/)<br>
 > Stream 
 [<s>aniwave</s>](https://aniwave.to/)
-[animepahe](https://animepahe.ru/)
+[<s>animepahe.ru</s>](https://animepahe.ru/)
+[animepahe.si](https://animepahe.si/)
 [littleweeb](https://littleweeb.github.io/)
-[kickassanime](https://kickassanime.am/)
-[kickassanimemx](www1.kickassanime.mx)<br>
+[<s>kickassanime</s>](https://kickassanime.am/)
+[kickassanimemx](www.kickassanime.mx)<br>
 > Music [khinsider](https://downloads.khinsider.com/) <br>
 > [Sheet Music agarrado](https://josh.agarrado.net/music/anime/index.php) <br>
 
