@@ -226,49 +226,60 @@ ___
 > [ReDroid Docker Emulator](https://ivonblog.com/en-us/posts/redroid-android-docker/)
 
 ### Applications
+> [ChrisTitusTech-winutil](https://github.com/ChrisTitusTech/winutil)<br>
 > EqualizerAPO GraphicEq [SourceForge](https://sourceforge.net/projects/equalizerapo/)<br>
 > [ReaPlugs](https://www.reaper.fm/reaplugs/) (for OBS/EqualizerAPO) <br>
-> [Chromium](https://www.chromium.org/getting-involved/download-chromium/)(Not-as-easy steps: Snapshots)<br>
 > [OBS](https://obsproject.com/)<br>
-> [ffmpeg](https://ffmpeg.org/)<br>
-> [youtube-dl](https://github.com/yt-dlp/yt-dlp)<br>
-> [mkvtoolnix](https://mkvtoolnix.download/)<br>
+> Music Player [mpv](https://mpv.io/) [foobar2000](https://www.foobar2000.org/) [fooyin](https://www.fooyin.org/)<br>
+> [vlc](https://www.videolan.org/vlc/)<br>
+> [Zen Browser](https://zen-browser.app/)<br>
+> [Chromium](https://www.chromium.org/getting-involved/download-chromium/)(Not-as-easy steps: Snapshots)<br>
+> [FreeTube](https://github.com/FreeTubeApp/FreeTube)<br>
+> [vscodium](https://vscodium.com/)<br>
+> Git - Github<br>
+> [Discord](https://ptb.discord.com/download)<br>
+> [Crystaldiskinfo/mark](https://crystalmark.info/en/software/crystaldiskinfo/)<br>
+> cpuz<br>
+> [intel-presentmon](https://game.intel.com/us/intel-presentmon/)<br>
+> LibreOffice (Document Reader)<br>
+> [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)<br>
+
+> AMD Software Adrenaline<br>
+> iCue<br>
 > [process_lasso](https://bitsum.com/)<br>
 > [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)<br>
 > [Hardware Monitor](https://www.cpuid.com/downloads/hwmonitor/hwmonitor_1.58.exe)<br>
 > [Speed Fan](https://almico.com/sfdownload.php)<br>
-> vscodium<br>
-> [vlc](https://www.videolan.org/vlc/)<br>
 > 7zip<br>
 > gpuz<br>
-> cpuz<br>
 > [WinDirStat](https://windirstat.net/)<br>
-> [Crystaldiskinfo](https://crystalmark.info/en/software/crystaldiskinfo/)<br>
-> [Mp3tag](https://www.mp3tag.de/en/)<br>
 > [PC Benchmark](https://www.userbenchmark.com)<br>
+> [Keyboard Inspector](https://github.com/mat1jaczyyy/Keyboard-Inspector)<br>
+
+> [ffmpeg](https://ffmpeg.org/)<br>
+> [youtube-dl](https://github.com/yt-dlp/yt-dlp)<br>
+> [mkvtoolnix](https://mkvtoolnix.download/)<br>
+> [sharex (screen capture)](https://getsharex.com/)<br>
+> [Mp3tag](https://www.mp3tag.de/en/)<br>
+> [Image Editor (Lunapic)](https://www12.lunapic.com/editor/?action=transparent)<br>
+> [LosslessCut](https://github.com/mifi/lossless-cut)<br>
+> [AbiWord](https://github.com/AbiWord/abiword?tab=readme-ov-file) [LaTeX (miktex)](https://www.latex-project.org/get/#tex-distributions)<br>
+
 > All info ip can get off you https://ipleak.net/<br>
 > [Wireshark](https://www.wireshark.org/)<br>
 > Firefox - Web Browser<br>
-> [Image Editor](https://www12.lunapic.com/editor/?action=transparent)<br>
-> Git - Github<br>
-> [LosslessCut](https://github.com/mifi/lossless-cut)<br>
-> [Discord](https://ptb.discord.com/download)<br>
 > [Czkawka Duplicate File Search](https://github.com/qarmin/czkawka?tab=readme-ov-file)<br>
 > Windy Weather Forecast https://www.windy.com<br>
 > [Everything (Fast File Explorer Search)](https://www.voidtools.com/)<br>
 > [Remote Desktop](https://parsec.app/)<br>
-> LibreOffice (Document Reader) [AbiWord](https://github.com/AbiWord/abiword?tab=readme-ov-file) [LaTeX (miktex)](https://www.latex-project.org/get/#tex-distributions)<br>
 > [QEMU](https://www.qemu.org/download/#windows) [GUI](https://qtemu.org/)<br>
 > Anki (Flashcard)<br>
 > [Youtube TV](https://github.com/marcosrg9/YouTubeTV?tab=readme-ov-file)<br>
 > [Bulk File Rename Utility](https://www.bulkrenameutility.co.uk/)<br>
-> Music Player [mpv](https://mpv.io/) [foobar2000](https://www.foobar2000.org/) [fooyin](https://www.fooyin.org/)<br>
-> [FreeTube](https://github.com/FreeTubeApp/FreeTube)<br>
-> [Zen Browser](https://zen-browser.app/)<br>
 > [WinMerge](https://winmerge.org/) (Compare windows files/folders, differencing merging tool)<br>
 > [Gimp](https://www.gimp.org/)<br>
 > [Oracle Virtual Box](https://www.virtualbox.org/)<br>
-> [Keyboard Inspector](https://github.com/mat1jaczyyy/Keyboard-Inspector)
+
 
 
 ### Web Browser
