@@ -189,6 +189,10 @@ ___
 
                 C:\Users\matth\Downloads\ShareX
 
+#### Task settings
+> Image
+- Image format: JPEG
+
 #### Task Settings
 > File naming
 - Name pattern for capture or clipboard upload:
