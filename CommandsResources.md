@@ -6,12 +6,10 @@ VS Code Settings Markdown > Preview Scroll Editor/Preview with Preview/Editor
 1. [Markdown, VSCode Guide](#markdown-vscode-guide)
 2. [Git Commands](#git-commands)
 3. [Linux Commands & Resources](LinuxCmdRsrc.md)
-4. [General Application Link Stuff](#general-application-link-stuff)
-5. [Youtube-dl](#youtube-dl)
-6. [Emojis](#emojis)
-
-
-
+4. [ShareX](#sharex)
+5. [General Application Link Stuff](#general-application-link-stuff)
+6. [Youtube-dl](#youtube-dl)
+7. [Emojis](#emojis)
 <br> <br> <br> <br> <br> <br> <br> <br>
 
 
@@ -56,6 +54,10 @@ settings.json: "files.eol": "\n" (add)
         sudo apt install gh
         gh auth login
 
+- Force Git to use LF instead of CR+LF CLRF under Windows? [stackoverflowlink](https://stackoverflow.com/questions/2517190/how-do-i-force-git-to-use-lf-instead-of-crlf-under-windows)
+
+        git config --global core.autocrlf false
+
 > Github.com, HTTPS, Paste Authentication Token
         
         Name
@@ -97,10 +99,6 @@ Settings > Developer Settings > Personal Access Tokens > Fine-grained Tokens
 
         git fetch
         git diff <mainbranch_path> <remotebranch_path>
-
-- Force Git to use LF instead of CR+LF CLRF under Windows? [stackoverflowlink](https://stackoverflow.com/questions/2517190/how-do-i-force-git-to-use-lf-instead-of-crlf-under-windows)
-
-        git config --global core.autocrlf false
 
 <details>
 <summary>OTHER</summary>
@@ -170,10 +168,38 @@ ___
   <summary>Window Git Shortcut</summary>
   <a href="https://www.youtube.com/watch?v=kIgZEdyn1dA"><img src="https://img.youtube.com/vi/kIgZEdyn1dA/0.jpg" alt="WinGit"></a>
 </details>
-
-
-
 <br> <br> <br> <br> <br> <br> <br> <br>
+
+
+
+<span style="font-size:12px"><a href="#top">Back to top</a></span>
+
+## ShareX 
+
+#### After Capture Tasks
+> Copy image to Clipboard
+> Save image to file
+> Save image to file as...
+
+#### Destinations
+> Custom image uploader
+
+#### Application settings
+> Paths > ShareX personal folder
+
+                C:\Users\matth\Downloads\ShareX
+
+#### Task Settings
+> File naming
+- Name pattern for capture or clipboard upload:
+
+                Screenshot %y%mo%d
+- Name pattern for window capture:
+
+                Screenshot %y-%mo-%d %h%mi %pn
+<br> <br> <br> <br> <br> <br> <br> <br>
+
+
 
 
 
