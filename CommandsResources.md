@@ -197,10 +197,10 @@ ___
 > File naming
 - Name pattern for capture or clipboard upload:
 
-                Screenshot %y%mo%d
+                Screenshot %y-%mo-%d %h%mi%s
 - Name pattern for window capture:
 
-                Screenshot %y-%mo-%d %h%mi %pn
+                Screenshot %y-%mo-%d %h%mi%s %pn
 <br> <br> <br> <br> <br> <br> <br> <br>
 
 
