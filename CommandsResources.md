@@ -257,31 +257,33 @@ ___
 
 ### Applications
 > [ChrisTitusTech-winutil](https://github.com/ChrisTitusTech/winutil)<br>
-> EqualizerAPO GraphicEq [SourceForge](https://sourceforge.net/projects/equalizerapo/)<br>
-> [ReaPlugs](https://www.reaper.fm/reaplugs/) (for OBS/EqualizerAPO) <br>
-> [OBS](https://obsproject.com/)<br>
 > Music Player [mpv](https://mpv.io/) [foobar2000](https://www.foobar2000.org/) [fooyin](https://www.fooyin.org/)<br>
 > [vlc](https://www.videolan.org/vlc/)<br>
 > [Zen Browser](https://zen-browser.app/)<br>
-> [Chromium](https://www.chromium.org/getting-involved/download-chromium/)(Not-as-easy steps: Snapshots)<br>
 > [FreeTube](https://github.com/FreeTubeApp/FreeTube)<br>
 > [vscodium](https://vscodium.com/)<br>
 > Git - Github<br>
 > [Discord](https://ptb.discord.com/download)<br>
-> [Crystaldiskinfo/mark](https://crystalmark.info/en/software/crystaldiskinfo/)<br>
-> cpuz<br>
-> [intel-presentmon](https://game.intel.com/us/intel-presentmon/)<br>
+> [sharex (screen capture)](https://getsharex.com/)<br>
+
+> EqualizerAPO GraphicEq [SourceForge](https://sourceforge.net/projects/equalizerapo/)<br>
+> [ReaPlugs](https://www.reaper.fm/reaplugs/) (for OBS/EqualizerAPO) <br>
 > LibreOffice (Document Reader)<br>
 > [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)<br>
-
+> [Chromium](https://www.chromium.org/getting-involved/download-chromium/)(Not-as-easy steps: Snapshots)<br>
+> [OBS](https://obsproject.com/)<br>
+> [intel-presentmon](https://game.intel.com/us/intel-presentmon/)<br>
 > AMD Software Adrenaline<br>
+
+> cpuz<br>
+> gpuz<br>
+> [Crystaldiskinfo/mark](https://crystalmark.info/en/software/crystaldiskinfo/)<br>
 > iCue<br>
 > [process_lasso](https://bitsum.com/)<br>
 > [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)<br>
 > [Hardware Monitor](https://www.cpuid.com/downloads/hwmonitor/hwmonitor_1.58.exe)<br>
 > [Speed Fan](https://almico.com/sfdownload.php)<br>
 > 7zip<br>
-> gpuz<br>
 > [WinDirStat](https://windirstat.net/)<br>
 > [PC Benchmark](https://www.userbenchmark.com)<br>
 > [Keyboard Inspector](https://github.com/mat1jaczyyy/Keyboard-Inspector)<br>
@@ -289,7 +291,6 @@ ___
 > [ffmpeg](https://ffmpeg.org/)<br>
 > [youtube-dl](https://github.com/yt-dlp/yt-dlp)<br>
 > [mkvtoolnix](https://mkvtoolnix.download/)<br>
-> [sharex (screen capture)](https://getsharex.com/)<br>
 > [Mp3tag](https://www.mp3tag.de/en/)<br>
 > [Image Editor (Lunapic)](https://www12.lunapic.com/editor/?action=transparent)<br>
 > [LosslessCut](https://github.com/mifi/lossless-cut)<br>
@@ -315,12 +316,13 @@ ___
 ### Web Browser
 > [Popup Blocker](https://addons.mozilla.org/en-US/firefox/addon/popup-blocker/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
 > [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
-> [Feedbro Reader](https://addons.mozilla.org/en-US/firefox/addon/feedbroreader/)<br>
 > [Reverse Image Search](https://addons.mozilla.org/en-US/firefox/addon/image-reverse-search/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
 > [Startpage - Private Search Engine](https://www.startpage.com/en/) <br>
 > [YouTube Ad Accelerator & EasySpeed](https://addons.mozilla.org/en-US/firefox/addon/youtube-ad-accelerator/) <br>
 > [Saucenao](https://addons.mozilla.org/en-US/firefox/addon/saucenao/) <br>
+> [Remove YouTube tracking](https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-tracking/) <br>
 
+> [Feedbro Reader](https://addons.mozilla.org/en-US/firefox/addon/feedbroreader/)<br>
 > [Smart HTTPS](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
 > [Website Blocker](https://addons.mozilla.org/en-US/firefox/addon/block-website/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) [Git](https://github.com/ray-lothian/Block-Site) <br>
 > [Untrap Hide Youtube Distractions](https://addons.mozilla.org/en-US/firefox/addon/untrap-for-youtube/)<br>
