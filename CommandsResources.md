@@ -277,6 +277,7 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > [sharex (screen capture)](https://getsharex.com/)<br>
 
 > [Obsidian](https://obsidian.md/)<br>
+> [Syncthing](https://syncthing.net/)<br>
 > EqualizerAPO GraphicEq [SourceForge](https://sourceforge.net/projects/equalizerapo/)<br>
 > [ReaPlugs](https://www.reaper.fm/reaplugs/) (for OBS/EqualizerAPO) <br>
 > LibreOffice (Document Reader)<br>
