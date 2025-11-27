@@ -36,11 +36,12 @@ To open a file for editing (i.e. don't open in Preview Mode), double-click on th
 VSCode settings (F1)<br>
 Preferences: Open User Settings (JSON)<br>
 settings.json: "files.eol": "\n" (add)
-
-        {
-                "markdown.preview.scrollPreviewWithEditor": false,
-                "files.eol": "\n"
-        }
+```
+{
+        "markdown.preview.scrollPreviewWithEditor": false,
+        "files.eol": "\n"
+}
+```
 <br> <br> <br> <br> <br> <br> <br> <br>
 
 
@@ -49,56 +50,63 @@ settings.json: "files.eol": "\n" (add)
 
 ## Git Commands
 - Authentication
-
-        sudo apt update
-        sudo apt install gh
-        gh auth login
+```
+sudo apt update
+sudo apt install gh
+gh auth login
+```
 
 - Force Git to use LF instead of CR+LF CLRF under Windows? [stackoverflowlink](https://stackoverflow.com/questions/2517190/how-do-i-force-git-to-use-lf-instead-of-crlf-under-windows)
-
-        git config --global core.autocrlf false
+```
+git config --global core.autocrlf false
+```
 
 > Github.com, HTTPS, Paste Authentication Token
-        
-        Name
-        Only select repositories 
-        Repository permissions: Contents (just for editing)
+```
+Name
+Only select repositories 
+Repository permissions: Contents (just for editing)
+```
 
 > Create Token on website: <br>
 Settings > Developer Settings > Personal Access Tokens > Fine-grained Tokens
 
 
 - Set Up Git:
+```
+git config --global user.name "Your Name"
+git config --global user.email "youremail@domain.com"
+```
 
-        git config --global user.name "Your Name"
-        git config --global user.email "youremail@domain.com"
-  
 - Saving Commands
-
-        git clone ***url*** (makes a local copy of a repository)
-        git add (file names)
-        git commit -m "(committed message)
-        git push -u origin ***master***
-        git remote add origin ***master*** (url)
-        git commit
-        git pull (download the master branch online into your pc)
-        git push origin ***master***
+```
+git clone ***url*** (makes a local copy of a repository)
+git add (file names)
+git commit -m "(committed message)
+git push -u origin ***master***
+git remote add origin ***master*** (url)
+git commit
+git pull (download the master branch online into your pc)
+git push origin ***master***
+```
 
 - Adding To A Repository On Git - (MAIN)
+```
+git add (will show differences in code and possible conflicts)
+        git add *.java (add a folder without the '/')
+        git add . (adds modified files)
+        git add filename.filetype
+        git add -A (adds all changes, what I usually use)
 
-        git add (will show differences in code and possible conflicts)
-          git add *.java (add a folder without the '/')
-            git add . (adds modified files)
-            git add filename.filetype
-            git add -A (adds all changes, what I usually use)
-      
-        git commit -m "comment"
-        git push origin ***branchName***
+git commit -m "comment"
+git push origin ***branchName***
+```
 
 - Check Remote Branch Difference
-
-        git fetch
-        git diff <mainbranch_path> <remotebranch_path>
+```
+git fetch
+git diff <mainbranch_path> <remotebranch_path>
+```
 
 <details>
 <summary>OTHER</summary>
@@ -176,31 +184,33 @@ ___
 
 ## ShareX 
 
-#### After Capture Tasks
+- After Capture Tasks
 > Copy image to Clipboard
 > Save image to file
 > Save image to file as...
 
-#### Destinations
+- Destinations
 > Custom image uploader
 
-#### Application settings
+- Application settings
 > Paths > ShareX personal folder
+```
+C:\Users\matth\Downloads\ShareX
+```
 
-                C:\Users\matth\Downloads\ShareX
+- Task settings
+1.  Image
+> Image format: JPEG
+2.  File naming
+> Name pattern for capture or clipboard upload:
+```
+Screenshot %y-%mo-%d %h%mi%s
+```
+> Name pattern for window capture:
+```
+Screenshot %y-%mo-%d %h%mi%s %pn
+```
 
-#### Task settings
-> Image
-- Image format: JPEG
-
-#### Task Settings
-> File naming
-- Name pattern for capture or clipboard upload:
-
-                Screenshot %y-%mo-%d %h%mi%s
-- Name pattern for window capture:
-
-                Screenshot %y-%mo-%d %h%mi%s %pn
 <br> <br> <br> <br> <br> <br> <br> <br>
 
 
@@ -266,6 +276,7 @@ ___
 > [Discord](https://ptb.discord.com/download)<br>
 > [sharex (screen capture)](https://getsharex.com/)<br>
 
+> [Obsidian](https://obsidian.md/)<br>
 > EqualizerAPO GraphicEq [SourceForge](https://sourceforge.net/projects/equalizerapo/)<br>
 > [ReaPlugs](https://www.reaper.fm/reaplugs/) (for OBS/EqualizerAPO) <br>
 > LibreOffice (Document Reader)<br>
@@ -548,57 +559,65 @@ Zen
 
 ### Main Commands 
 #### ($ means input variable)
+```
+yt-dlp.exe -f bestaudio $link -o "\Downloads\%(title)s.%(ext)s"
+```
 
-        yt-dlp.exe -f bestaudio $link -o "\Downloads\%(title)s.%(ext)s"
 > Command Example
+```
+-f bestaudio
+-f bestvideo
+-f bestaudio + bestvideo
 
-        -f bestaudio
-        -f bestvideo
-        -f bestaudio + bestvideo
+--cookies-from-browser [brave, chrome, chromium, edge, firefox, opera, safari]
+--add-header $link
+--autonumber-start $number
+--playlist-start $start
+--playlist-end $end
 
-        --cookies-from-browser [brave, chrome, chromium, edge, firefox, opera, safari]
-        --add-header $link
-        --autonumber-start $number
-        --playlist-start $start
-        --playlist-end $end
+-o "\Downloads\%(title)s.%(ext)s"
+-o "%(autonumber)0Nd-%(title)s.%(ext)s"
+```
 
-        -o "\Downloads\%(title)s.%(ext)s"
-        -o "%(autonumber)0Nd-%(title)s.%(ext)s"
 > Extension Options
+```
+yt-dlp.exe -f bestaudio --autonumber-start $number --playlist-start $start --playlist-end $end $link -o "\Downloads\%(autonumber)0d-%(title)s.%(ext)s"
 
-        yt-dlp.exe -f bestaudio --autonumber-start $number --playlist-start $start --playlist-end $end $link -o "\Downloads\%(autonumber)0d-%(title)s.%(ext)s"
+yt-dlp.exe --add-header "Referer: https://girlsfrontline.kr/db/musicplayer/" -a templist.txt -o "\Downloads\%(autonumber)03d-(%(id)s).%(ext)s"
 
-        yt-dlp.exe --add-header "Referer: https://girlsfrontline.kr/db/musicplayer/" -a templist.txt -o "\Downloads\%(autonumber)03d-(%(id)s).%(ext)s"
-
-        yt-dlp.exe "Referer: https://downloads.khinsider.com/" -a templist.txt -o "\Downloads\%(id)s.%(ext)s"
+yt-dlp.exe "Referer: https://downloads.khinsider.com/" -a templist.txt -o "\Downloads\%(id)s.%(ext)s"
+```
 > More Examples
 
-        https://girlsfrontline.kr/db/musicplayer/
-        <li><a href="#" data-src="
-        everything before link
+```
+https://girlsfrontline.kr/db/musicplayer/
+<li><a href="#" data-src="
+everything before link
 
-        "[\s\S]*$
-        Everything after link
+"[\s\S]*$
+Everything after link
 
 
-        https://downloads.khinsider.com/ (copy inner html)
-        .+(?=\bhref\b)
-        everything before href
+https://downloads.khinsider.com/ (copy inner html)
+.+(?=\bhref\b)
+everything before href
 
-        ^((?!href).)*$
-        any lines that dont have href 
+^((?!href).)*$
+any lines that dont have href 
 
-        (\r?\n)(?:\r?\n)+
-        all blank lines 
+(\r?\n)(?:\r?\n)+
+all blank lines 
 
-        (?<=.mp3).*
-        everything after .mp3 
+(?<=.mp3).*
+everything after .mp3 
 
-        href="
-        Replace with:
-        https://downloads.khinsider.com
+href="
+Replace with:
+https://downloads.khinsider.com
 
-        command pallete - "delete duplicate lines"
+command pallete - "delete duplicate lines"
+```
+
 > Regex
 
 
@@ -608,43 +627,50 @@ Zen
 <details> 
   <summary>Commands</summary>
 
-
-        .\youtube-dl.exe --help
-        youtube-dl -F "link" //displays video options to dowload
-        youtube-dl -f "number" "link" //"number" - to select video quality
-        youtube-dl -f bestaudio "link"
-        youtube-dl -f bestvideo "link"
-
+```
+.\youtube-dl.exe --help
+youtube-dl -F "link" //displays video options to dowload
+youtube-dl -f "number" "link" //"number" - to select video quality
+youtube-dl -f bestaudio "link"
+youtube-dl -f bestvideo "link"
+```
 - FILE TRIM:
-
-        ffmpeg -i output1.mp3 -ss 00:00:30 -to 00:00:40 -c copy output.mp3
+```
+ffmpeg -i output1.mp3 -ss 00:00:30 -to 00:00:40 -c copy output.mp3
+```
 
 - FILE CONVERSION:
-        
-        ffmpeg.exe
+```
+ffmpeg.exe
+```
 
 - BATCH CONVERT
-
-        for %a in ("*.webp") do ffmpeg -i "%a" "%~na.png"
-        for %a in ("%CD%\*.webp") do ffmpeg -i "%a" "%CD%\%~na.png"
-        for %a in ("Convert\*.webm") do ffmpeg -i "%a" "Converted\%~na.mp3"
-        for %a in ("Convert\*.webp") do ffmpeg -i "%a" "Converted\%~na.png"
+```
+for %a in ("*.webp") do ffmpeg -i "%a" "%~na.png"
+for %a in ("%CD%\*.webp") do ffmpeg -i "%a" "%CD%\%~na.png"
+for %a in ("Convert\*.webm") do ffmpeg -i "%a" "Converted\%~na.mp3"
+for %a in ("Convert\*.webp") do ffmpeg -i "%a" "Converted\%~na.png"
+```
 
 - COMBINE
-
-        ffmpeg -i "video.mp4" -i "audio.mp3" -map 0:v -map 1:a -c:v copy -c:a copy output.mp4 -y
+```
+ffmpeg -i "video.mp4" -i "audio.mp3" -map 0:v -map 1:a -c:v copy -c:a copy output.mp4 -y
+```
 
 - BATCH COMBINE
-
-        for %a in ("Combine\*.mp4") do ffmpeg -i "Combine\%~na.mp4" -i "Combine\%~na.mp3" -map 0:v -map 1:a -c:v copy -c:a copy "Combined\%~na.mp4" -y
+```
+for %a in ("Combine\*.mp4") do ffmpeg -i "Combine\%~na.mp4" -i "Combine\%~na.mp3" -map 0:v -map 1:a -c:v copy -c:a copy "Combined\%~na.mp4" -y
+```
 
 - DOWNLOAD FROM TXT
-
-        youtube-dl -f best -o "%(autonumber)0Nd-%(title)s.%(ext)s" -a GFLSongs.txt --autonumber-start 63 --add-header ""
+```
+youtube-dl -f best -o "%(autonumber)0Nd-%(title)s.%(ext)s" -a GFLSongs.txt --autonumber-start 63 --add-header ""
+```
 
 Use output template with %(autonumber)0Nd, where N in the number of digits instead.
-
-        youtube-dl -f best -o "%(autonumber)03d-%(title)s.%(ext)s" -a GFLSongs.txt --autonumber-start 66 --add-header "
+```
+youtube-dl -f best -o "%(autonumber)03d-%(title)s.%(ext)s" -a GFLSongs.txt --autonumber-start 66 --add-header "
+```
 </details> 
 
 
@@ -652,12 +678,14 @@ Use output template with %(autonumber)0Nd, where N in the number of digits inste
   <summary>OTHER</summary>
 
 - SUBTITLE COMBINE (NOT WORKING CORRECTLY)
-
-        ffmpeg -i "input.mp4" -i "subtitles.srt" -c:s mov_text -c:v copy -c:a copy output.mp4
+```
+ffmpeg -i "input.mp4" -i "subtitles.srt" -c:s mov_text -c:v copy -c:a copy output.mp4
+```
 
 - BATCH SUBTITLE COMBINE (NOT WORKING CORRECTLY)
-
-        for %a in ("Combine\*.mp4") do ffmpeg -i "Combine\%~na.mp4" -i "Combine\%~na.srt" -c:s mov_text -c:v copy -c:a copy "Combined\%~na.mp4"
+```
+for %a in ("Combine\*.mp4") do ffmpeg -i "Combine\%~na.mp4" -i "Combine\%~na.srt" -c:s mov_text -c:v copy -c:a copy "Combined\%~na.mp4"
+```
 
 So to add auto-numbering, use -A
 
