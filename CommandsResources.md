@@ -333,6 +333,7 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > [YouTube Ad Accelerator & EasySpeed](https://addons.mozilla.org/en-US/firefox/addon/youtube-ad-accelerator/) <br>
 > [Saucenao](https://addons.mozilla.org/en-US/firefox/addon/saucenao/) <br>
 > [Remove YouTube tracking](https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-tracking/) <br>
+> [AHA Music (Music Identifier)](https://www.aha-music.com/identify-songs-music-recognition-online) <br>
 
 > [Feedbro Reader](https://addons.mozilla.org/en-US/firefox/addon/feedbroreader/)<br>
 > [Smart HTTPS](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
