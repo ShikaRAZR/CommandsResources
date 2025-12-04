@@ -264,6 +264,7 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > [New Pipe](https://f-droid.org/en/packages/org.schabi.newpipe/)<br>
 > [Wavelet](https://pittvandewitt.github.io/Wavelet/)<br>
 > [ReDroid Docker Emulator](https://ivonblog.com/en-us/posts/redroid-android-docker/)
+> [Phocid (Music Player)](https://github.com/TJYSunset/Phocid)
 
 ### Applications
 > [ChrisTitusTech-winutil](https://github.com/ChrisTitusTech/winutil)<br>
