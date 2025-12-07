@@ -415,7 +415,8 @@ Zen
 [animepahe.si](https://animepahe.si/)
 [littleweeb](https://littleweeb.github.io/)
 [<s>kickassanime</s>](https://kickassanime.am/)
-[kickassanimemx](www.kickassanime.mx)<br>
+[kickassanimemx](www.kickassanime.mx)
+[kazumi](https://github.com/Predidit/Kazumi)<br>
 > Music [khinsider](https://downloads.khinsider.com/) <br>
 > [Sheet Music agarrado](https://josh.agarrado.net/music/anime/index.php) <br>
 
