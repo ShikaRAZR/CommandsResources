@@ -387,7 +387,8 @@ Zen
   <a href="https://kemono.su/">kemono</a>
   <a href="https://rule34.xyz/">rule34xyz</a>
   <a href="https://rule34video.com/">rule34video</a>
-  mangadex mangalife mangahub
+  <a href="https://rule34.xxx/">rule34.xxx</a>
+  mangadex mangalife mangahub e621
 </details>
 
 > [My Anime List](https://myanimelist.net/)<br>
