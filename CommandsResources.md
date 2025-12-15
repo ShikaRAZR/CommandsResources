@@ -7,9 +7,10 @@ VS Code Settings Markdown > Preview Scroll Editor/Preview with Preview/Editor
 2. [Git Commands](#git-commands)
 3. [Linux Commands & Resources](LinuxCmdRsrc.md)
 4. [ShareX](#sharex)
-5. [General Application Link Stuff](#general-application-link-stuff)
-6. [Youtube-dl](#youtube-dl)
-7. [Emojis](#emojis)
+5. [OBS](#obs)
+6. [General Application Link Stuff](#general-application-link-stuff)
+7. [Youtube-dl](#youtube-dl)
+8. [Emojis](#emojis)
 <br> <br> <br> <br> <br> <br> <br> <br>
 
 
@@ -218,6 +219,37 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 
 
 <span style="font-size:12px"><a href="#top">Back to top</a></span>
+
+
+
+
+
+## OBS 
+
+### Record Settings
+- Recording Format - .mkv (Matroska Video)
+- Video Enconder - AMD HW AV1
+
+### Encoder Settings
+- Rate Control - CQP
+- CQ Level - 25
+> AV1 CQP range is 0 - 255
+
+### Notes
+- EFT (intense pvp recording) with settings above is ~75mb per minute
+
+
+<br> <br> <br> <br> <br> <br> <br> <br>
+
+
+
+
+
+<span style="font-size:12px"><a href="#top">Back to top</a></span>
+
+
+
+
 
 ## General Application Link Stuff
 
