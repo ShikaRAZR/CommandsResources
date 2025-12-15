@@ -231,14 +231,14 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 - Video Enconder - AMD HW AV1
 
 ### Encoder Settings
-- Rate Control - CQP
-- CQ Level - 25
-> AV1 CQP range is 0 - 255
+- Rate Control - VBR
+- Bitrate - 8000 Kbps
+
 
 ### Notes
-- EFT (intense pvp recording) with settings above is ~75mb per minute
-
-
+- Rate Control - CQP, CQ Level - 25, AV1 CQP range is 0 - 255
+- EFT (noncombat recording) with .mkv/AMD HW AV1/CQP Level 25 is ~133mb per minute
+- EFT (noncombat recording) with .mkv/AMD HW AV1/VBR - 8000Kbps is ~66mb per minute
 <br> <br> <br> <br> <br> <br> <br> <br>
 
 
