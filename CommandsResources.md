@@ -1,4 +1,4 @@
-# Commands & Resources
+# Commands & Resources & Configurations
 List of commands and resources that are personally useful for me.
 
 VS Code Settings Markdown > Preview Scroll Editor/Preview with Preview/Editor
@@ -228,7 +228,7 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 
 ### Record Settings
 - Recording Format - .mkv (Matroska Video)
-- Video Enconder - AMD HW AV1
+- Video Encoder - AMD HW AV1
 
 ### Encoder Settings
 - Rate Control - VBR
@@ -332,9 +332,11 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > [WinDirStat](https://windirstat.net/)<br>
 > [PC Benchmark](https://www.userbenchmark.com)<br>
 > [Keyboard Inspector](https://github.com/mat1jaczyyy/Keyboard-Inspector)<br>
+> [OpenRGB](https://openrgb.org/)
 
 > [ffmpeg](https://ffmpeg.org/)<br>
 > [youtube-dl](https://github.com/yt-dlp/yt-dlp)<br>
+> [avidemux](https://avidemux.sourceforge.net/)<br>
 > [mkvtoolnix](https://mkvtoolnix.download/)<br>
 > [Mp3tag](https://www.mp3tag.de/en/)<br>
 > [Image Editor (Lunapic)](https://www12.lunapic.com/editor/?action=transparent)<br>
