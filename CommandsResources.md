@@ -303,6 +303,7 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > Music Player [mpv](https://mpv.io/) [foobar2000](https://www.foobar2000.org/) [fooyin](https://www.fooyin.org/)<br>
 > [vlc](https://www.videolan.org/vlc/)<br>
 > [Zen Browser](https://zen-browser.app/)<br>
+> [Mullvad Browser](https://mullvad.net/en/browser)<br>
 > [FreeTube](https://github.com/FreeTubeApp/FreeTube)<br>
 > [vscodium](https://vscodium.com/)<br>
 > Git - Github<br>
@@ -315,7 +316,6 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > [ReaPlugs](https://www.reaper.fm/reaplugs/) (for OBS/EqualizerAPO) <br>
 > LibreOffice (Document Reader)<br>
 > [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)<br>
-> [Chromium](https://www.chromium.org/getting-involved/download-chromium/)(Not-as-easy steps: Snapshots)<br>
 > [OBS](https://obsproject.com/)<br>
 > [intel-presentmon](https://game.intel.com/us/intel-presentmon/)<br>
 > AMD Software Adrenaline<br>
@@ -343,6 +343,7 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > [LosslessCut](https://github.com/mifi/lossless-cut)<br>
 > [AbiWord](https://github.com/AbiWord/abiword?tab=readme-ov-file) [LaTeX (miktex)](https://www.latex-project.org/get/#tex-distributions)<br>
 
+> [Chromium](https://www.chromium.org/getting-involved/download-chromium/)(Not-as-easy steps: Snapshots)<br>
 > All info ip can get off you https://ipleak.net/<br>
 > [Wireshark](https://www.wireshark.org/)<br>
 > Firefox - Web Browser<br>
