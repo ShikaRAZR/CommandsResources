@@ -378,6 +378,7 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > [Youtube Dislike](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/)<br>
 > [Terms of Service; Didn’t Read](https://addons.mozilla.org/en-US/firefox/addon/terms-of-service-didnt-read/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
 
+> [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) [ppixiv](https://github.com/ppixiv/ppixiv?tab=readme-ov-file)<br>
 > [Link Gopher](https://addons.mozilla.org/en-US/firefox/addon/link-gopher/)  <br>
 > [Guide to Collect Links (like videos)](https://support.jdownloader.org/en/knowledgebase/article/collect-and-download-links-from-unsupported-websites)<br>
 
