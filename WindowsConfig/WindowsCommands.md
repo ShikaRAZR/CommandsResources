@@ -46,9 +46,25 @@ Remove-AppxProvisionedPackage -Online -PackageName {paste full package name here
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Appx\AppxAllUserStore\Deprovisioned\
 ```
 
+
 <br>
 
-## Videos
+
+### Mouse Sensitivity
+Why Gamers are Switching to High DPI
+https://www.youtube.com/watch?v=imYBTj2RXFs
+https://www.reddit.com/r/Winsides/comments/1fu7ly4/is_it_possible_increase_mouse_speed_beyond/
+
+```
+HKEY_CURRENT_USER\Control Panel\Mouse
+```
+> Mouse sensitivity key and set its value to 5
+
+
+
+<br>
+
+### Videos
 
 >  Disable Windows 11 Telemetry, Internet Search, Data Collection, Cortana, etc.<br>
 Tek Syndicate <br>
