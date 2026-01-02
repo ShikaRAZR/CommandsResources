@@ -229,16 +229,19 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 ### Record Settings
 - Recording Format - .mkv (Matroska Video)
 - Video Encoder - AMD HW AV1
+- Audio Encoder - FFmpeg Opus
 
 ### Encoder Settings
 - Rate Control - VBR
-- Bitrate - 8000 Kbps
+- Video Bitrate - 8000 Kbps
+- Audio Bitrate - 160 Kbps
 
 
 ### Notes
 - Rate Control - CQP, CQ Level - 25, AV1 CQP range is 0 - 255
 - EFT (noncombat recording) with .mkv/AMD HW AV1/CQP Level 25 is ~133mb per minute
 - EFT (noncombat recording) with .mkv/AMD HW AV1/VBR - 8000Kbps is ~66mb per minute
+- [Stream Widgets](https://ecard.enter-media.org)
 <br> <br> <br> <br> <br> <br> <br> <br>
 
 
