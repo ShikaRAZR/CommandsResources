@@ -50,6 +50,9 @@ settings.json: "files.eol": "\n" (add)
 <span style="font-size:12px"><a href="#top">Back to top</a></span>
 
 ## Git Commands
+[Cite Code Sources](https://www.reddit.com/r/learnprogramming/comments/2k30yt/how_do_i_properly_citegive_credit_for_code_used/)
+[Git Code Sources](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content)
+
 - Authentication
 ```
 sudo apt update
