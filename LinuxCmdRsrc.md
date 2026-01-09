@@ -465,3 +465,22 @@ renderer: gl
 </details><br>
 
 
+
+<details> 
+  <summary>Disable Middle Mouse Click</summary>
+
+1. Find your mouse ID
+
+        xinput list
+2. Check button mapping (Button 2 is the middle button.) (Output: 1 2 3 4 5 6 7)
+        
+        xinput get-button-map [ID]
+3. Disable middle button
+        
+        xinput set-button-map 9 1 0 3 4 5 6 7
+        xinput set-button-map 12 1 0 3 4 5 6 7
+
+4. This resets after reboot.
+</details><br>
+
+
