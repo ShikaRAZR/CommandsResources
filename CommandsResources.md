@@ -301,8 +301,9 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > [dvd (yt-dlp)](https://f-droid.org/packages/org.yausername.dvd/)<br>
 > [New Pipe](https://f-droid.org/en/packages/org.schabi.newpipe/)<br>
 > [Wavelet](https://pittvandewitt.github.io/Wavelet/)<br>
-> [ReDroid Docker Emulator](https://ivonblog.com/en-us/posts/redroid-android-docker/)
-> [Phocid (Music Player)](https://github.com/TJYSunset/Phocid)
+> [ReDroid Docker Emulator](https://ivonblog.com/en-us/posts/redroid-android-docker/)<br>
+> [Phocid (Music Player)](https://github.com/TJYSunset/Phocid)<br>
+> Video Cutter, PhotoLayers, Youcut, Image Combiner<br>
 
 ### Applications
 > [ChrisTitusTech-winutil](https://github.com/ChrisTitusTech/winutil)<br>
@@ -325,6 +326,7 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > [OBS](https://obsproject.com/)<br>
 > [intel-presentmon](https://game.intel.com/us/intel-presentmon/)<br>
 > AMD Software Adrenaline<br>
+> [chocolatey](https://community.chocolatey.org/)<br>
 
 > cpuz<br>
 > gpuz<br>
@@ -426,10 +428,11 @@ Zen
   <a href="https://nhentai.net/">nhentai</a>
   <a href="https://hanime.tv/">hanime</a>
   <a href="https://www.zerochan.net/">zerochan</a>
-  <a href="https://kemono.su/">kemono</a>
+  <a href="https://kemono.cr">kemono</a>
   <a href="https://rule34.xyz/">rule34xyz</a>
   <a href="https://rule34video.com/">rule34video</a>
   <a href="https://rule34.xxx/">rule34.xxx</a>
+  
   mangadex mangalife mangahub e621
 </details>
 
