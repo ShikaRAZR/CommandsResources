@@ -5,6 +5,12 @@
 
   https://linuxize.com/post/how-to-use-apt-command/
 
+## Verify Linux Mint (Windows)
+
+        certutil -hashfile .\linuxmint-22.3-cinnamon-64bit.iso SHA256
+
+---
+
 <details> 
   <summary>Install Linux Guest Additions</summary>
   <img src="Linux/guestadditions.png" alt="Zorin">
@@ -264,7 +270,48 @@ particularly useful when you want to 'start all over' with an application becaus
   - Add application shortcuts (appimages) - Cinnamon Menu > right click > menu > open menu editor or (just right click menu icon > edit menu)
 </details><br>
 
+<details> 
+  <summary>Linux Mint</summary>
 
+Start
+- System Settings
+- Disks
+- Disk Usage Analyzer
+- Update Manager
+- Extensions
+- Themes
+- Firewall
+
+Panel
+- Mission Center
+- System Monitor
+- Terminal
+- Nemo Folder
+- Zen
+- Software Manager
+- VSCodium
+- Steam
+- Heroic Games Launcher
+
+Installed
+- Proton Plus
+- ProtonUp
+- Git
+- OBS
+- Avidemux (Allow Unverified Flatpack)
+- VLC
+
+Windows
+- Tiling - Maximize instead of tile
+
+Sound
+- Sounds - Tiling and snapping windows (off)
+
+- Personal - Git (Login), Cmdrsrc (Bookmark, Wallpaper)
+- Emergency Mode - Systemctl Default, Exit<br>
+```asdjournalctl -p err --since "20206-01-23" --until "2026-01-24" | less```
+- Install GPU Drivers
+</details><br>
 
 <details> 
   <summary>KVM Qemu VirtManager</summary>
