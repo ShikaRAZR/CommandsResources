@@ -304,6 +304,7 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > [ReDroid Docker Emulator](https://ivonblog.com/en-us/posts/redroid-android-docker/)<br>
 > [Phocid (Music Player)](https://github.com/TJYSunset/Phocid)<br>
 > Video Cutter, PhotoLayers, Youcut, Image Combiner<br>
+> vlc, discord, reddit, twitter, whatsapp, hiragana/katakana pro, Google Drive, pipixiv, sudoku<br>
 
 ### Applications
 > [ChrisTitusTech-winutil](https://github.com/ChrisTitusTech/winutil)<br>

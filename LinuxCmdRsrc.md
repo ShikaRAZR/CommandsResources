@@ -309,7 +309,7 @@ Sound
 
 - Personal - Git (Login), Cmdrsrc (Bookmark, Wallpaper)
 - Emergency Mode - Systemctl Default, Exit<br>
-```asdjournalctl -p err --since "20206-01-23" --until "2026-01-24" | less```
+```journalctl -p err --since "20206-01-23" --until "2026-01-24" | less```
 - Install GPU Drivers
 </details><br>
 
