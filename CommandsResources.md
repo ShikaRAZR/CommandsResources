@@ -331,7 +331,7 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 
 > cpuz<br>
 > gpuz<br>
-> [openhardwaremonitor](https://openhardwaremonitor.org/)
+> [openhardwaremonitor](https://openhardwaremonitor.org/)<br>
 > [Crystaldiskinfo/mark](https://crystalmark.info/en/software/crystaldiskinfo/)<br>
 > iCue<br>
 > [process_lasso](https://bitsum.com/)<br>
