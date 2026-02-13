@@ -377,9 +377,9 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > [Reverse Image Search](https://addons.mozilla.org/en-US/firefox/addon/image-reverse-search/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
 > [Startpage - Private Search Engine](https://www.startpage.com/en/) <br>
 > [YouTube Ad Accelerator & EasySpeed](https://addons.mozilla.org/en-US/firefox/addon/youtube-ad-accelerator/) <br>
-> [Saucenao](https://addons.mozilla.org/en-US/firefox/addon/saucenao/) <br>
 > [Remove YouTube tracking](https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-tracking/) <br>
 > [AHA Music (Music Identifier)](https://www.aha-music.com/identify-songs-music-recognition-online) <br>
+> [Ad Mute](https://addons.mozilla.org/en-US/firefox/addon/ad-mute/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
 
 > [Feedbro Reader](https://addons.mozilla.org/en-US/firefox/addon/feedbroreader/)<br>
 > [Smart HTTPS](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
@@ -388,6 +388,7 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > [Youtube Dislike](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/)<br>
 > [Terms of Service; Didn’t Read](https://addons.mozilla.org/en-US/firefox/addon/terms-of-service-didnt-read/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
 
+> [Saucenao](https://addons.mozilla.org/en-US/firefox/addon/saucenao/) <br>
 > [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) [ppixiv](https://github.com/ppixiv/ppixiv?tab=readme-ov-file)<br>
 > [Link Gopher](https://addons.mozilla.org/en-US/firefox/addon/link-gopher/)  <br>
 > [Guide to Collect Links (like videos)](https://support.jdownloader.org/en/knowledgebase/article/collect-and-download-links-from-unsupported-websites)<br>
