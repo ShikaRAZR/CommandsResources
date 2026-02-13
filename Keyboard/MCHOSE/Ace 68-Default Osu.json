@@ -1,9 +1,16 @@
 {
-  "version": 2,
+  "dataScope": "KeyboardProfile",
+  "type": "keyboard",
+  "version": 3,
   "vendorId": 16868,
   "productId": 8468,
   "productName": "Ace68-I",
-  "exportedAt": 1767314933070,
+  "identity": {
+    "vendorId": 16868,
+    "productId": 8468,
+    "productName": "Ace68-I"
+  },
+  "exportedAt": 1770981733114,
   "data": {
     "userKeys": [
       {
@@ -2302,6 +2309,14 @@
           "brightness": 100,
           "direct": 0,
           "customColorDisabled": 1,
+          "effect": 5
+        },
+        {
+          "hexColor": "#ff0000",
+          "speed": 4,
+          "brightness": 100,
+          "direct": 0,
+          "customColorDisabled": 1,
           "effect": 6
         }
       ],
@@ -2309,26 +2324,6 @@
       "sideLight2": []
     },
     "light": {
-      "config": {
-        "type": 1,
-        "effect": 6,
-        "brightness": 100,
-        "speed": 4,
-        "direct": 0,
-        "customColorDisabled": 1,
-        "colorIndex": 0,
-        "hexColor": "#ff0000",
-        "side_effect": 0,
-        "side_brightness": 50,
-        "side_speed": 2,
-        "sideCustomColorDisabled": 1,
-        "side_hexColor": "#ff0000",
-        "calibrationRgb": {
-          "r": 16,
-          "g": 16,
-          "b": 16
-        }
-      },
       "colors": [
         "#000000",
         "#000000",
@@ -2344,20 +2339,6 @@
         "#000000",
         "#000000",
         "#000000",
-        "#ffffff",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#ffffff",
-        "#ffffff",
-        "#ffffff",
         "#000000",
         "#000000",
         "#000000",
@@ -2385,10 +2366,24 @@
         "#000000",
         "#000000",
         "#000000",
-        "#ffffff",
-        "#ffffff",
-        "#ffffff",
-        "#ffffff",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
         "#000000",
         "#000000",
         "#000000",
@@ -2458,7 +2453,27 @@
         "#000000",
         "#000000",
         "#000000"
-      ]
+      ],
+      "config": {
+        "type": 1,
+        "effect": 5,
+        "brightness": 100,
+        "speed": 4,
+        "direct": 0,
+        "customColorDisabled": 1,
+        "colorIndex": 0,
+        "hexColor": "#ff0000",
+        "side_effect": 0,
+        "side_brightness": 50,
+        "side_speed": 2,
+        "sideCustomColorDisabled": 1,
+        "side_hexColor": "#ff0000",
+        "calibrationRgb": {
+          "r": 16,
+          "g": 16,
+          "b": 16
+        }
+      }
     },
     "triggerTravel": {
       "travelKeys": [
@@ -2681,21 +2696,6 @@
           "keyActuation": 150,
           "pressPrecision": 0,
           "releasePrecision": 0,
-          "rtPress": 4,
-          "rtRelease": 4,
-          "pressDeadzone": 0,
-          "releaseDeadzone": 0,
-          "deadzoneStatus": false
-        },
-        {
-          "switchType": 1,
-          "keyMode": 1,
-          "isolated": 0,
-          "priority": 0,
-          "key_max_length": 4,
-          "keyActuation": 150,
-          "pressPrecision": 0,
-          "releasePrecision": 0,
           "rtPress": 30,
           "rtRelease": 30,
           "pressDeadzone": 0,
@@ -2846,8 +2846,8 @@
           "keyActuation": 150,
           "pressPrecision": 0,
           "releasePrecision": 0,
-          "rtPress": 4,
-          "rtRelease": 4,
+          "rtPress": 30,
+          "rtRelease": 30,
           "pressDeadzone": 0,
           "releaseDeadzone": 0,
           "deadzoneStatus": false
@@ -2861,8 +2861,8 @@
           "keyActuation": 150,
           "pressPrecision": 0,
           "releasePrecision": 0,
-          "rtPress": 4,
-          "rtRelease": 4,
+          "rtPress": 30,
+          "rtRelease": 30,
           "pressDeadzone": 0,
           "releaseDeadzone": 0,
           "deadzoneStatus": false
@@ -2876,8 +2876,23 @@
           "keyActuation": 150,
           "pressPrecision": 0,
           "releasePrecision": 0,
-          "rtPress": 4,
-          "rtRelease": 4,
+          "rtPress": 30,
+          "rtRelease": 30,
+          "pressDeadzone": 0,
+          "releaseDeadzone": 0,
+          "deadzoneStatus": false
+        },
+        {
+          "switchType": 1,
+          "keyMode": 1,
+          "isolated": 0,
+          "priority": 0,
+          "key_max_length": 4,
+          "keyActuation": 150,
+          "pressPrecision": 0,
+          "releasePrecision": 0,
+          "rtPress": 30,
+          "rtRelease": 30,
           "pressDeadzone": 0,
           "releaseDeadzone": 0,
           "deadzoneStatus": false
@@ -4385,59 +4400,7 @@
       ],
       "statusKeys": [
         {
-          "isolated": 4,
-          "deadzoneStatus": false
-        },
-        {
-          "isolated": 4,
-          "deadzoneStatus": false
-        },
-        {
-          "isolated": 4,
-          "deadzoneStatus": false
-        },
-        {
-          "isolated": 4,
-          "deadzoneStatus": false
-        },
-        {
-          "isolated": 4,
-          "deadzoneStatus": false
-        },
-        {
-          "isolated": 4,
-          "deadzoneStatus": false
-        },
-        {
-          "isolated": 4,
-          "deadzoneStatus": false
-        },
-        {
-          "isolated": 4,
-          "deadzoneStatus": false
-        },
-        {
-          "isolated": 4,
-          "deadzoneStatus": false
-        },
-        {
-          "isolated": 4,
-          "deadzoneStatus": false
-        },
-        {
-          "isolated": 4,
-          "deadzoneStatus": false
-        },
-        {
-          "isolated": 4,
-          "deadzoneStatus": false
-        },
-        {
-          "isolated": 4,
-          "deadzoneStatus": false
-        },
-        {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
@@ -4445,43 +4408,7 @@
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
-          "deadzoneStatus": false
-        },
-        {
-          "isolated": 4,
-          "deadzoneStatus": false
-        },
-        {
-          "isolated": 4,
-          "deadzoneStatus": false
-        },
-        {
-          "isolated": 4,
-          "deadzoneStatus": false
-        },
-        {
-          "isolated": 4,
-          "deadzoneStatus": false
-        },
-        {
-          "isolated": 4,
-          "deadzoneStatus": false
-        },
-        {
-          "isolated": 4,
-          "deadzoneStatus": false
-        },
-        {
-          "isolated": 4,
-          "deadzoneStatus": false
-        },
-        {
-          "isolated": 4,
-          "deadzoneStatus": false
-        },
-        {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
@@ -4497,163 +4424,251 @@
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
-          "isolated": 4,
+          "isolated": 6,
+          "deadzoneStatus": false
+        },
+        {
+          "isolated": 6,
+          "deadzoneStatus": false
+        },
+        {
+          "isolated": 6,
+          "deadzoneStatus": false
+        },
+        {
+          "isolated": 6,
+          "deadzoneStatus": false
+        },
+        {
+          "isolated": 6,
+          "deadzoneStatus": false
+        },
+        {
+          "isolated": 6,
+          "deadzoneStatus": false
+        },
+        {
+          "isolated": 6,
+          "deadzoneStatus": false
+        },
+        {
+          "isolated": 6,
+          "deadzoneStatus": false
+        },
+        {
+          "isolated": 6,
+          "deadzoneStatus": false
+        },
+        {
+          "isolated": 6,
+          "deadzoneStatus": false
+        },
+        {
+          "isolated": 0,
+          "deadzoneStatus": false
+        },
+        {
+          "isolated": 6,
+          "deadzoneStatus": false
+        },
+        {
+          "isolated": 6,
+          "deadzoneStatus": false
+        },
+        {
+          "isolated": 0,
+          "deadzoneStatus": false
+        },
+        {
+          "isolated": 6,
+          "deadzoneStatus": false
+        },
+        {
+          "isolated": 6,
+          "deadzoneStatus": false
+        },
+        {
+          "isolated": 6,
+          "deadzoneStatus": false
+        },
+        {
+          "isolated": 6,
+          "deadzoneStatus": false
+        },
+        {
+          "isolated": 6,
+          "deadzoneStatus": false
+        },
+        {
+          "isolated": 6,
+          "deadzoneStatus": false
+        },
+        {
+          "isolated": 6,
+          "deadzoneStatus": false
+        },
+        {
+          "isolated": 6,
+          "deadzoneStatus": false
+        },
+        {
+          "isolated": 6,
           "deadzoneStatus": false
         },
         {
@@ -4909,11 +4924,20 @@
         []
       ]
     },
+    "selectedLightEffect": [
+      "still",
+      ""
+    ],
     "name": "Default Osu",
     "extra": {
       "fw_ver": "109",
       "rffw_ver": "0",
-      "confirmShareFailed": false
+      "confirmShareFailed": false,
+      "identity": {
+        "vendorId": 16868,
+        "productId": 8468,
+        "productName": "Ace68-I"
+      }
     }
   },
   "macros": [
