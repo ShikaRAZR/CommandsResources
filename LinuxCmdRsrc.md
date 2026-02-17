@@ -300,6 +300,7 @@ Installed
 - OBS
 - Avidemux (Allow Unverified Flatpack)
 - VLC
+- Pix
 
 Windows
 - Tiling - Maximize instead of tile
@@ -312,6 +313,18 @@ Sound
 ```journalctl -p err --since "20206-01-23" --until "2026-01-24" | less```<br>
 ```systemctl default```
 - Install GPU Drivers
+
+Scripts
+Keyboard Shortcut Command
+```
+/home/shikarazr/window_screenshot_to_jpg.sh
+```
+.sh script
+```
+#!/bin/bash
+gnome-screenshot -w -f "/home/shikarazr/Downloads/Screenshots/screenshot-$(date +%Y-%m-%d_%H-%M-%S).jpg"
+```
+
 </details><br>
 
 <details> 
