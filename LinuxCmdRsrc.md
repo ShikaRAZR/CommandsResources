@@ -322,7 +322,7 @@ Keyboard Shortcut Command
 .sh script
 ```
 #!/bin/bash
-gnome-screenshot -w -f "/home/shikarazr/Downloads/Screenshots/screenshot-$(date +%Y-%m-%d_%H-%M-%S).jpg"
+gnome-screenshot -w -f "/home/shikarazr/Downloads/Screenshots/Screenshot-$(date +%Y-%m-%d_%H-%M-%S).jpg"
 ```
 
 </details><br>
