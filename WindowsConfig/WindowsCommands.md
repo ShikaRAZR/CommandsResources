@@ -61,6 +61,32 @@ HKEY_CURRENT_USER\Control Panel\Mouse
 > Mouse sensitivity key and set its value to 5
 
 
+<br>
+
+
+### Change DNS
+
+Displays all domain names currently stored in your DNS cache
+/flushdns removes cache, and will have to ask DNS server again
+```
+ipconfig /displaydns
+ipconfig /displaydns | Select-String "Record Name"
+ipconfig /flushdns
+```
+
+https://mullvad.net/en/help/dns-over-https-and-dns-over-tls
+Settings > Network & internet > Wi-Fi/Ethernet > (Hardware Properties, if on wifi) > DNS Server Assignment > Manual
+
+IPv4
+- Preferred DNS
+    - IP Address ```194.242.2.4```
+    - DNS over HTTPS On(manual template) ```https://base.dns.mullvad.net/dns-query```
+- Alternative DNS
+    - IP Address ```194.242.2.2```
+    - DNS over HTTPS On(manual template) ```https://dns.mullvad.net/dns-query```
+
+IPv6
+
 
 <br>
 
