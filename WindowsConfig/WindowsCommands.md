@@ -74,7 +74,7 @@ ipconfig /displaydns | Select-String "Record Name"
 ipconfig /flushdns
 ```
 
-https://mullvad.net/en/help/dns-over-https-and-dns-over-tls
+> https://mullvad.net/en/help/dns-over-https-and-dns-over-tls
 Settings > Network & internet > Wi-Fi/Ethernet > (Hardware Properties, if on wifi) > DNS Server Assignment > Manual
 
 IPv4
@@ -86,7 +86,12 @@ IPv4
     - DNS over HTTPS On(manual template) ```https://dns.mullvad.net/dns-query```
 
 IPv6
-
+- Preferred DNS
+    - IP Address ```2a07:e340::4```
+    - DNS over HTTPS On(manual template) ```https://base.dns.mullvad.net/dns-query```
+- Alternative DNS
+    - IP Address ```2a07:e340::2```
+    - DNS over HTTPS On(manual template) ```https://dns.mullvad.net/dns-query```
 
 <br>
 
