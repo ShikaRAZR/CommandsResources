@@ -380,6 +380,7 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > [Remove YouTube tracking](https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-tracking/) <br>
 > [AHA Music (Music Identifier)](https://www.aha-music.com/identify-songs-music-recognition-online) <br>
 > [Ad Mute](https://addons.mozilla.org/en-US/firefox/addon/ad-mute/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) <br>
+> [User-Agent Switcher and Manager](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
 > [Feedbro Reader](https://addons.mozilla.org/en-US/firefox/addon/feedbroreader/)<br>
 > [Smart HTTPS](https://addons.mozilla.org/en-US/firefox/addon/smart-https-revived/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
