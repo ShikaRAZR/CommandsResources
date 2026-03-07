@@ -5,9 +5,12 @@
 
   https://linuxize.com/post/how-to-use-apt-command/
 
-## Verify Linux Mint (Windows)
+### Verify Linux Mint (Windows)
 
         certutil -hashfile .\linuxmint-22.3-cinnamon-64bit.iso SHA256
+
+### Verify Arch Linux (Windows)
+        Get-FileHash .\archlinux-2026.03.01-x86_64.iso -Algorithm SHA256
 
 ---
 
@@ -324,6 +327,109 @@ Keyboard Shortcut Command
 #!/bin/bash
 gnome-screenshot -w -f "/home/shikarazr/Downloads/Screenshots/Screenshot-$(date +%Y-%m-%d_%H-%M-%S).jpg"
 ```
+
+</details><br>
+
+<details> 
+  <summary>Arch Linux</summary>
+
+Update System (-S sync -y refreshpackagedatabase -u updatepackages)
+```
+sudo pacman -Syu
+```
+
+Install package (After Updating)
+```
+sudo pacman -S firefox
+```
+
+To enable multilib repository, uncomment the multilib section in /etc/pacman.conf
+```
+[multilib]
+Include = /etc/pacman.d/mirrorlist
+```
+
+Install
+- Zen (Flatpak)
+- Mission Center (Flatpak)
+- VSCodium (Flatpak)
+- Obsidian (Flatpak)
+- Steam (multilib)
+- gufw
+
+### GNOME DE 
+
+Pins
+- Settings
+- System Monitor
+- Console
+- Files
+- Disks
+- Disk
+- Usage Analyzer
+- Tweaks
+- Extensions
+- Extension Manager
+- Software
+
+Extensions
+- Apps Menu
+- Dash to Panel
+- Lockscreen Extension
+- Vitals
+- Blur my Shell
+
+### Hyprland ML4W
+
+Configuration
+https://ml4w.com/os/getting-started/overview
+
+After installing on arch, choosing the minimal profile
+```
+bash <(curl -s https://ml4w.com/os/stable) # Stable Release
+```
+After Reboot
+```
+start-hyprland
+```
+WelcomeSettings>DisplayManager>Activate SDDM
+
+https://github.com/mylinuxforwork/hyprland-starter
+
+https://github.com/mylinuxforwork/hyprland-starter
+```
+The following custom key bindings are enabled (can be customized in ~/.config/hypr/hyprland.conf)
+
+    SUPER + RETURN to start terminal
+    SUPER + Q to quit an application
+    SUPER + B to start browser
+    SUPER + M to exit Hyprland
+    SUPER + E to start filemanager
+    SUPER + CTRL + RETURN to start launcher rofi
+    SUPER + T to toggle floating
+    SUPER + F to toggle fullscreen
+    SUPER + 1-9 to switch workspaces
+    more key bindings in ~/.config/hypr/conf/binds.conf
+    SUPER + SHIFT + W to change wallpapers
+    SUPER + CTRL + B to toggle waybar 
+```
+in ~/.config/hypr/keyboard.conf
+```
+sensitivity = -1.0
+```
+Fix cursor flicker (~/.config/hypr/keyboard.conf) (optional, at the bottom)
+```
+cursor:no_hardware_cursors = true
+```
+CTRL+TAB function remove (in ~/.config/hypr/conf/keybindings/defauilt.conf) (optional)
+Add Comment
+```
+# bind = CTRL, Tab, exec...
+```
+
+
+
+
 
 </details><br>
 
