@@ -427,9 +427,9 @@ Add Comment
 # bind = CTRL, Tab, exec...
 ```
 
-
-
-
+### CachyOS
+https://wiki.cachyos.org/
+https://wiki.cachyos.org/installation/installation_prepare/
 
 </details><br>
 
