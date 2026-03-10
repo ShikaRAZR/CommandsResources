@@ -343,6 +343,16 @@ Install package (After Updating)
 sudo pacman -S firefox
 ```
 
+Uninstall package (and no longer used dependencies)
+```
+sudo pacman -Rns firefox
+```
+
+List Orphaned Packages
+```
+sudo pacman -Qrdq
+```
+
 To enable multilib repository, uncomment the multilib section in /etc/pacman.conf
 ```
 [multilib]
@@ -354,8 +364,11 @@ Install
 - Mission Center (Flatpak)
 - VSCodium (Flatpak)
 - Obsidian (Flatpak)
-- Steam (multilib)
+- steam (multilib)
 - gufw
+- gnome-screenshot
+- ProtonPlus (Downloader)
+- ProtonUp-Qt (Downloader/Selector)
 
 ### GNOME DE 
 
@@ -396,7 +409,6 @@ WelcomeSettings>DisplayManager>Activate SDDM
 
 https://github.com/mylinuxforwork/hyprland-starter
 
-https://github.com/mylinuxforwork/hyprland-starter
 ```
 The following custom key bindings are enabled (can be customized in ~/.config/hypr/hyprland.conf)
 
@@ -412,6 +424,9 @@ The following custom key bindings are enabled (can be customized in ~/.config/hy
     more key bindings in ~/.config/hypr/conf/binds.conf
     SUPER + SHIFT + W to change wallpapers
     SUPER + CTRL + B to toggle waybar 
+    SUPER + SHIFT + 1 - move workspace 
+    SUPER + LEFT CLICK - move window 
+    SUPER + RIGHT CLICK - stretch window
 ```
 in ~/.config/hypr/keyboard.conf
 ```
@@ -426,10 +441,13 @@ Add Comment
 ```
 # bind = CTRL, Tab, exec...
 ```
+Change SDDM Wallpaper - Welcome>settings>Display Manager>Copy Wallpaper to SDDM
+Change Important Keybinds - Welcome>Dotfile Settings>System
 
 ### CachyOS
 https://wiki.cachyos.org/
 https://wiki.cachyos.org/installation/installation_prepare/
+https://wiki.cachyos.org/configuration/secure_boot_setup/
 
 </details><br>
 
