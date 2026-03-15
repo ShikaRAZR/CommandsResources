@@ -443,6 +443,7 @@ Add Comment
 ```
 Change SDDM Wallpaper - Welcome>settings>Display Manager>Copy Wallpaper to SDDM
 Change Important Keybinds - Welcome>Dotfile Settings>System
+Change Timeout (in ~/.config/hypr/hypridle.conf) things have to be typed in time order
 
 ### CachyOS
 https://wiki.cachyos.org/
