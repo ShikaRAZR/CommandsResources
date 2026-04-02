@@ -342,7 +342,8 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > [WinDirStat](https://windirstat.net/)<br>
 > [PC Benchmark](https://www.userbenchmark.com)<br>
 > [Keyboard Inspector](https://github.com/mat1jaczyyy/Keyboard-Inspector)<br>
-> [OpenRGB](https://openrgb.org/)
+> [OpenRGB](https://openrgb.org/)<br>
+> [Keyboard Inspector](https://github.com/mat1jaczyyy/Keyboard-Inspector)<br>
 
 > [ffmpeg](https://ffmpeg.org/)<br>
 > [youtube-dl](https://github.com/yt-dlp/yt-dlp)<br>
@@ -368,6 +369,7 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > [WinMerge](https://winmerge.org/) (Compare windows files/folders, differencing merging tool)<br>
 > [Gimp](https://www.gimp.org/)<br>
 > [Oracle Virtual Box](https://www.virtualbox.org/)<br>
+> [qBittorrent](https://www.qbittorrent.org/)<br>
 
 
 
