@@ -61,8 +61,17 @@ gh auth login
 ```
 
 - Force Git to use LF instead of CR+LF CLRF under Windows? [stackoverflowlink](https://stackoverflow.com/questions/2517190/how-do-i-force-git-to-use-lf-instead-of-crlf-under-windows)
+
 ```
 git config --global core.autocrlf false
+```
+
+- Fix git CLRF and permission issue and revert git to last commit
+
+```
+git config core.autocrlf false
+git config core.fileMode false
+git reset --hard
 ```
 
 > Github.com, HTTPS, Paste Authentication Token
@@ -291,7 +300,7 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > [It's FOSS](https://itsfoss.com/)<br>
 > [sysguides](https://sysguides.com/)<br>
 > [Linux Ricing](https://github.com/avtzis/awesome-linux-ricing)<br>
-> [Titus Blog](https://christitus.com/)
+> [Titus Blog](https://christitus.com/)<br>
 
 ### Android
 > [Android FOSS List](https://github.com/offa/android-foss)<br>
@@ -1347,5 +1356,7 @@ Google2SRT
         <img src="Standard Wallpapers/$1">
         <img src="ur cute/$1"> 
 
-</details> 
+<video autoplay muted loop><source src="ur cute/ExtraLarge/147 sad-salute.mp4"></video>
+</details>
+
 
