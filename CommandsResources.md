@@ -274,10 +274,11 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > VSCodium<br>
 > Obsidian (Flatpak)<br>
 > Steam<br>
-> [ufw](https://github.com/jbq/ufw) - firewall [Guide](https://christitus.com/linux-security-mistakes/)<br>
+> [ufw](https://github.com/jbq/ufw) - firewall [Guide](https://christitus.com/linux-security-mistakes/)<br>g
 > ProtonPlus (Downloader)<br>
 > Syncthing<br>
 > easyeffects<br>
+> Mullvad Browser<br>
 
 > gnome-screenshot<br>
 > [Nala](https://github.com/volitank/nala) - apt frontend<br>
