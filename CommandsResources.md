@@ -275,11 +275,11 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > Obsidian (Flatpak)<br>
 > Steam<br>
 > [ufw](https://github.com/jbq/ufw) - firewall [Guide](https://christitus.com/linux-security-mistakes/)<br>
-> gnome-screenshot<br>
 > ProtonPlus (Downloader)<br>
 > Syncthing<br>
-> Pix - Image Editor Viewer<br>
+> easyeffects<br>
 
+> gnome-screenshot<br>
 > [Nala](https://github.com/volitank/nala) - apt frontend<br>
 > htop - Process Viewer<br>
 > Git<br>
@@ -296,6 +296,7 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > [Easytag](https://flathub.org/apps/org.gnome.EasyTAG), [PuddleTag](https://docs.puddletag.net/)<br>
 > [Piper](https://github.com/libratbag/piper) (Mouse Perirpheral Editor)<br>
 > Gimp<br>
+> Pix - Image Editor Viewer<br>
 
 > Weston<br>
 > Waydroid<br>
