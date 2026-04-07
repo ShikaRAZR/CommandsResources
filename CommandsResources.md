@@ -269,18 +269,26 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 ## General Application Link Stuff
 
 ### Linux
+> Zen (Flatpak)<br>
+> Mission Center<br>
+> VSCodium<br>
+> Obsidian (Flatpak)<br>
+> Steam<br>
+> [ufw](https://github.com/jbq/ufw) - firewall [Guide](https://christitus.com/linux-security-mistakes/)<br>
+> gnome-screenshot<br>
+> ProtonPlus (Downloader)<br>
+> Syncthing<br>
+> Pix - Image Editor Viewer<br>
+
 > [Nala](https://github.com/volitank/nala) - apt frontend<br>
 > htop - Process Viewer<br>
 > Git<br>
-> Mission Center<br>
 > Timeshift - OS Backup<br>
 > fdisk, parted, gparted, gnome-disks - Partition Manager<br>
-> [ufw](https://github.com/jbq/ufw) - firewall [Guide](https://christitus.com/linux-security-mistakes/)<br>
 > [Firejail Sandbox](https://github.com/netblue30/firejail)<br>
 > [tldr](https://tldr.sh/) [tealdeer](https://github.com/tealdeer-rs/tealdeer) - simiplified man pages (on website or command line)<br>
 > Hardinfo <br>
 
-> Pix - Image Editor<br>
 > fastfetch [logo](https://github.com/fastfetch-cli/fastfetch/wiki/Logo-options)<br>
 > [Drawing](https://maoschanz.github.io/drawing/) - Image Editor<br>
 > gThumb - Image Viewer<br>
@@ -292,6 +300,7 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > Weston<br>
 > Waydroid<br>
 > Proton Tricks<br>
+> ProtonUp-Qt (Downloader/Selector)git <br>
 > [Windows in a Bottle](https://usebottles.com/)<br>
 > [Heroic Games Launcher](https://heroicgameslauncher.com/)<br>
 > Goverlay (for mangohud config)<br>
