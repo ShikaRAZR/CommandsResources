@@ -320,7 +320,7 @@ https://wiki.cachyos.org/configuration/secure_boot_setup/
     python3 -m venv venv
     venv/bin/pip install -r requirements.txt
     sudo venv/bin/python3 main.py
-> install/run script (~~gapps~~, libhoudini, magisk, smart dock)
+> install/run script (~~gapps~~, libndk, libhoudini, magisk, smartdock)
 
 <br><br>
 ### Granting full permission for apps data (HACK), combat against the apps permission issue on Android 11
@@ -341,6 +341,8 @@ https://wiki.cachyos.org/configuration/secure_boot_setup/
 
 > You can invert colors in Settings > Accessibility > Advanced/Color Inversion 
 
+> Smart Dock > App Menu > Default app launch mode > Fullscreen
+
     waydroid prop set persist.waydroid.width 0-9999 (int)
     waydroid prop set persist.waydroid.height 0-9999 (int)
 > Resolution
@@ -358,6 +360,13 @@ https://wiki.cachyos.org/configuration/secure_boot_setup/
     sudo ufw default reject
     sudo systemctl restart ufw
 > ufw default
+
+    sudo ufw allow in on waydroid0 to any port 67 proto udp
+    sudo ufw allow in on waydroid0 to any port 53
+    sudo ufw route allow in on waydroid0
+    sudo ufw route allow out on waydroid0
+> Allow DHCP and DNS only on the Waydroid bridge
+> Allow routing only for the Waydroid bridge
 </details><br>
 
 
