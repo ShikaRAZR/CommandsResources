@@ -381,7 +381,8 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > [Czkawka Duplicate File Search](https://github.com/qarmin/czkawka?tab=readme-ov-file)<br>
 > Windy Weather Forecast https://www.windy.com<br>
 > [Everything (Fast File Explorer Search)](https://www.voidtools.com/)<br>
-> [Remote Desktop](https://parsec.app/)<br>
+> [Parsec Remote Desktop](https://parsec.app/)<br>
+> [rustdesk Remote Desktop](https://rustdesk.com/)<br>
 > [QEMU](https://www.qemu.org/download/#windows) [GUI](https://qtemu.org/)<br>
 > Anki (Flashcard)<br>
 > [Youtube TV](https://github.com/marcosrg9/YouTubeTV?tab=readme-ov-file)<br>
@@ -483,12 +484,13 @@ Zen
 [mkvshows](https://mkvshows.com/)<br>
 > Stream 
 [<s>aniwave</s>](https://aniwave.to/)
-[<s>animepahe.ru</s>](https://animepahe.ru/)
-[animepahe.si](https://animepahe.si/)
+[animepahe.pw](https://animepahe.pw/)
 [littleweeb](https://littleweeb.github.io/)
 [<s>kickassanime</s>](https://kickassanime.am/)
 [kickassanimemx](www.kickassanime.mx)
-[kazumi](https://github.com/Predidit/Kazumi)<br>
+[kazumi](https://github.com/Predidit/Kazumi)
+[ani-cli](https://github.com/pystardust/ani-cli)
+[aniyomi](https://aniyomi.org/)<br>
 > Music [khinsider](https://downloads.khinsider.com/) <br>
 > [Sheet Music agarrado](https://josh.agarrado.net/music/anime/index.php) <br>
 
