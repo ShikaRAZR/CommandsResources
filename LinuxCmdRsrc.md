@@ -265,6 +265,38 @@ https://wiki.cachyos.org/
 https://wiki.cachyos.org/installation/installation_prepare/
 https://wiki.cachyos.org/configuration/secure_boot_setup/
 
+Favorites
+- CachyOS Hello
+- Shelly
+- Dolphin
+- Info Center
+- Konsole
+- System Settings
+- Btrfs Assistant
+- System Monitor
+- KDE Parition Manager
+
+Installed
+- Mission Center
+- Zen
+- VSCodium
+- Obsidian
+- Steam
+- Proton Plus
+- easyeffects
+- Mullvad Browser
+- Helium
+- Waydroid
+- ani-cli
+- Discord
+- Bazaar
+
+Games
+- Arknights
+- GFL
+- GFL2
+- osu
+
 </details><br>
 
 
@@ -480,6 +512,29 @@ renderer: gl
         xinput set-button-map 12 1 0 3 4 5 6 7
 
 4. This resets after reboot.
+</details><br>
+
+
+<details> 
+  <summary>Moonlight + Sunshine + Tailscale Remote Desktop Config</summary>
+
+https://tailscale.com/
+
+        curl -fsSL https://tailscale.com/install.sh | sh
+> Install tailscale
+
+        sudo tailscale up
+> connect to Tailscale network for the first time with credentials
+
+        sudo tailscale down
+> remove from tailscale network
+
+        sudo systemctl enable tailscaled
+        systemctl --user enable sunshine
+
+        sudo systemctl disable tailscaled
+        systemctl --user disable sunshine
+> Toggle auto-startup
 </details><br>
 
 

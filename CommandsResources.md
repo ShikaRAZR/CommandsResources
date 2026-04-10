@@ -269,10 +269,10 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 ## General Application Link Stuff
 
 ### Linux
-> Zen (Flatpak)<br>
+> Zen<br>
 > Mission Center<br>
 > VSCodium<br>
-> Obsidian (Flatpak)<br>
+> Obsidian<br>
 > Steam<br>
 > [ufw](https://github.com/jbq/ufw) - firewall [Guide](https://christitus.com/linux-security-mistakes/)<br>
 > ProtonPlus (Downloader)<br>
@@ -280,6 +280,8 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > easyeffects<br>
 > Mullvad Browser<br>
 > Shelly<br>
+> Bazaar<br>
+> Vesktop (Discord)<br>
 
 > gnome-screenshot<br>
 > [Nala](https://github.com/volitank/nala) - apt frontend<br>
@@ -384,6 +386,8 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > [Everything (Fast File Explorer Search)](https://www.voidtools.com/)<br>
 > [Parsec Remote Desktop](https://parsec.app/)<br>
 > [rustdesk Remote Desktop](https://rustdesk.com/)<br>
+> [Moonlight (Client) Remote Desktop](https://moonlight-stream.org/) [Sunshine (Host) Remote Desktop](https://app.lizardbyte.dev/Sunshine/?lng=en)<br>
+
 > [QEMU](https://www.qemu.org/download/#windows) [GUI](https://qtemu.org/)<br>
 > Anki (Flashcard)<br>
 > [Youtube TV](https://github.com/marcosrg9/YouTubeTV?tab=readme-ov-file)<br>
