@@ -279,17 +279,17 @@ Favorites
 Installed
 - Mission Center
 - Zen
-- VSCodium
-- Obsidian
-- Steam
-- Proton Plus
-- easyeffects
 - Mullvad Browser
 - Helium
+- VSCodium
+- Obsidian
+- Bazaar
+- easyeffects
+- Steam
+- Proton Plus
 - Waydroid
 - ani-cli
 - Discord
-- Bazaar
 
 Games
 - Arknights
