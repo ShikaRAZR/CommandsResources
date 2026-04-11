@@ -302,6 +302,7 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > [Piper](https://github.com/libratbag/piper) (Mouse Perirpheral Editor)<br>
 > Gimp<br>
 > Pix - Image Editor Viewer<br>
+> CameraCtrl<br>
 
 > Weston<br>
 > Waydroid<br>
