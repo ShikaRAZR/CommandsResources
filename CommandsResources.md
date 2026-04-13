@@ -303,6 +303,7 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > Gimp<br>
 > Pix - Image Editor Viewer<br>
 > CameraCtrl<br>
+> feh (Fast Image Viewer)
 
 > Weston<br>
 > Waydroid<br>
