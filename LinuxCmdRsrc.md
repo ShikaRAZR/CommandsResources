@@ -379,6 +379,10 @@ Games
     waydroid prop set persist.waydroid.height 0-9999 (int)
 > Resolution
 
+    waydroid prop set persist.waydroid.fake_touch "com.sunborn.girlsfrontline.en"
+    waydroid prop set persist.waydroid.fake_touch "com.sunborn.neuralcloud.en"
+    waydroid prop set persist.waydroid.fake_touch "com.YoStarEN.Arknights"
+> fake_touch for certain games
 ### Waydroid Network Requirements
 
     sudo ufw allow 53
