@@ -289,7 +289,12 @@ Installed
 - Proton Plus
 - Waydroid
 - ani-cli
-- Discord
+- Vesktop
+- Avidemux
+- OBS
+- Cameractrls
+- feh (image viewer)
+- winboat
 
 Games
 - Arknights

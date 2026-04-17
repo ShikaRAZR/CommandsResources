@@ -282,8 +282,9 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > Shelly<br>
 > Bazaar<br>
 > Vesktop (Discord)<br>
+> Spectacle
+> Gwenview
 
-> gnome-screenshot<br>
 > [Nala](https://github.com/volitank/nala) - apt frontend<br>
 > htop - Process Viewer<br>
 > Git<br>
@@ -304,6 +305,7 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > Pix - Image Editor Viewer<br>
 > CameraCtrl<br>
 > feh (Fast Image Viewer)
+> gnome-screenshot<br>
 
 > Weston<br>
 > Waydroid<br>
