@@ -5,6 +5,8 @@
 
   https://linuxize.com/post/how-to-use-apt-command/
 
+        stat /
+> Show info/history of root (or other directories/files)
 ### Verify Linux Mint (Windows)
 
         certutil -hashfile .\linuxmint-22.3-cinnamon-64bit.iso SHA256
@@ -12,6 +14,8 @@
 ### Verify Arch Linux (Windows)
         Get-FileHash .\archlinux-2026.03.01-x86_64.iso -Algorithm SHA256
 
+### Verify on Linux
+        sha256sum filename.iso
 ---
 
 <details> 
@@ -543,7 +547,7 @@ https://tailscale.com/
 
         sudo systemctl disable tailscaled
         systemctl --user disable sunshine
-> Toggle auto-startup
+> Toggle auto-startup (sunshine/tailscale)
 </details><br>
 
 
