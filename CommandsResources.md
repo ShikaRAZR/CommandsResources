@@ -277,7 +277,7 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > [ufw](https://github.com/jbq/ufw) - firewall [Guide](https://christitus.com/linux-security-mistakes/)<br>
 > ProtonPlus (Downloader)<br>
 > Syncthing<br>
-> easyeffects<br>
+> easyeffects (lsp-plugins-lv2)<br>
 > Mullvad Browser<br>
 > Shelly<br>
 > Bazaar<br>

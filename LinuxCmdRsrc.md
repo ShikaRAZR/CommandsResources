@@ -87,7 +87,10 @@ particularly useful when you want to 'start all over' with an application becaus
 
  - Blog - https://easylinuxtipsproject.blogspot.com/p/security.html?m=1
 
- - Titus - https://youtu.be/QxNsyrftJ8I?si=cCUl6SgggGp9S0xE
+ - Titus
+   - [The Biggest Linux Security Mistakes](https://www.youtube.com/watch?v=QxNsyrftJ8I)
+   - Securing Your Network: A Comprehensive Guide to Checking and Enhancing Network Security
+     - [Video](https://youtu.be/n7cjd5E_nsc) [Blog](https://christitus.com/check-network-security/)
 
  - General - https://youtu.be/Sa0KqbpLye4?si=eXpyoeV8ZrQd-n5u
 </details><br>
@@ -551,3 +554,12 @@ https://tailscale.com/
 </details><br>
 
 
+<details> 
+  <summary>Syncthing</summary>
+
+        sudo ufw allow syncthing
+> opens the specific ports in your Linux firewall (22000/TCP, 21027/UDP)
+
+        sudo ufw delete allow syncthing
+> delete rule, TURN ON TEMPORARILY, ONLY FOR DISCOVERY
+</details><br>
