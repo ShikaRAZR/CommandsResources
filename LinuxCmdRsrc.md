@@ -563,3 +563,14 @@ https://tailscale.com/
         sudo ufw delete allow syncthing
 > delete rule, TURN ON TEMPORARILY, ONLY FOR DISCOVERY
 </details><br>
+
+
+<details> 
+  <summary>MPV Media Player</summary>
+
+```
+# Sets the initial window size to 1280x720
+geometry=1280x720
+```
+
+</details><br>
