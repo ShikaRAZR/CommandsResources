@@ -325,6 +325,7 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > [Android FOSS List](https://github.com/offa/android-foss)<br>
 > [Aurora Store](https://auroraoss.com/)<br>
 > [Openboard](https://github.com/openboard-team/openboard)<br>
+> [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard)<br>
 > [F-Droid](https://f-droid.org/en/)<br>
 > [dvd (yt-dlp)](https://f-droid.org/packages/org.yausername.dvd/)<br>
 > [New Pipe](https://f-droid.org/en/packages/org.schabi.newpipe/)<br>
