@@ -571,6 +571,7 @@ https://tailscale.com/
 ```
 # Sets the initial window size to 1280x720
 geometry=1280x720
+loop-file=inf
 ```
 
 </details><br>
