@@ -551,6 +551,10 @@ https://tailscale.com/
         sudo systemctl disable tailscaled
         systemctl --user disable sunshine
 > Toggle auto-startup (sunshine/tailscale)
+
+        Optimize mouse for remote desktop instead of games
+        Ctrl + alt + Shift + C
+>Use native mouse cursor 
 </details><br>
 
 
