@@ -406,6 +406,7 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 
 
 ### Web Browser
+Extensions
 > [Popup Blocker](https://addons.mozilla.org/en-US/firefox/addon/popup-blocker/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
 > [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
 > [Reverse Image Search](https://addons.mozilla.org/en-US/firefox/addon/image-reverse-search/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)<br>
@@ -438,6 +439,9 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > [Stylus - CSS editor](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)<br>
 > [Instagram Video Scrubber](https://addons.mozilla.org/en-US/firefox/addon/video-scrubber-for-instagram/)
 
+Web Tools
+> [Speed Test](https://speed.cloudflare.com/) <br>
+> [dCode's Tools List](https://www.dcode.fr/tools-list) <br>
 > [Steamable Video Hosting](https://streamable.com/) <br>
 > https://regexr.com/ <br>
 > [Hue Finder](https://colors.artyclick.com/color-hue-finder) <br>
