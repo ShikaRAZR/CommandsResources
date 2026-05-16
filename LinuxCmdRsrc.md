@@ -648,9 +648,9 @@ exit
 <details> 
   <summary>rclone</summary>
 
-        rclone serve webdav /media/debian/teamgroupssd/_taildrive --addr :8080 --baseurl /razr_taildrive --dir-cache-time 100s --poll-interval 10s --user fileshare --pass filesharepassword
+        rclone serve webdav /media/debianname/teamgroupssd/name_taildrive --addr :8080 --baseurl /name_taildrive --dir-cache-time 100s --poll-interval 10s --user namefileshare --pass namefilesharepassword
 > Initialize Host
 
-        rclone mount :webdav: /home/cachy/taildrive_cachy-bkx3d --webdav-url http://100.84.146.117:8080/taildrive --vfs-cache-mode writes --vfs-read-chunk-size 8M --dir-cache-time 100s --attr-timeout 100s --webdav-user fileshare --webdav-pass $(rclone obscure filesharepassword)
+        rclone mount :webdav: /home/cachyname/name_taildrive_cachy-bkx3d --webdav-url http://100.84.146.117:8080/name_taildrive --vfs-cache-mode writes --vfs-read-chunk-size 12M --dir-cache-time 100s --attr-timeout 100s --webdav-user namefileshare --webdav-pass $(rclone obscure namefilesharepassword)
 > Initialize Client
 </details><br>
