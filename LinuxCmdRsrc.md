@@ -555,6 +555,12 @@ https://tailscale.com/
         Optimize mouse for remote desktop instead of games
         Ctrl + alt + Shift + C
 >Use native mouse cursor 
+
+        sudo tailscale up --ssh
+> Initialize Tailscale SSH
+
+        ssh username@debian-tailscale-ip
+> Connect Tailscale SSH
 </details><br>
 
 
@@ -578,4 +584,73 @@ geometry=1280x720
 loop-file=inf
 ```
 
+</details><br>
+
+<details> 
+  <summary>tmux</summary>
+
+# Basics
+
+New Session
+```
+tmux
+```
+Start a named session (Recommended)
+```
+tmux new -s my_session
+```
+Attach to a specific session
+```
+tmux a -t my_session
+```
+Attach to last session
+```
+tmux a
+```
+
+List Active Session
+```
+tmux ls
+```
+
+Kill a specific session
+```
+tmux kill-session -t my_session
+```
+
+# tmux Keybinds
+Ctrl+B Prefix before any tmux command
+
+Detach From Current Session
+```
+Ctrl + b then D
+```
+
+### Panes
+Split screen horizontally (top/bottom)	
+```
+Ctrl + b then "
+```
+Split screen vertically (left/right)
+```
+Ctrl + b then %
+```
+Switch between panes
+```
+Ctrl + b then Arrow Keys
+```
+Close pane
+```
+exit
+```
+</details><br>
+
+<details> 
+  <summary>rclone</summary>
+
+        rclone serve webdav /media/debian/teamgroupssd/_taildrive --addr :8080 --baseurl /razr_taildrive --dir-cache-time 100s --poll-interval 10s --user fileshare --pass filesharepassword
+> Initialize Host
+
+        rclone mount :webdav: /home/cachy/taildrive_cachy-bkx3d --webdav-url http://100.84.146.117:8080/taildrive --vfs-cache-mode writes --vfs-read-chunk-size 8M --dir-cache-time 100s --attr-timeout 100s --webdav-user fileshare --webdav-pass $(rclone obscure filesharepassword)
+> Initialize Client
 </details><br>
