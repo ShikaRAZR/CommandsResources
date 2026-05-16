@@ -282,11 +282,12 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > Shelly<br>
 > Bazaar<br>
 > Vesktop (Discord)<br>
-> Spectacle
-> Gwenview
+> Spectacle<br>
+> Gwenview<br>
+
 
 > [Nala](https://github.com/volitank/nala) - apt frontend<br>
-> htop - Process Viewer<br>
+> htop, btop - Process Viewer<br>
 > Git<br>
 > Timeshift - OS Backup<br>
 > fdisk, parted, gparted, gnome-disks - Partition Manager<br>
@@ -294,6 +295,9 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > [tldr](https://tldr.sh/) [tealdeer](https://github.com/tealdeer-rs/tealdeer) - simiplified man pages (on website or command line)<br>
 > Hardinfo <br>
 > nethogs (track total network usage) <br>
+> tailscale <br>
+> rclone<br>
+> tmux <br>
 
 > fastfetch [logo](https://github.com/fastfetch-cli/fastfetch/wiki/Logo-options)<br>
 > [Drawing](https://maoschanz.github.io/drawing/) - Image Editor<br>
