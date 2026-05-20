@@ -284,6 +284,7 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > Vesktop (Discord)<br>
 > Spectacle<br>
 > Gwenview<br>
+> fooyin<br>
 
 > [Nala](https://github.com/volitank/nala) - apt frontend<br>
 > htop, btop - Process Viewer<br>
