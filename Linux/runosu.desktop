@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Osu
+Comment=Osu
+Icon=/home/username/Downloads/Applications/osu-icon.png
+Exec=/home/username/Downloads/Applications/osu.AppImage
+Terminal=false
+Categories=Osu;game
+
+
+
