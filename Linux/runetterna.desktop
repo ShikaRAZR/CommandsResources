@@ -1,0 +1,12 @@
+[Desktop Entry]
+# Place file here/home/username/.local/share/applications
+Type=Application
+Name=Etterna
+Comment=Etterna
+Icon=/home/username/Downloads/Applications/etterna-icon.png
+Exec="/run/media/username/ZotacSSD/etterna localsharelinux/Etterna-0.74.4-Linux/Etterna/Etterna"
+Terminal=false
+Categories=Etterna;game
+
+
+
