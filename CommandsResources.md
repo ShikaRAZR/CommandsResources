@@ -43,6 +43,10 @@ settings.json: "files.eol": "\n" (add)
         "files.eol": "\n"
 }
 ```
+File > Preferences > Settings
+```
+"markdown.preview.breaks": true
+```
 <br> <br> <br> <br> <br> <br> <br> <br>
 
 
@@ -342,6 +346,7 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > [Phocid (Music Player)](https://github.com/TJYSunset/Phocid)<br>
 > Video Cutter, PhotoLayers, Youcut, Image Combiner<br>
 > vlc, discord, reddit, twitter, whatsapp, hiragana/katakana pro, Google Drive, pipixiv, sudoku<br>
+> Material Files
 
 ### Applications
 > [ChrisTitusTech-winutil](https://github.com/ChrisTitusTech/winutil)<br>
