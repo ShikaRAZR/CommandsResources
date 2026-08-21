@@ -46,6 +46,7 @@ settings.json: "files.eol": "\n" (add)
 File > Preferences > Settings
 ```
 "markdown.preview.breaks": true
+"editor.detectIndentation": disable
 ```
 <br> <br> <br> <br> <br> <br> <br> <br>
 
@@ -472,6 +473,8 @@ Zen
 > [Calibre - ebook manager](https://calibre-ebook.com/)<br>
 > [Books - Anna’s Archive](https://annas-archive.org/)<br>
 > [Developer Roadmap](https://roadmap.sh/)<br>
+> Monkeytype Speed Test<br>
+> Keybr Typing Speed Test<br>
 
 <details> 
   <summary style="font-weight:bold; font-size:1.3em">Anime</summary>
