@@ -461,10 +461,10 @@ Web Tools
 > [Hue Finder](https://colors.artyclick.com/color-hue-finder) <br>
 > [Color Palettes](https://coolors.co/) <br>
 > [Crinacle Squiglink](https://graph.hangout.audio/iem/5128/) <br>
-
 Zen
 > [Private Mode Highlighting](https://zen-browser.app/mods/58649066-2b6f-4a5b-af6d-c3d21d16fc00/) <br>
-> [Remove Tab X](https://zen-browser.app/mods/1b88a6d1-d931-45e8-b6c3-bfdca2c7e9d6/)
+> [Remove Tab X](https://zen-browser.app/mods/1b88a6d1-d931-45e8-b6c3-bfdca2c7e9d6/) <br>
+> [Audio Voice Remover](https://vocalremover.org/) <br>
 
 ### Personal
 > [Discord History](https://github.com/Tyrrrz/DiscordChatExporter/releases) - [Guide](https://www.swipetips.com/how-to-download-your-chat-history-from-discord/) <br>
