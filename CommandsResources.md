@@ -305,8 +305,9 @@ Screenshot %y-%mo-%d %h%mi%s %pn
 > tmux <br>
 > rmpc (Terminal Music Player) <br>
 > yazi (File Explorer) <br>
-> yt-dlp
-> gallery-dl
+> yt-dlp <br>
+> gallery-dl <br>
+> ani-cli <br>
 
 > fastfetch [logo](https://github.com/fastfetch-cli/fastfetch/wiki/Logo-options)<br>
 > [Drawing](https://maoschanz.github.io/drawing/) - Image Editor<br>
