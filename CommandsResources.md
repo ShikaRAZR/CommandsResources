@@ -524,6 +524,7 @@ Zen
 [ani-cli](https://github.com/pystardust/ani-cli)
 [aniyomi](https://aniyomi.org/)<br>
 > Music [khinsider](https://downloads.khinsider.com/) <br>
+> Sound Voltex [Music](https://oniichan.wtf/help/songs.html) <br>
 > [Sheet Music agarrado](https://josh.agarrado.net/music/anime/index.php) <br>
 
 ### Game Stuff
