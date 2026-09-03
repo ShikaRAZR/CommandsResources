@@ -352,7 +352,9 @@ Games
 
         waydroid session stop
 > stop waydroid
-
+        
+        sudo waydroid logcat
+> waydroid logs
 <br><br>
 ### Waydroid Extras Script
 
