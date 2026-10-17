@@ -282,6 +282,7 @@ Favorites
 - Btrfs Assistant
 - System Monitor
 - KDE Parition Manager
+- Menu Editor
 
 Installed
 - Mission Center
